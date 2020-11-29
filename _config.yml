@@ -1,0 +1,18 @@
+# basic options
+title: Team GRIT blog
+author: Owen McGonagle
+email: mcgonagleo@gmail.com
+description: A few stories from recent Zwift GRIT rides
+twitter_username: mcgonagleo
+github_username:  mcgonago
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+// push it
+
+git add _config.yml
+git commit -m "Initial commit" _config.yml
+git push
+
