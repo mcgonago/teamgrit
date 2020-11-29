@@ -10,9 +10,4 @@ github_username:  mcgonago
 markdown: kramdown
 theme: minima
 
-// push it
-
-git add _config.yml
-git commit -m "Initial commit" _config.yml
-git push
 
