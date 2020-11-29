@@ -1,13 +1,34 @@
 # basic options
 title: Team GRIT blog
 author: Owen McGonagle
+pub_year: 2020
 email: mcgonagleo@gmail.com
-description: A few stories from recent Zwift GRIT rides
+description: "A few stories from recent Zwift GRIT rides"
 twitter_username: mcgonagleo
 github_username:  mcgonago
 
+# add the full url for the github repository
+#repo: "https://github.com/evanwill/go-go-ghpages"
+repo: "https://github.com/mcgonago/teamgrit"
+
+# urls
+# your gh-pages url: https://username.github.io
+#url: https://evanwill.github.io
+url: https://mcgonago.github.io
+
+# your repository name: /repository
+#baseurl: /go-go-ghpages
+baseurl: /teamgrit
+
+# defaults (to simplify front matter)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 
 
