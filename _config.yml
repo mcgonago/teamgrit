@@ -7,6 +7,10 @@ description: "A few stories from recent Zwift GRIT rides"
 twitter_username: mcgonagleo
 github_username:  mcgonago
 
+theme: minima
+plugins:
+  - jekyll-feed
+  
 # add the full url for the github repository
 #repo: "https://github.com/evanwill/go-go-ghpages"
 repo: "https://github.com/mcgonago/teamgrit"
@@ -14,11 +18,11 @@ repo: "https://github.com/mcgonago/teamgrit"
 # urls
 # your gh-pages url: https://username.github.io
 #url: https://evanwill.github.io
-url: https://mcgonago.github.io
+url: "https://mcgonago.github.io"
 
 # your repository name: /repository
 #baseurl: /go-go-ghpages
-baseurl: /teamgrit
+baseurl: "/teamgrit"
 
 # defaults (to simplify front matter)
 defaults:
@@ -28,7 +32,7 @@ defaults:
       layout: default
 
 # Build settings
-markdown: kramdown
-#theme: minima
+# markdown: kramdown
+# theme: minima
 
 
