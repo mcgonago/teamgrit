@@ -31,6 +31,9 @@ defaults:
     values:
       layout: default
 
+# analytics if desired (and use environment variable on build command)
+google_analytics: G-D6CJ2F56T2
+
 # Build settings
 # markdown: kramdown
 # theme: minima
