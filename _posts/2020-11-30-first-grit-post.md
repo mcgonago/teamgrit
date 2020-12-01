@@ -5,9 +5,22 @@ nav: true
 
 Welcome to my first `GRIT Blog` post.
 
-Tomorrow is the All American Bikes Ride presented by GRIT (B)
+**`[UPDATE]`**
 
-Course is `Casse-Pattes` which you can details [here](https://zwiftinsider.com/route/casse-pattes/)
+![](images/discord.png)
+
+`Team GRIT is now using Discord` as its chat and voice platform.
+
+You can download Discord through the iPhone App Store.
+
+Or, from your web browser go [here](https://discord.com/login)
+
+Once in, join the `GRIT - Zwift group` using <https://discord.gg/jTqyBVK> <br><br>
+  
+
+**Tomorrow is the All American Bikes Ride presented by GRIT (B)**
+
+Course is `Casse-Pattes` where you can see details [here](https://zwiftinsider.com/route/casse-pattes/)
 
 The race profile looks like this:
 
