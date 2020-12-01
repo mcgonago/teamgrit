@@ -91,7 +91,7 @@ Once in, join the `GRIT - Zwift group` using <https://discord.gg/jTqyBVK>
 ## **Footnotes**
 
 [<sup>1</sup>](#1) <a class="anchor" id="1"></a> A **`footnote`** until we see him/her on the road<br>
-[<sup>2</sup>](#2) <a class="anchor" id="2"></a> I do follow a few random Pros (keeps us `honest`, or `happy` when we take one Down)
+[<sup>2</sup>](#2) <a class="anchor" id="2"></a> I do follow a few random Pros (keeps us `honest`, or `happy` when we take one Down)<br>
 [<sup>3</sup>](#3) <a class="anchor" id="3"></a> Doper? <br>
 [<sup>4</sup>](#4) <a class="anchor" id="4"></a> Friend (not a ripper) <br>
 
