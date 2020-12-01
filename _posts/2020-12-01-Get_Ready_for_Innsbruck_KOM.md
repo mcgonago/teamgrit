@@ -4,6 +4,8 @@ nav: true
 date: 2020-12-01 00:11:00
 ---
 
+GRIT is now on Discord, go [here](#discord) to see detail below.
+
 Tomorrow is the [GRIT Group Ride - Mountain Route](https://zwiftpower.com/events.php?zid=1289864)
 
 Course is the [Insbrucking KOM (after party)](https://zwiftinsider.com/route/kom-after-party)
@@ -71,7 +73,21 @@ Let's see if any of this changes after tomorrow.
 |   24 | Lucy Bryant                     | Jan 17, 2020 | 204W  | 24:31 |
 |   25 | Shaun Corbin                    | Feb 22, 2020 | 220W  | 25:24 |
 
-Footnotes:
+
+## **Discord**
+
+![](images/discord.png)
+
+`Team GRIT is now using Discord` as its chat and voice platform.
+
+You can download Discord through the iPhone App Store.
+
+Or, from your web browser go [here](https://discord.com/login)
+
+Once in, join the `GRIT - Zwift group` using <https://discord.gg/jTqyBVK>
+  
+
+## **Footnotes**
 
 [<sup>1</sup>](#1) <a class="anchor" id="1"></a> Rippers who will not be a footnote after joining us <br>
 [<sup>2</sup>](#2) <a class="anchor" id="2"></a> Random Pros that for some reason I follow, who we sometimes beat <br>
