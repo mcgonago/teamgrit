@@ -1,6 +1,7 @@
 ---
 title: Smack down on Petit KOM
 nav: true
+date: 2020-12-01 00:10:00
 ---
 
 Thrilla in Manila at `Casse-Pattes` and the `Petit KOM`
