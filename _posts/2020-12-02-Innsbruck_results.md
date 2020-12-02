@@ -28,7 +28,7 @@ Zwift Power was kind enough to fill in the [Sprints & KOMs result page](https://
 **`The ugly`**
 
 - Strava adding (9) seconds to KOM segment time **(will not name names ;))**
-- `Steve Tappan` - see footnote[<sup>5</sup>](#5) - (3) place shift in play
+- `Steve Tappan` - see footnote[<sup>5</sup>](#5)
 - Second half of Innsbruck is `just plain ugly.`
 - JJ and Pep running instead of climbing (`just kidding!!!` NOT) ha ha ha
 - Sub 20:00 is not easy, let alone sub 19:00
@@ -67,18 +67,18 @@ We saw (5) riders achieving a PR today - NICE!
 |    1 | Sepp Kuss[<sup>2</sup>](#2)           | Apr 19, 2020 | 384W     |     15:58 |
 |    2 | Seth G                                | Oct 7, 2020  | 361W     |     18:07 |
 |    3 | Derek Sawyer                          | Jan 18, 2020 | 360W     |     18:23 |
+|    4 | **Steve Tappan [<sup>5</sup>](#5)**   | Dec 2, 2020  | **337W** | **18:30** |
 |    5 | Gabriel Mathisen                      | Sep 2, 2020  | 325W     |     18:32 |
-|    5 | **Lance Anderson [<sup>6</sup>](#6)** | Dec 2, 2020  | **355W** | **18:36** |
-|    4 | **Steve Tappan [<sup>5</sup>](#5)**   | Dec 2, 2020  | **337W** | **18:38** |
-|    6 | tak ina                               | Nov 12, 2020 | 254W     |     18:43 |
-|    7 | Chris Gregory [<sup>4</sup>](#4)      | Sep 6, 2018  | 336W     |     18:48 |
+|    6 | **Lance Anderson [<sup>6</sup>](#6)** | Dec 2, 2020  | **355W** | **18:36** |
+|    7 | tak ina                               | Nov 12, 2020 | 254W     |     18:43 |
+|    8 | Chris Gregory [<sup>4</sup>](#4)      | Sep 6, 2018  | 336W     |     18:48 |
 |    9 | Mark Poirier[<sup>1</sup>](#1)        | Oct 18, 2019 | 327W     |     19:33 |
 |   10 | Paul Hutchins                         | Sep 2, 2020  | 306W     |     19:58 |
 |   11 | Maximilian Weniger                    | Oct 28, 2020 | 354W     |     19:58 |
-|   15 | **Luke Elton**                        | Dec 2, 2020  | **286W** | **20:01** |
-|   14 | **Rob Fullerton**                     | Dec 2, 2020  | **340W** | **20:10** |
-|   15 | **Owen McGonagle**                    | Dec 2, 2020  | **282W** | **20:49** |
-|   13 | Steve Peplinski                       | May 11, 2020 | 318W     |     20:53 |
+|   12 | **Luke Elton**                        | Dec 2, 2020  | **286W** | **20:01** |
+|   13 | **Rob Fullerton**                     | Dec 2, 2020  | **340W** | **20:10** |
+|   14 | **Owen McGonagle**                    | Dec 2, 2020  | **282W** | **20:49** |
+|   15 | Steve Peplinski                       | May 11, 2020 | 318W     |     20:53 |
 |   16 | Andrew Cohen[<sup>1</sup>](#1)        | Jun 29, 2019 | 292W     |     21:27 |
 |   17 | Alan Brannan                          | May 11, 2020 | 282W     |     21:50 |
 |   18 | John Jeffries                         | May 11, 2020 | 268W     |     21:52 |
@@ -90,7 +90,6 @@ We saw (5) riders achieving a PR today - NICE!
 |   24 | Matt Noonan[<sup>4</sup>](#4)         | Nov 3, 2020  | 255W     |     24:03 |
 |   25 | Lucy Bryant                           | Jan 17, 2020 | 204W     |     24:31 |
 |   26 | Shaun Corbin                          | Feb 22, 2020 | 220W     |     25:24 |
-                                                                 
                         
 ## **Discord**
 
@@ -111,7 +110,7 @@ Once in, join the `GRIT - Zwift group` using <https://discord.gg/jTqyBVK>
 [<sup>2</sup>](#2) <a class="anchor" id="2"></a> I do follow a few random Pros (keeps us `honest`, or `happy` when we take one Down)<br>
 [<sup>3</sup>](#3) <a class="anchor" id="3"></a> Doper? <br>
 [<sup>4</sup>](#4) <a class="anchor" id="4"></a> Friend (not a ripper) <br>
-[<sup>5</sup>](#5) <a class="anchor" id="5"></a> **`Steve Tappan`** Strava adds `(9)` seconds to time - if your previous '18:31' is **Stravafied** will update
-[<sup>6</sup>](#6) <a class="anchor" id="6"></a> Someone needs to `get Lance on ZwiftPower` (I got his time+9 from Strava)
+[<sup>5</sup>](#5) <a class="anchor" id="5"></a> **`Steve Tappan`** I updated this GRIT Blog to rightfully deserved **18:30** (Zwift+9)<br>
+[<sup>6</sup>](#6) <a class="anchor" id="6"></a> Someone needs to `get Lance on ZwiftPower` (I got his Zwift+9 from Strava)
 
 
