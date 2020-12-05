@@ -80,37 +80,37 @@ New hill to track - [Jungle Outward Climb](https://www.strava.com/segments/16356
 ![Jungle Outward Climb](images/Jungle_Outward_climb.png)
 
 
-|  # | Name                                | Date         | Power | time |
-|----|-------------------------------------|--------------|-------|------|
-|  1 | **Derek Sawyer**                    | Feb 2, 2019  | 361W  | 4:10 |
-|  2 | James Piccoli                       | Mar 24, 2020 | 480W  | 4:24 |
-|  3 | **Alan Brannan**                    | Aug 13, 2019 | 328W  | 4:35 |
-|  4 | Adam Shutes[<sup>1</sup>](#1)       | Mar 23, 2019 | 324W  | 4:46 |
-|  5 | Sepp Kuss                           | Mar 24, 2020 | 387W  | 4:50 |
-|  6 | **Rob Fullerton**                   | Apr 4, 2019  | 290W  | 4:52 |
-|  7 | Randy Cogill[<sup>1</sup>](#1)      | Jan 30, 2019 | 364W  | 4:53 |
-|  8 | Andrew Cohen[<sup>1</sup>](#1)      | Apr 30, 2019 | 326W  | 4:53 |
-|  9 | **Ben Sisson**                      | Feb 3, 2019  | 282W  | 4:58 |
-| 10 | **Steve Peplinski**                 | Feb 17, 2018 | 317W  | 4:59 |
-| 11 | Ted King                            | Mar 24, 2020 | 420W  | 4:59 |
-| 12 | Tom Danielson                       | Dec 6, 2018  | 266W  | 5:00 |
-| 13 | J P[<sup>1</sup>](#1)               | Feb 2, 2019  | 295W  | 5:05 |
-| 14 | **Steve Tappan**                    | Dec 4, 2020  | 373W  | 5:05 |
-| 15 | **Owen McGonagle**                  | Dec 4, 2020  | 324W  | 5:07 |
-| 16 | **tak ina**                         | Dec 4, 2020  | 277W  | 5:09 |
-| 17 | **Maximilian Weniger**              | Dec 4, 2020  | 386W  | 5:10 |
-| 18 | **John Jeffries**                   | Feb 5, 2019  | 272W  | 5:13 |
-| 19 | **Shaun Corbin**                    | Jan 3, 2019  | 214W  | 5:16 |
-| 20 | **Lance Anderson**                  | May 5, 2019  | 303W  | 5:17 |
-| 21 | Chris Hurst[<sup>1</sup>](#1)       | Jan 4, 2019  | 230W  | 5:23 |
-| 22 | Matt Noonan[<sup>1</sup>](#1)       | Nov 18, 2018 | 251W  | 5:32 |
-| 23 | **Luke Elton**                      | Dec 4, 2020  | 285W  | 5:45 |
-| 24 | **Gabriel Mathisen**                | Sep 10, 2020 | 298W  | 5:50 |
-| 25 | **Seth G**                          | Aug 27, 2020 | 291W  | 6:35 |
-| 26 | Rob Ainslie[<sup>1</sup>](#1)       | Mar 27, 2019 | 193W  | 6:37 |
-| 27 | aaron m[<sup>1</sup>](#1)           | Mar 23, 2020 | 263W  | 7:06 |
-| 28 | Nick Stefanidakis[<sup>1</sup>](#1) | Jan 31, 2018 | 174W  | 7:29 |
-| 29 | Joe Marinilli[<sup>1</sup>](#1)     | --- --, ---- | ---W  | -:-- |
+|  # | Name                                | Date             | Power | time |
+|----|-------------------------------------|------------------|-------|------|
+|  1 |  `Derek Sawyer `                    |   Feb 2, 2019    | 361W  | 4:10 |
+|  2 | James Piccoli                       |   Mar 24, 2020   | 480W  | 4:24 |
+|  3 |  `Alan Brannan `                    |   Aug 13, 2019   | 328W  | 4:35 |
+|  4 | Adam Shutes[<sup>1</sup>](#1)       |   Mar 23, 2019   | 324W  | 4:46 |
+|  5 | Sepp Kuss                           |   Mar 24, 2020   | 387W  | 4:50 |
+|  6 |  `Rob Fullerton `                   |   Apr 4, 2019    | 290W  | 4:52 |
+|  7 | Randy Cogill[<sup>1</sup>](#1)      |   Jan 30, 2019   | 364W  | 4:53 |
+|  8 | Andrew Cohen[<sup>1</sup>](#1)      |   Apr 30, 2019   | 326W  | 4:53 |
+|  9 |  `Ben Sisson `                      |   Feb 3, 2019    | 282W  | 4:58 |
+| 10 |  `Steve Peplinski `                 |   Feb 17, 2018   | 317W  | 4:59 |
+| 11 | Ted King                            |   Mar 24, 2020   | 420W  | 4:59 |
+| 12 | Tom Danielson                       |   Dec 6, 2018    | 266W  | 5:00 |
+| 13 | J P[<sup>1</sup>](#1)               |   Feb 2, 2019    | 295W  | 5:05 |
+| 14 | **Steve Tappan**                    | **Dec 4, 2020**  | 373W  | 5:05 |
+| 15 | **Owen McGonagle**                  | **Dec 4, 2020**  | 324W  | 5:07 |
+| 16 | **tak ina**                         | **Dec 4, 2020**  | 277W  | 5:09 |
+| 17 | **Maximilian Weniger**              | **Dec 4, 2020**  | 386W  | 5:10 |
+| 18 |  `John Jeffries `                   |   Feb 5, 2019    | 272W  | 5:13 |
+| 19 |  `Shaun Corbin `                    |   Jan 3, 2019    | 214W  | 5:16 |
+| 20 |  `Lance Anderson `                  |   May 5, 2019    | 303W  | 5:17 |
+| 21 | Chris Hurst[<sup>1</sup>](#1)       |   Jan 4, 2019    | 230W  | 5:23 |
+| 22 | Matt Noonan[<sup>1</sup>](#1)       |   Nov 18, 2018   | 251W  | 5:32 |
+| 23 | **Luke Elton**                      | **Dec 4, 2020**  | 285W  | 5:45 |
+| 24 |  `Gabriel Mathisen `                |   Sep 10, 2020   | 298W  | 5:50 |
+| 25 |  `Seth G `                          |   Aug 27, 2020   | 291W  | 6:35 |
+| 26 | Rob Ainslie[<sup>1</sup>](#1)       |   Mar 27, 2019   | 193W  | 6:37 |
+| 27 | aaron m[<sup>1</sup>](#1)           |   Mar 23, 2020   | 263W  | 7:06 |
+| 28 | Nick Stefanidakis[<sup>1</sup>](#1) |   Jan 31, 2018   | 174W  | 7:29 |
+| 29 | Joe Marinilli[<sup>1</sup>](#1)     |   --- --, ----   | ---W  | -:-- |
 
 ## **Discord**
 
