@@ -1,7 +1,5 @@
 ---
 title: Innsbruck results
-nav: true
-date: 2020-12-02 00:11:00
 ---
 
 Gentle reminder - GRIT is now on Discord, see detail [below](#discord).

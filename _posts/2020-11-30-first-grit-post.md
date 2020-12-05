@@ -1,6 +1,5 @@
 ---
 title: First GRIT Blog
-nav: true
 ---
 
 Welcome to my first `GRIT Blog` post.

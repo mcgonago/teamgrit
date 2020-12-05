@@ -1,7 +1,5 @@
 ---
 title: Get ready for Innsbruck KOM
-nav: true
-date: 2020-12-01 00:11:00
 ---
 
 GRIT is now on Discord, see detail [below](#discord).
