@@ -37,7 +37,7 @@ They combine the results of `seven` sprints into one page, the `Sprints & KOMs`
 |  0 |   Rider                                  |   time | watts | wpkg |
 |----|------------------------------------------|--------|-------|------|
 |  1 | **Shaun Corbin Nashville (DIRTy GRIT)**  |  9.809 | 815w  | 12.7 |
-|  2 |   Darryl Forbes [DIRT]**                 |  9.843 | 1018w | 13.2 |
+|  2 |   Darryl Forbes [DIRT]                 |  9.843 | 1018w | 13.2 |
 |  3 | **tak ina[JETT]**                        |  9.868 | 683w  | 12.9 |
 |  4 |   Dries Decoster (GFTbe)                 | 10.048 | 1054w | 14.6 |
 |  5 |   Ross Irwin (DIRT)                      | 10.113 | 975w  | 11.0 |
