@@ -68,7 +68,7 @@ KOM **[Tacx T2058.94 2018 World Championship Innsbruck - Main Climb](https://www
 |  3 | Greg Langman         | [HPVC]             | 13/39 | 7/34      |         |        |  73 |
 |  4 | Owen McGonagle       | [GRIT]             | 3/49  | 15/14     |         |        |  63 |
 |  5 | Derek Sawyer         | [Rippers]          | 2/50  |           |         |        |  50 |
-|  6 | Steve Tappan         | (XProTri)          | 5/47  | 20/2      |         |        |  49 |
+|  6 | Steve Tappan         | [GRIT]             | 5/47  | 20/2      |         |        |  49 |
 |  7 | Dominic Giampaolo    | [KRT]              | 4/48  |           |         |        |  48 |
 |  8 | Franz Huber          |                    |       | 2/47      |         |        |  47 |
 |  9 | TREK ITA2402         |                    | 7/45  |           |         |        |  45 |
