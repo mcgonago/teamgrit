@@ -19,13 +19,7 @@ The race profile looks like:
 
 ![Route Description](images/casse-pattes.png)
 
-I am a bit bogged down a the moment (1:19 pm) - but just wanted a quick shout
-out to the **`top XX`** that show up in the ZwiftPower `Primes` list.
-
-I apologize if you did a faster first time up, then beat someone on the
-list below - don't worry, you will see your **Name In Lights (NIL)** later on ...
-
-We hit a **glitch** with quickly getting you the overal `Petit` results.
+We have a **glitch** with quickly getting you the overal `Petit` results.
 
 ZwiftPower unfortunately is **NOT** showing the `Petit` KOM results under
 its `Sprints & KOMs` page (they sometimes do that)
