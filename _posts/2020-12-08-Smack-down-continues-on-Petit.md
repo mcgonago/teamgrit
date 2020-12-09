@@ -97,61 +97,61 @@ So.....
 | 51 | Danny Verlooy                                |                  | 242W  | 6:35 |
 | 52 | Ryan Saranchuk                               |                  | 255W  | 7:16 |
 
-**`GRIT weekly race series results` so far (best 3-out-of-4)
+**`GRIT weekly race series results`** so far (best 3-out-of-4)
 
-|  0 | Rider              | Team             | Petit | Innsbruck | Sprints | Sprints | pts |
-|----|--------------------|------------------|-------|-----------|---------|---------|-----|
-|  1 | Christian Kaldbar  |                  | 1/51  |           |         |         | 51  |
-|  2 | Derek Sawyer       | [Rippers]        | 2/50  |           |         |         | 50  |
-|  3 | Owen McGonagle     | [GRIT]           | 3/49  |           |         |         | 49  |
-|  4 | Dominic Giampaolo  | [KRT]            | 4/48  |           |         |         | 48  |
-|  5 | Steve Tappan       | (XProTri)        | 5/47  |           |         |         | 47  |
-|  6 | tak ina            | [JETT][GRIT]     | 6/46  |           |         |         | 46  |
-|  7 | TREK ITA2402       |                  | 7/45  |           |         |         | 45  |
-|  8 | Oki Banana         |                  | 8/44  |           |         |         | 44  |
-|  9 | Matt You           |                  | 9/43  |           |         |         | 43  |
-| 10 | Rob Fullerton      | [GRIT]           | 10/42 |           |         |         | 42  |
-| 11 | Steve Peplinski    | [GRIT]           | 11/41 |           |         |         | 41  |
-| 12 | Thijs Calu         | BZR              | 12/40 |           |         |         | 40  |
-| 13 | Greg Langman       | [HPVC]           | 13/39 |           |         |         | 39  |
-| 14 | Leonardo Diaz      |                  | 14/38 |           |         |         | 38  |
-| 15 | shinji nishizaki   |                  | 15/37 |           |         |         | 37  |
-| 16 | Brian Lohnes       |                  | 16/36 |           |         |         | 36  |
-| 17 | Davide Comberlato  |                  | 17/35 |           |         |         | 35  |
-| 18 | Carlos Alfaiate    |                  | 18/34 |           |         |         | 34  |
-| 19 | Yukio Bergholdt    |                  | 19/33 |           |         |         | 33  |
-| 20 | Andrew Steel       |                  | 20/32 |           |         |         | 32  |
-| 21 | Chris Hunt         |                  | 21/31 |           |         |         | 31  |
-| 22 | Nuno Torres        | (Secai/Gaiabike) | 22/30 |           |         |         | 30  |
-| 23 | Cycling Fanatic    |                  | 23/29 |           |         |         | 29  |
-| 24 | Daniel Shalkowski  | [DIRT]           | 24/28 |           |         |         | 28  |
-| 25 | Takashi KAWAMOTO   | (YOU CAN)        | 25/27 |           |         |         | 27  |
-| 26 | Craig LeBlanc      | [ATP]            | 26/26 |           |         |         | 26  |
-| 27 | John Jeffries      | {GRIT}           | 27/25 |           |         |         | 25  |
-| 28 | Patrick Marques    | (Secai/Gaiabike) | 28/24 |           |         |         | 24  |
-| 29 | Jim Griffin        | (VZT)            | 29/23 |           |         |         | 23  |
-| 30 | Lance Anderson     |                  | 30/22 |           |         |         | 22  |
-| 31 | Phillip Goulding   | (Fusion CC)      | 31/21 |           |         |         | 21  |
-| 32 | Paul Westergaard   | [Dirt]           | 32/20 |           |         |         | 20  |
-| 33 | Mark Kennerley     |                  | 33/19 |           |         |         | 19  |
-| 34 | Doug Cowperthwaite | [TeamODZ]        | 34/18 |           |         |         | 18  |
-| 35 | Joao Ildefonso     |                  | 35/17 |           |         |         | 17  |
-| 36 | Billy Guilford     |                  | 36/16 |           |         |         | 16  |
-| 37 | Shaun Corbin       | (DIRTy GRIT)     | 37/15 |           |         |         | 15  |
-| 38 | Anthony Heppell    | ( 57)            | 38/14 |           |         |         | 14  |
-| 39 | Philip Morrison    | (BRC Hornets)    | 39/13 |           |         |         | 13  |
-| 40 | Alan Brannan       | [GRIT]           | 40/12 |           |         |         | 12  |
-| 41 | David Butcher      |                  | 41/11 |           |         |         | 11  |
-| 42 | Des Muir           | (Cryo-Gen)       | 42/10 |           |         |         | 10  |
-| 43 | Jose Suarez        |                  | 43/9  |           |         |         |  9  |
-| 44 | Karol Nehring      | [TeamPL]         | 44/8  |           |         |         |  8  |
-| 45 | Mark Robinson      | (MCT)            | 45/7  |           |         |         |  7  |
-| 46 | Brett Mazany       | (Eat DIRT Ocho)  | 46/6  |           |         |         |  6  |
-| 47 | Rob Watkinson      | (ZSUNR)          | 47/5  |           |         |         |  5  |
-| 48 | Alex Hatziyannis   | [CRUZBIKE]       | 48/4  |           |         |         |  4  |
-| 49 | Iain Bailey        |                  | 49/3  |           |         |         |  3  |
-| 50 | Danny Verlooy      |                  | 50/2  |           |         |         |  2  |
-| 51 | Ryan Saranchuk     |                  | 51/1  |           |         |         |  1  |
+|  0 | Rider              | Team             | Petit | Innsbruck | Sprints | Partytime | pts |
+|----|--------------------|------------------|-------|-----------|---------|-----------|-----|
+|  1 | Christian Kaldbar  |                  | 1/51  |           |         |           | 51  |
+|  2 | Derek Sawyer       | [Rippers]        | 2/50  |           |         |           | 50  |
+|  3 | Owen McGonagle     | [GRIT]           | 3/49  |           |         |           | 49  |
+|  4 | Dominic Giampaolo  | [KRT]            | 4/48  |           |         |           | 48  |
+|  5 | Steve Tappan       | (XProTri)        | 5/47  |           |         |           | 47  |
+|  6 | tak ina            | [JETT][GRIT]     | 6/46  |           |         |           | 46  |
+|  7 | TREK ITA2402       |                  | 7/45  |           |         |           | 45  |
+|  8 | Oki Banana         |                  | 8/44  |           |         |           | 44  |
+|  9 | Matt You           |                  | 9/43  |           |         |           | 43  |
+| 10 | Rob Fullerton      | [GRIT]           | 10/42 |           |         |           | 42  |
+| 11 | Steve Peplinski    | [GRIT]           | 11/41 |           |         |           | 41  |
+| 12 | Thijs Calu         | BZR              | 12/40 |           |         |           | 40  |
+| 13 | Greg Langman       | [HPVC]           | 13/39 |           |         |           | 39  |
+| 14 | Leonardo Diaz      |                  | 14/38 |           |         |           | 38  |
+| 15 | shinji nishizaki   |                  | 15/37 |           |         |           | 37  |
+| 16 | Brian Lohnes       |                  | 16/36 |           |         |           | 36  |
+| 17 | Davide Comberlato  |                  | 17/35 |           |         |           | 35  |
+| 18 | Carlos Alfaiate    |                  | 18/34 |           |         |           | 34  |
+| 19 | Yukio Bergholdt    |                  | 19/33 |           |         |           | 33  |
+| 20 | Andrew Steel       |                  | 20/32 |           |         |           | 32  |
+| 21 | Chris Hunt         |                  | 21/31 |           |         |           | 31  |
+| 22 | Nuno Torres        | (Secai/Gaiabike) | 22/30 |           |         |           | 30  |
+| 23 | Cycling Fanatic    |                  | 23/29 |           |         |           | 29  |
+| 24 | Daniel Shalkowski  | [DIRT]           | 24/28 |           |         |           | 28  |
+| 25 | Takashi KAWAMOTO   | (YOU CAN)        | 25/27 |           |         |           | 27  |
+| 26 | Craig LeBlanc      | [ATP]            | 26/26 |           |         |           | 26  |
+| 27 | John Jeffries      | {GRIT}           | 27/25 |           |         |           | 25  |
+| 28 | Patrick Marques    | (Secai/Gaiabike) | 28/24 |           |         |           | 24  |
+| 29 | Jim Griffin        | (VZT)            | 29/23 |           |         |           | 23  |
+| 30 | Lance Anderson     |                  | 30/22 |           |         |           | 22  |
+| 31 | Phillip Goulding   | (Fusion CC)      | 31/21 |           |         |           | 21  |
+| 32 | Paul Westergaard   | [Dirt]           | 32/20 |           |         |           | 20  |
+| 33 | Mark Kennerley     |                  | 33/19 |           |         |           | 19  |
+| 34 | Doug Cowperthwaite | [TeamODZ]        | 34/18 |           |         |           | 18  |
+| 35 | Joao Ildefonso     |                  | 35/17 |           |         |           | 17  |
+| 36 | Billy Guilford     |                  | 36/16 |           |         |           | 16  |
+| 37 | Shaun Corbin       | (DIRTy GRIT)     | 37/15 |           |         |           | 15  |
+| 38 | Anthony Heppell    | ( 57)            | 38/14 |           |         |           | 14  |
+| 39 | Philip Morrison    | (BRC Hornets)    | 39/13 |           |         |           | 13  |
+| 40 | Alan Brannan       | [GRIT]           | 40/12 |           |         |           | 12  |
+| 41 | David Butcher      |                  | 41/11 |           |         |           | 11  |
+| 42 | Des Muir           | (Cryo-Gen)       | 42/10 |           |         |           | 10  |
+| 43 | Jose Suarez        |                  | 43/9  |           |         |           |  9  |
+| 44 | Karol Nehring      | [TeamPL]         | 44/8  |           |         |           |  8  |
+| 45 | Mark Robinson      | (MCT)            | 45/7  |           |         |           |  7  |
+| 46 | Brett Mazany       | (Eat DIRT Ocho)  | 46/6  |           |         |           |  6  |
+| 47 | Rob Watkinson      | (ZSUNR)          | 47/5  |           |         |           |  5  |
+| 48 | Alex Hatziyannis   | [CRUZBIKE]       | 48/4  |           |         |           |  4  |
+| 49 | Iain Bailey        |                  | 49/3  |           |         |           |  3  |
+| 50 | Danny Verlooy      |                  | 50/2  |           |         |           |  2  |
+| 51 | Ryan Saranchuk     |                  | 51/1  |           |         |           |  1  |
                                                                       
                                                        
 **Did not get these rider times from Strava**          
