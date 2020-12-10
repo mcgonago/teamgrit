@@ -169,8 +169,8 @@ They combine the results of `seven` sprints into one page, the `Sprints & KOMs`
 
 ## **Footnotes**
 
-[<sup>1</sup>](#1) <a class="anchor" id="1"></a> 
-- Points Algorithm is ((total_in_race - your_place) * (total_of_any_race / your_place)
+GRIT weekly race series points algorithm[<sup>1</sup>](#1) <a class="anchor" id="1"></a> 
+- Algorithm is ((total_in_race - your_place) * (total_of_any_race / your_place)
 - Example - Innsbruck had *21* riders, Petit *52*
 - First on Innsbruck = ((22 - 1) * (52 / 22)) = 49 (instead of just 21)
 - Fifteenth on Innsbruck = ((22 - 15) * (52 / 22)) = 14 (instead of just (22 - 15) = 7)
