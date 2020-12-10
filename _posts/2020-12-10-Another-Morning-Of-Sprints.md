@@ -30,6 +30,7 @@ They combine the results of `seven` sprints into one page, the `Sprints & KOMs`
 
 **`The ugly`**
 - where, oh where, did `Mr. Steven Tappan` go? Broken Kickr?
+- reminder - points are now **weighted**[<sup>1</sup>](#1)
 
 **This morning's Results**
                                                              
@@ -165,3 +166,11 @@ They combine the results of `seven` sprints into one page, the `Sprints & KOMs`
 | 89 | Danny Verlooy          | -                  | 50/2  | 0/0       | 0/0     | 0/0   |   2 |
 | 90 | Lars Rathje            | DBR                | 0/0   | 0/0       | 33/1    | 33/1  |   1 |
 | 91 | Ryan Saranchuk         | -                  | 51/1  | 0/0       | 0/0     | 0/0   |   1 |
+
+## **Footnotes**
+
+[<sup>1</sup>](#1) <a class="anchor" id="1"></a> 
+- Points Algorithm is ((total_in_race - your_place) * (total_of_any_race / your_place)
+- Example - Innsbruck had *21* riders, Petit *52*
+- First on Innsbruck = ((22 - 1) * (52 / 22)) = 49 (instead of just 21)
+- Fifteenth on Innsbruck = ((22 - 15) * (52 / 22)) = 14 (instead of just (22 - 15) = 7)
