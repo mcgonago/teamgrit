@@ -9,7 +9,7 @@ How much fun was that?
 
 Zwift Jungle Circuit route details [here](https://zwiftinsider.com/route/jungle-circuit)
 
-Four laps around the Zwift Jungle Circuit
+Three laps around the Zwift Jungle Circuit
 
 ![Jungle Loop](../../12/04/images/Jungle_loop.png) <br><br>
 
