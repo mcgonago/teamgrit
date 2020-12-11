@@ -20,7 +20,7 @@ Four laps around the Zwift Jungle Circuit
 
 |   # |    name                   | team               | pts |
 |-----|---------------------------|--------------------|-----|
-|   1 |  **tak ina**              | [JETT][GRIT]       | 101 |
+|   1 |  **tak ina**              | [JETT][GRIT]       | 101[<sup>1</sup>](#1) <br> |
 |   2 |  **Owen McGonagle**       | [GRIT]             | 101 |
 |   3 |  **Christian Kaldbar**    |                    | 100 |
 |   4 |    Rob Fullerton          | [GRIT]             |  96 |
@@ -46,6 +46,7 @@ Four laps around the Zwift Jungle Circuit
 
 **`The ugly`**
 
+- Tie breaker goes down to best **3-out-of-4** which `Tak Ina` took **146/142**[<sup>1</sup>](#1) <br>
 - `ONLY` **24** of the **50+** are registered ZwiftPower riders
 - If you are `NOT` on ZwiftPower (Lance, ...), you are not included in the **GRIT Racing Series** results
 - Torn between using `2-of-4` results or `3-of-4`
@@ -205,3 +206,7 @@ GRIT weekly race series points algorithm[<sup>1</sup>](#1) <a class="anchor" id=
 - **BONUS** points
 - **5** points bonus for doing **(3)** rides
 - **10** points bonus for doing all **(4)** rides
+
+Tie breaker[<sup>1</sup>](#2) <a class="anchor" id="2"></a>
+- Tie breaker goes down to best **3-out-of-4** which `Tak Ina` took **146/142**
+
