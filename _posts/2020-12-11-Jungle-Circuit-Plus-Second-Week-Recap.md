@@ -49,7 +49,7 @@ Three laps around the Zwift Jungle Circuit
 - `ONLY` **24** of the **50+** are registered ZwiftPower riders
 - If you are `NOT` on ZwiftPower (Lance, ...), you are not included in the **GRIT Racing Series** results
 - Torn between using `2-of-4` results or `3-of-4`
-- Sticking with `3-of-4` - increases potential of riders making **Top 10**
+- Sticking with `2-of-4` - increases potential of riders making **Top 10**
 - Reminder - points are now **weighted** and have a nice **BONUS plan**[<sup>1</sup>](#1) <br>
 
 `Partytime` finish-line results from [`ZwiftPower`](https://zwiftpower.com/events.php?zid=1327847)
