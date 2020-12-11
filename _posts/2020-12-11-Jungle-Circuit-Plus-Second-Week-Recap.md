@@ -37,7 +37,7 @@ Three laps around the Zwift Jungle Circuit
 **`The good`**
 
 - **50+** riders
-- `40` ZwiftPower participants - close to `100` on the ride
+- `24` ZwiftPower participants - close to `50` on the ride
 - Another `Five` solid GRIT rides this week!
 
 **`The bad`**
