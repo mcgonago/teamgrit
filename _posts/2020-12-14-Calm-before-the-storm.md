@@ -6,12 +6,12 @@ A and B groups remained fairly tame **today** on the [GRIT - Yorkshire Ride](htt
 
 We rode the [Royal Pump Room 8](https://zwiftinsider.com/yorkshire) course
 
-Nice little profile
-
-![](images/royal_pump_room.png)
-
 GRIT Monday's will be `chill rides` most of the time - in preperation for the mayhem
 that will ensue on tomorrows [All American Bikes Ride presented by GRIT](https://zwiftpower.com/events.php?zid=1347565)
+
+This was **today's** profile
+
+![](images/royal_pump_room.png)
 
 Tomorrow is `2x` up the [Volcano Climb](https://zwiftinsider.com/route/volcano-climb/)
 
