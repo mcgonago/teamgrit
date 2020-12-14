@@ -20,27 +20,14 @@ Tomorrow is `2x` up the [Volcano Climb](https://zwiftinsider.com/route/volcano-c
 - `First time` up is easy
    - study where the slope ramps
    - get familiar with the many false flats that guide you to the top.
-
 - `Second time` is for all the **GRIT Glory**
+- **GRIT Race Series** points are up for grabs!!!
 
-`Here are some results from the last time we did this as part of the AA ride - July 7, 2020`
+ **`Volcano KOM`** profile and [results](https://www.strava.com/segments/14270131)
 
-|  # | Rider                      | Team                 |  time | watt | wpkg |
-|----|----------------------------|----------------------|-------|------|------|
-|  1 | Sam Starbuck               |                      | 06:48 |  377 |  5.4 |
-|  2 | Paul Hutchins              | GRIT                 | 06:50 |  339 |  5.1 |
-|  3 | rin chan                   |                      | 06:51 |  287 |  4.9 |
-|  4 | Rob Fullerton              | GRIT                 | 06:51 |  376 |  4.9 |
-|  5 | Jeff Manley                |                      | 06:52 |  303 |  4.9 |
-|  6 | Dax Nelson                 | ¡DUX! TPA-FLA HERD   | 07:38 |  358 |  4.2 |
-|  7 | Owen McGonagle             | GRIT                 | 07:53 |  288 |  4.2 |
-|  8 | John Jeffries              | [AA Bikes][GRIT]     | 08:14 |  258 |  3.8 |
-|  9 | Olivier Lair               | (RCBT Thunderstruck) | 08:14 |  270 |  3.8 |
-| 10 | Nuno Pinto                 | TugaZ                | 08:14 |  269 |  3.8 |
-| 11 | Choshu Miyagi              | -                    | 08:41 |  207 |  3.8 |
-| 12 | Chuck McGee                | -                    | 09:03 |  290 |  3.4 |
+![](images/volcano_kom_zwift_insider_verified.png)
 
-**What is more important** is who will get a **`PR`** tomorrow
+**Who** will get a **`PR`** tomorrow?
 
 |  0 | Rider                             | Date         | watts |   PR |
 |----+-----------------------------------+--------------+-------+------|
