@@ -43,7 +43,7 @@ Tomorrow is `2x` up the [Volcano Climb](https://zwiftinsider.com/route/volcano-c
 **What is more important** is who will get a **`PR`** tomorrow
 
 |  0 | Rider                             | Date         | watts |   PR |
-|----|-----------------------------------|--------------|-------|------|
+|----+-----------------------------------+--------------+-------+------|
 |  1 | James Piccoli[<sup>[1]</sup>](#1) | Apr 22, 2020 | 423W  | 5:49 |
 |  2 | Sepp Kuss[<sup>[1]</sup>](#1)     | Apr 7, 2020  | 395W  | 6:06 |
 |  3 | Lance Anderson                    | Oct 3, 2020  | 407W  | 6:20 |
@@ -62,8 +62,7 @@ Tomorrow is `2x` up the [Volcano Climb](https://zwiftinsider.com/route/volcano-c
 | 16 | John Jeffries                     | Apr 18, 2020 | 282W  | 7:24 |
 | 17 | Shaun Corbin                      | Dec 31, 2019 | 273W  | 7:29 |
 | 18 | Ben Sisson                        | Aug 2, 2020  | 339W  | 7:38 |
-| 19 | Aaron Cole                        | Dec 3, 2017  | 317W  | 7:51 |
-| 20 | Tom Danielson[<sup>[2]</sup>](#2) | Mar 27, 2020 | 249W  | 7:53 |
+| 19 | Tom Danielson[<sup>[2]</sup>](#2) | Mar 27, 2020 | 249W  | 7:53 |
                                                               
 ## **Footnotes**                                              
                                                               
