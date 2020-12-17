@@ -9,7 +9,7 @@ nav: true
 |----+------------------------------------+------------------+---------+---------+-----|
 |  1 | Lance Anderson[<sup>[2]</sup>](#2) | GRIT             | 1/60    | 3/56    | 116 |
 |  2 | Owen McGonagle[<sup>[1]</sup>](#1) | GRIT             | 9/52    | 4/54    | 106 |
-|  3 | Gabriel Mathisen                   | VEGAN            | 2/59    | 10/45   | 104 |
+|  3 | Gabriel Mathisen                   | [VEGAN][GRIT]    | 2/59    | 10/45   | 104 |
 |  4 | Tak Ina                            | JETT             | 13/48   | 5/53    | 101 |
 |  5 | Steve Peplinski                    | GRIT             | 12/49   | 6/51    | 100 |
 |  6 | Shaun Corbin Nashville             | DIRT             | 27/34   | 2/57    |  91 |
@@ -85,7 +85,7 @@ heading into tomorrow.
 |  5 | Jason Bretz            | DIRT                  | 10.176 | 732   |  9.2 |
 |  6 | Thomas Fraser          | Royal Navy Cycling    | 10.178 | 847   | 11.3 |
 |  7 | ALESSIO LEO            | CICLI STEFANELLI      | 10.194 | 929   | 10.7 |
-|  8 | Gabriel Mathisen       | VEGAN                 | 10.235 | 762   | 12.3 |
+|  8 | Gabriel Mathisen       | [VEGAN][GRIT]         | 10.235 | 762   | 12.3 |
 |  9 | Carson Shedd           | DIRT                  | 10.280 | 771   | 11.2 |
 | 10 | Rob Fullerton          | GRIT                  | 10.285 | 981   | 12.7 |
 | 11 | Peter J                |                       | 10.300 | 625   |  9.6 |
@@ -122,7 +122,7 @@ heading into tomorrow.
 |----+----------------------------+--------------------------+---------+---------+-----|
 |  1 | Lance Anderson             | GRIT                     | 1/60    | 3/56    | 116 |
 |  2 | Owen McGonagle             | GRIT                     | 9/52    | 4/54    | 106 |
-|  3 | Gabriel Mathisen           | VEGAN                    | 2/59    | 10/45   | 104 |
+|  3 | Gabriel Mathisen           | [VEGAN][GRIT]            | 2/59    | 10/45   | 104 |
 |  4 | Tak Ina                    | JETT                     | 13/48   | 5/53    | 101 |
 |  5 | Steve Peplinski            | GRIT                     | 12/49   | 6/51    | 100 |
 |  6 | Shaun Corbin Nashville     | DIRT                     | 27/34   | 2/57    |  91 |
