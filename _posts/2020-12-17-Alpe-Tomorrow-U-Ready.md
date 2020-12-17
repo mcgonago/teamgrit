@@ -5,18 +5,21 @@ nav: true
 
 **Top 10 GRIT point series** heading into the Alpe
 
-|  0 | name                               | team            | Volcano | Sprints | pts |
-|----+------------------------------------+-----------------+---------+---------+-----|
-|  1 | Lance Anderson[<sup>[2]</sup>](#2) | GRIT            | 1/60    | 3/56    | 116 |
-|  2 | Owen McGonagle[<sup>[1]</sup>](#1) | GRIT            | 9/52    | 4/54    | 106 |
-|  3 | Gabriel Mathisen                   | VEGAN           | 2/59    | 10/45   | 104 |
-|  4 | Tak Ina                            | JETT            | 13/48   | 5/53    | 101 |
-|  5 | Steve Peplinski                    | GRIT            | 12/49   | 6/51    | 100 |
-|  6 | Shaun Corbin Nashville             | DIRT            | 27/34   | 2/57    |  91 |
-|  7 | Steve Tappan                       | GRIT            | 7/54    | 16/36   |  90 |
-|  8 | Rob Fullerton                      | GRIT            | 14/47   | 12/42   |  89 |
-|  9 | Greg Langman                       | DIRT            | 18/43   | 15/38   |  81 |
-| 10 | Derek Sawyer                       | [GRIT][Rippers] | 4/57    | 24/24   |  81 |
+|  0 | name                               | team             | Volcano | Sprints | pts |
+|----+------------------------------------+------------------+---------+---------+-----|
+|  1 | Lance Anderson[<sup>[2]</sup>](#2) | GRIT             | 1/60    | 3/56    | 116 |
+|  2 | Owen McGonagle[<sup>[1]</sup>](#1) | GRIT             | 9/52    | 4/54    | 106 |
+|  3 | Gabriel Mathisen                   | VEGAN            | 2/59    | 10/45   | 104 |
+|  4 | Tak Ina                            | JETT             | 13/48   | 5/53    | 101 |
+|  5 | Steve Peplinski                    | GRIT             | 12/49   | 6/51    | 100 |
+|  6 | Shaun Corbin Nashville             | DIRT             | 27/34   | 2/57    |  91 |
+|  7 | Steve Tappan                       | GRIT             | 7/54    | 16/36   |  90 |
+|  8 | Rob Fullerton                      | GRIT             | 14/47   | 12/42   |  89 |
+|  9 | Greg Langman                       | DIRT             | 18/43   | 15/38   |  81 |
+| 10 | Derek Sawyer                       | [GRIT][Rippers]  | 4/57    | 24/24   |  81 |
+| 23 | Alan Brannan                       | GRIT             | 23/38   | 35/7    |  45 |
+| 40 | John Jeffries                      | [AA Bikes][GRIT] | 39/22   | 33/10   |  32 |
+
 
 Today was a feisty day Sprinting with friends in London at [Tempo(ish) Thursday presented by GRIT](https://zwiftpower.com/events.php?zid=1356501)
 
