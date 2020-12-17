@@ -74,47 +74,47 @@ heading into tomorrow.
 
 **Sprint results**[<sup>[1]</sup>](#1)
 
-|  # | Name                   | Team                  |   time | watts | wpkg |
+|  0 | Name                   | Team                  |   time | watts | wpkg |
 |----+------------------------+-----------------------+--------+-------+------|
-|  1 | Darryl Forbes          | DIRT                  |  9.543 | 1032  | 13.4 |
-|  1 | Shaun Corbin Nashville | DIRT                  |  9.600 |       |      |
-|  1 | Lance Anderson         | GRIT                  |  9.777 |       |      |
-|  2 | Owen McGonagle         | GRIT                  |  9.943 | 748   | 11.3 |
-|  3 | tak ina                | JETT  GRIT            | 10.022 | 687   | 12.7 |
-|  4 | Steve Peplinski        | GRIT                  | 10.034 | 948   | 12.3 |
-|  5 | Jason Bretz            | DIRT                  | 10.176 | 732   |  9.2 |
-|  6 | Thomas Fraser          | Royal Navy Cycling    | 10.178 | 847   | 11.3 |
-|  7 | ALESSIO LEO            | CICLI STEFANELLI      | 10.194 | 929   | 10.7 |
-|  8 | Gabriel Mathisen       | [VEGAN][GRIT]         | 10.235 | 762   | 12.3 |
-|  9 | Carson Shedd           | DIRT                  | 10.280 | 771   | 11.2 |
-| 10 | Rob Fullerton          | GRIT                  | 10.285 | 981   | 12.7 |
-| 11 | Peter J                |                       | 10.300 | 625   |  9.6 |
-| 12 | Leo Leo Diaz           |                       | 10.308 | 840   | 11.4 |
-| 13 | Greg Langman           | DIRT                  | 10.433 | 943   | 13.3 |
-| 14 | Steve Tappan           | GRIT                  | 10.443 | 746   | 11.0 |
-| 15 | Sergei Melnikov        | UTT                   | 10.505 | 722   | 11.5 |
-| 16 | Guillaume Lafleur      | leMÉTIER.             | 10.506 | 767   |  9.8 |
-| 17 | Daisuke Saika          | (WCU)                 | 10.641 | 783   | 13.3 |
-| 18 | Bart Keizer            | BRT                   | 10.662 | 745   | 11.3 |
-| 19 | Ped Fesh               |                       | 10.687 | 839   | 10.0 |
-| 20 | Amir Nazari SCK        | (IR)                  | 10.701 | 733   |  9.8 |
-| 21 | Justin Brooke          |                       | 10.751 | 788   | 11.4 |
-| 22 | Derek Sawyer           | [GRIT][Rippers]       | 10.789 | 770   | 10.3 |
-| 23 | Pete C                 |                       | 10.793 | 689   | 10.0 |
-| 24 | Craig... .S Velo       | Sheppey Velo          | 10.873 | 641   |  7.4 |
-| 25 | Jonathan Michelsen     | nbck                  | 10.898 | 718   | 11.0 |
-| 26 | N. YuYu                | [TRC]                 | 11.065 | 568   |  8.5 |
-| 27 | Franco Battiato        | Team Z TAZ            | 11.211 | 682   | 10.0 |
-| 28 | Thomas Spence          |                       | 11.225 | 845   | 11.7 |
-| 29 | conrad moss            | Velopower PC, P-TK RT | 11.242 | 638   |  8.9 |
-| 30 | Kelly Toth CRCA / NYCC | CRCA/NYCC             | 11.260 | 798   |  9.9 |
-| 31 | John Jeffries          | [AA Bikes][GRIT]      | 11.344 | 551   |  8.3 |
-| 32 | Rob McKechney          |                       | 11.349 | 575   |  8.1 |
-| 33 | Alan Brannan           | GRIT                  | 11.421 | 675   |  9.5 |
-| 34 | A NakaoJPN             |                       | 11.609 | 460   |  7.1 |
-| 35 | Calum Scott            | DIRT                  | 11.610 | 564   |  7.9 |
-| 36 | Ray Diaz               |                       | 12.427 | 330   |  4.0 |
-| 37 | Oleg Semeko            | Veter.cc              | 13.006 | 247   |  3.3 |
+|  1 | Darryl Forbes          | DIRT                  |  9.543 |  1032 | 13.4 |
+|  2 | Shaun Corbin Nashville | DIRT                  |  9.600 |       |      |
+|  3 | Lance Anderson         | GRIT                  |  9.777 |       |      |
+|  4 | Owen McGonagle         | GRIT                  |  9.943 |   748 | 11.3 |
+|  5 | tak ina                | JETT  GRIT            | 10.022 |   687 | 12.7 |
+|  6 | Steve Peplinski        | GRIT                  | 10.034 |   948 | 12.3 |
+|  7 | Jason Bretz            | DIRT                  | 10.176 |   732 |  9.2 |
+|  8 | Thomas Fraser          | Royal Navy Cycling    | 10.178 |   847 | 11.3 |
+|  9 | ALESSIO LEO            | CICLI STEFANELLI      | 10.194 |   929 | 10.7 |
+| 10 | Gabriel Mathisen       | [VEGAN][GRIT]         | 10.235 |   762 | 12.3 |
+| 11 | Carson Shedd           | DIRT                  | 10.280 |   771 | 11.2 |
+| 12 | Rob Fullerton          | GRIT                  | 10.285 |   981 | 12.7 |
+| 13 | Peter J                |                       | 10.300 |   625 |  9.6 |
+| 14 | Leo Leo Diaz           |                       | 10.308 |   840 | 11.4 |
+| 15 | Greg Langman           | DIRT                  | 10.433 |   943 | 13.3 |
+| 16 | Steve Tappan           | GRIT                  | 10.443 |   746 | 11.0 |
+| 17 | Sergei Melnikov        | UTT                   | 10.505 |   722 | 11.5 |
+| 18 | Guillaume Lafleur      | leMÉTIER.             | 10.506 |   767 |  9.8 |
+| 19 | Daisuke Saika          | (WCU)                 | 10.641 |   783 | 13.3 |
+| 20 | Bart Keizer            | BRT                   | 10.662 |   745 | 11.3 |
+| 21 | Ped Fesh               |                       | 10.687 |   839 | 10.0 |
+| 22 | Amir Nazari SCK        | (IR)                  | 10.701 |   733 |  9.8 |
+| 23 | Justin Brooke          |                       | 10.751 |   788 | 11.4 |
+| 24 | Derek Sawyer           | [GRIT][Rippers]       | 10.789 |   770 | 10.3 |
+| 25 | Pete C                 |                       | 10.793 |   689 | 10.0 |
+| 26 | Craig... .S Velo       | Sheppey Velo          | 10.873 |   641 |  7.4 |
+| 27 | Jonathan Michelsen     | nbck                  | 10.898 |   718 | 11.0 |
+| 28 | N. YuYu                | [TRC]                 | 11.065 |   568 |  8.5 |
+| 29 | Franco Battiato        | Team Z TAZ            | 11.211 |   682 | 10.0 |
+| 30 | Thomas Spence          |                       | 11.225 |   845 | 11.7 |
+| 31 | conrad moss            | Velopower PC, P-TK RT | 11.242 |   638 |  8.9 |
+| 32 | Kelly Toth CRCA / NYCC | CRCA/NYCC             | 11.260 |   798 |  9.9 |
+| 33 | John Jeffries          | [AA Bikes][GRIT]      | 11.344 |   551 |  8.3 |
+| 34 | Rob McKechney          |                       | 11.349 |   575 |  8.1 |
+| 35 | Alan Brannan           | GRIT                  | 11.421 |   675 |  9.5 |
+| 36 | A NakaoJPN             |                       | 11.609 |   460 |  7.1 |
+| 37 | Calum Scott            | DIRT                  | 11.610 |   564 |  7.9 |
+| 38 | Ray Diaz               |                       | 12.427 |   330 |  4.0 |
+| 39 | Oleg Semeko            | Veter.cc              | 13.006 |   247 |  3.3 |
 
 **GRIT point series** heading into the Alpe[<sup>[1]</sup>](#1)
 
