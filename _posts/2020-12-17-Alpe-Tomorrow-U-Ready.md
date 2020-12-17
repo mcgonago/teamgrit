@@ -209,8 +209,8 @@ heading into tomorrow.
 ## **Footnotes**
 
 [<sup>[1]</sup>](#1) <a class="anchor" id="1"></a> **Alpe** tomorrow <br>
-[<sup>[2]</sup>](#2) <a class="anchor" id="1"></a> Took liberty to mark **Lance** as a provisional GRITer <br>
-[<sup>[3]</sup>](#3) <a class="anchor" id="2"></a> **I just had to** list the PRs for GRITers <br>
+[<sup>[2]</sup>](#2) <a class="anchor" id="2"></a> Took liberty to mark **Lance** as a provisional GRITer <br>
+[<sup>[3]</sup>](#3) <a class="anchor" id="3"></a> **I just had to** list the PRs for GRITers <br>
                      
                      
 |  0 | name               | date         | watts |    time |
