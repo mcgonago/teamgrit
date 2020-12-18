@@ -32,29 +32,17 @@ their current cycling fitness.
 
 Each week GRIT runs a series of rides on the Zwift platform.
 
+GRIT also keeps track of results as part of its **weekly** `GRIT Points Race` series
+
+The `GRIT Points Race` takes results from the **Tuesday (KOM hunt)**, **Thursday (Sprints)**,
+and **Friday (Mountain Route)**. Monday and Wednesday are more of a `chill group ride`.
+
 Typically:
 
-````
-Monday    - Grit Group Ride  
-Tuesday   - All American Bikes Ride presented by GRIT  
-Wednesday - Grit Group Ride - Mountain Route  
-Wednesday - Grit Run
-Thursday  - Tempo(ish) Thursday  
-Friday    - Grit Group Ride - Partytime  
-````
-
-### Members
-
- [to be filled in]
-
-### Team challenges
-
- [to be filled in]
-
-### Team leaderboards
-
- [to be filled in]
-
-
-
+- Monday    - Group Ride - mostly chill, could turn into PartyTime
+- Tuesday   - All American Bikes Ride - KOM hunt   **GRIT Points**
+- Wednesday - Group Ride - again, mostly chill - some may go for a KOM
+- Wednesday - Run
+- Thursday  - Tempo(ish) Thursday - SPRINTS!!!   **GRIT Points**
+- Friday    - Group Ride - Mountain Route   **GRIT Points**
 
