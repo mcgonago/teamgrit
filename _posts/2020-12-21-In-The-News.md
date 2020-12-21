@@ -36,7 +36,7 @@ Benefits of this change?
 - The **stronger** you ride, the **fewer** points you put on the board (i.e., points
   go from **1** to **{total-riders-in-event}**)
 
-At some point we will make it so that races **Register** to race, instead of being automatically
+At some point we will make it so that riders **Register** to race**?** instead of being automatically
 added to the race results.
 
 Enjoy, and see you on the roads soon.
