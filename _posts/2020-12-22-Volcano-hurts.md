@@ -2,6 +2,9 @@
 title: Volcano Hurts
 ---
 
+`Blog` **tried** to take a few days off, but with all the heavy hitters today, and
+a PR by **Mr. Tap**, had to get it all in...
+
 Another race day up **`THE Volcano`**
 
 Repeat from last week. Same `hill`, same `suffering`.
@@ -28,6 +31,8 @@ You can find Strava `Volcano KOM leaderboard` [here](https://www.strava.com/segm
 - `Race #3` Two times up the `Bologna` climb - [GRIT Mountain Ride](https://zwiftpower.com/events.php?zid=1393023)
 - Remember the rules
 - Wife `NOT` on Strava, Boss `NOT` on Strava, **Wife and Boss** not on [**Club Grit**](http://www.clubgrit.com)
+- **Steve Tap** gets a PR today <br>
+- **What percentage Tap at?**[<sup>[1]</sup>](#1)
 
 **`The bad`**
 
@@ -35,10 +40,10 @@ You can find Strava `Volcano KOM leaderboard` [here](https://www.strava.com/segm
 
 **`The ugly`**
 
-- Not much ugly (`will keep a few names to myself`) **:)**
+- Not much ugly (`will keep a few names to myself`) **:)** <br> <br>
 
-**Steve Tap** gets a PR today
-       
+**Top times up Volcano by fellow GRITers**
+
 |  0 | Rider                                | Date             | watts    |       PR |
 |----+--------------------------------------+------------------+----------+----------|
 |  1 | Lance Anderson                       | Oct 3, 2020      | 407W     |     6:20 |
