@@ -25,6 +25,7 @@ You can find Strava `Volcano KOM leaderboard` [here](https://www.strava.com/segm
 
 - Solid `56` ZwiftPower registered riders (**18** A, **38** B)
 - Ride leaders `Rob Fullerton` and `John Jeffries (JJ)` kept us all safe (again)
+- **Christian Kaldbar** is a **GRITer** (note to self, update **Top Times** to include Christian)
 - Seems everyone was on fire this morning, why not post **GRIT point series** ?
 - `Race #1` **DONE**
 - `Race #2` is Thursday [Tempo(ish) Thursday presented by GRIT](https://zwiftpower.com/events.php?zid=1389074)
