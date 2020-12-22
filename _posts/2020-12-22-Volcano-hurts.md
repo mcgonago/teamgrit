@@ -1,0 +1,128 @@
+---
+title: Volcano Hurts
+---
+
+Another race day up **`THE Volcano`**
+
+Repeat from last week. Same `hill`, same `suffering`.
+
+Results can be seen at [All American Bikes Ride presented by GRIT](https://zwiftpower.com/events.php?zid=1380062)
+
+We all went `2x` up the [Volcano Climb](https://zwiftinsider.com/route/volcano-climb/)
+
+`A` group went `HARD` both times, I believe the `B` group pushed the `2nd` time up.
+
+![](../../12/14/images/volcano_kom.png)
+
+You can find Strava `Volcano KOM leaderboard` [here](https://www.strava.com/segments/14270131)
+
+![](../../12/14/images/volcano_kom_zwift_insider_verified.png)
+
+**`The good`**
+
+- Solid `56` ZwiftPower registered riders (**18** A, **38** B)
+- Ride leaders `Rob Fullerton` and `John Jeffries (JJ)` kept us all safe (again)
+- Seems everyone was on fire this morning, why not post **GRIT point series** ?
+- `Race #1` **DONE**
+- `Race #2` is Thursday [Tempo(ish) Thursday presented by GRIT](https://zwiftpower.com/events.php?zid=1389074)
+- `Race #3` Two times up the `Bologna` climb - [GRIT Mountain Ride](https://zwiftpower.com/events.php?zid=1393023)
+- Remember the rules
+- Wife `NOT` on Strava, Boss `NOT` on Strava, **Wife and Boss** not on [**Club Grit**](http://www.clubgrit.com)
+
+**`The bad`**
+
+- `How can there be anything bad riding a bike?`
+
+**`The ugly`**
+
+- Not much ugly (`will keep a few names to myself`) **:)**
+
+**Steve Tap** gets a PR today
+       
+|  0 | Rider                                | Date             | watts    |       PR |
+|----+--------------------------------------+------------------+----------+----------|
+|  1 | Lance Anderson                       | Oct 3, 2020      | 407W     |     6:20 |
+|  2 | Gabriel Mathisen                     | Jul 21, 2020     | 381W     |     6:27 |
+|  3 | Seth G                               | Nov 17, 2020     | 375W     |     6:31 |
+|  4 | Maximilian Weniger                   | Mar 7, 2020      | 405W     |     6:35 |
+|  5 | Rob Fullerton                        | Nov 28, 2020     | 375W     |     6:35 |
+|  6 | Luke Elton                           | Nov 28, 2020     | 320W     |     6:37 |
+|  7 | Derek Sawyer                         | Dec 15, 2020     | 370W     |     6:38 |
+|  8 | **Steve Tappan**[<sup>[1]</sup>](#1) | **Dec 22, 2020** | **375W** | **6:39** |
+|  9 | tak ina                              | Oct 11, 2020     | 265W     |     6:41 |
+| 10 | Owen McGonagle                       | Dec 15, 2020**   | 337W     |     6:41 |
+| 11 | Andrew Cohen                         | Nov 14, 2019     | 355W     |     6:42 |
+| 12 | Steve Peplinski                      | Feb 29, 2020     | 367W     |     6:44 |
+| 13 | Paul Hutchins                        | Jul 21, 2020     | 344W     |     6:46 |
+| 14 | Alan Brannan                         | Jul 21, 2020     | 331W     |     7:08 |
+| 15 | John Jeffries                        | Apr 18, 2020     | 282W     |     7:24 |
+| 16 | Shaun Corbin                         | Dec 31, 2019     | 273W     |     7:29 |
+| 17 | Ben Sisson                           | Aug 2, 2020      | 339W     |     7:38 |
+
+
+**`GRIT points race series`** day #1 results
+                                                                 
+|  # | name                       | team                    |Grp |  time | watts | wpkg | pts    |
+|----+----------------------------+-------------------------+----+-------+-------+------|--------|
+|  1 | Christian Kaldbar          | GRIT                    |A   | 06:12 |   446 |  6.2 |   1/56 |
+|  2 | Rob Fullerton              | GRIT                    |A   | 06:39 |   396 |  5.1 |   2/55 |
+|  3 | Steve Tappan               | [GRIT]                  |A   | 06:39 |   374 |  5.5 |   3/54 |
+|  4 | Thomas Woods               | TeamODZ                 |A   | 06:41 |   332 |  5.2 |   4/53 |
+|  5 | Yusuke Saeki               | (SBC Vertex Racing Team)|A   | 06:42 |   329 |  5.1 |   5/52 |
+|  6 | Erik Anneback              |                         |A   | 06:42 |   329 |  5.0 |   6/51 |
+|  7 | Tak Ina                    | [JETT][GRIT]            |A   | 06:45 |   269 |  5.0 |   7/50 |
+|  8 | Yoshito Higa               |                         |B   | 06:45 |   276 |  5.2 |   8/49 |
+|  9 | TREK ITA                   |                         |A   | 06:46 |   315 |  5.1 |   9/48 |
+| 10 | Hans-Jurgen G              |                         |A   | 06:46 |   313 |  5.2 |  10/47 |
+| 11 | Greg Langman               | DIRT                    |A   | 06:47 |   352 |  5.0 |  11/46 |
+| 12 | Chris Howarth              |                         |A   | 06:48 |   341 |  5.0 |  12/45 |
+| 13 | Takaaki Iwasaki            | JETT                    |A   | 06:48 |   309 |  4.8 |  13/44 |
+| 14 | Owen McGonagle             | GRIT                    |B   | 06:55 |   315 |  4.8 |  14/43 |
+| 15 | Paul Roy                   | RETÓ!                   |B   | 07:05 |   331 |  4.8 |  15/42 |
+| 16 | Kenny Hendrix              |                         |B   | 07:06 |   288 |  5.2 |  16/41 |
+| 17 | Daniel Florez              | Team Type 1             |A   | 07:08 |   296 |  4.6 |  17/40 |
+| 18 | M Shinall                  | TTE                     |B   | 07:09 |   324 |  4.7 |  18/39 |
+| 19 | Dominik Lugmair            | TeamODZ                 |B   | 07:12 |   356 |  4.4 |  19/38 |
+| 20 | Simon Gillis               |                         |B   | 07:14 |   322 |  4.7 |  20/37 |
+| 21 | Robert Quinn               |                         |B   | 07:15 |   284 |  4.9 |  21/36 |
+| 22 | J B                        | SWOZR                   |B   | 07:15 |   367 |  4.5 |  22/35 |
+| 23 | Rameez Tase                | (Team MoMA)             |B   | 07:16 |   317 |  4.5 |  23/34 |
+| 24 | Takashi KAWAMOTO           | (YOU CAN)               |B   | 07:16 |   248 |  4.9 |  24/33 |
+| 25 | Hiroki Tanaka              |                         |A   | 07:16 |   277 |  4.7 |  25/32 |
+| 26 | Daniel Shalkowski          | DIRT                    |A   | 07:20 |   302 |  4.4 |  26/31 |
+| 27 | J B                        | BCC - Bees              |B   | 07:24 |   341 |  4.3 |  27/30 |
+| 28 | Jim Griffin                | VEGAN                   |B   | 07:26 |   326 |  4.4 |  28/29 |
+| 29 | Shaun Corbin Nashville     | DIRT                    |B   | 07:27 |   275 |  4.3 |  29/28 |
+| 30 | Masahide Fukae             |                         |B   | 07:27 |   271 |  4.3 |  30/27 |
+| 31 | Tijmen Poleij              |                         |B   | 07:28 |   321 |  4.3 |  31/26 |
+| 32 | Aaron Quinn                |                         |A   | 07:28 |   272 |  4.7 |  32/25 |
+| 33 | DONGHYUN KIM/              |                         |B   | 07:29 |   293 |  4.2 |  33/24 |
+| 34 | Cecelia Taggart            | DIRT                    |B   | 07:31 |   240 |  4.3 |  34/23 |
+| 35 | Ian Bundy                  | DIRT                    |B   | 07:31 |   369 |  4.0 |  35/22 |
+| 36 | Jason Perkins              |                         |B   | 07:32 |   317 |  4.3 |  36/21 |
+| 37 | Dax Nelson - ¡DUX! TPA-FLA | HERD                    |B   | 07:32 |   339 |  4.2 |  37/20 |
+| 38 | John Jeffries              | [AA Bikes][GRIT]        |B   | 07:34 |   280 |  4.1 |  38/19 |
+| 39 | Doug Cowperthwaite         | TeamODZ                 |B   | 07:35 |   271 |  4.2 |  39/18 |
+| 40 | A NakaoJPN                 |                         |B   | 07:37 |   291 |  4.5 |  40/17 |
+| 41 | Josh Clingan               | DIRT                    |B   | 07:41 |   326 |  3.8 |  41/16 |
+| 42 | Jonathan Lippert           |                         |A   | 07:43 |   303 |  4.2 |  42/15 |
+| 43 | Craig LeBlanc              | [ ATP ]                 |B   | 07:43 |   286 |  4.1 |  43/14 |
+| 44 | Selwyn Elkerbout           |                         |B   | 07:47 |   281 |  4.0 |  44/13 |
+| 45 | Michal Duszczyk            | ZTPL.CC                 |B   | 07:56 |   286 |  3.9 |  45/12 |
+| 46 | Andrew Howes               | (SCC)                   |A   | 07:58 |   294 |  3.9 |  46/11 |
+| 47 | Harold Berkers             |                         |B   | 07:58 |   313 |  3.9 |  47/10 |
+| 48 | Steven Allington           |                         |B   | 08:05 |   336 |  3.8 |  48/9  |
+| 49 | Kent Ryan                  |                         |B   | 08:12 |   263 |  3.9 |  49/8  |
+| 50 | Craig Bramley              | DIRT                    |B   | 08:12 |   270 |  3.6 |  50/7  |
+| 51 | Nick Jordan                | Race Hub                |B   | 08:13 |   293 |  3.7 |  51/6  |
+| 52 | Bruce Atherton             |                         |B   | 08:23 |   276 |  3.5 |  52/5  |
+| 53 | Brandon Maydew             |                         |B   | 08:49 |   291 |  3.6 |  53/4  |
+| 54 | Soren Soholt               | DBR                     |B   | 08:55 |   263 |  3.2 |  54/3  |
+| 55 | Greg Rashford              | #NOMAD                  |B   | 10:16 |   239 |  2.8 |  55/2  |
+| 56 | Nestor hernandez           |                         |B   | 11:21 |   188 |  2.5 |  56/1  |
+                                                                          
+                                                              
+## **Footnotes**                                              
+                                                              
+[<sup>[1]</sup>](#1) <a class="anchor" id="1"></a> **Tap** now at 85% **?** <br>
+
