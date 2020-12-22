@@ -32,7 +32,7 @@ You can find Strava `Volcano KOM leaderboard` [here](https://www.strava.com/segm
 - `Race #3` Two times up the `Bologna` climb - [GRIT Mountain Ride](https://zwiftpower.com/events.php?zid=1393023)
 - Remember the rules
 - Wife `NOT` on Strava, Boss `NOT` on Strava, **Wife and Boss** not on [**Club Grit**](http://www.clubgrit.com)
-- **Steve Tap** gets a PR today <br>
+- **Steve Tap** gets a PR today, can't forget **Shaun Corbin** <br>
 - **What percentage Tap at?**[<sup>[1]</sup>](#1)
 
 **`The bad`**
@@ -45,27 +45,28 @@ You can find Strava `Volcano KOM leaderboard` [here](https://www.strava.com/segm
 
 **Top times up Volcano by fellow GRITers**
 
-|  0 | Rider                                | Date             | watts    |       PR |
-|----+--------------------------------------+------------------+----------+----------|
-|  1 | Lance Anderson                       | Oct 3, 2020      | 407W     |     6:20 |
-|  2 | Gabriel Mathisen                     | Jul 21, 2020     | 381W     |     6:27 |
-|  3 | Seth G                               | Nov 17, 2020     | 375W     |     6:31 |
-|  4 | Maximilian Weniger                   | Mar 7, 2020      | 405W     |     6:35 |
-|  5 | Rob Fullerton                        | Nov 28, 2020     | 375W     |     6:35 |
-|  6 | Luke Elton                           | Nov 28, 2020     | 320W     |     6:37 |
-|  7 | Derek Sawyer                         | Dec 15, 2020     | 370W     |     6:38 |
-|  8 | **Steve Tappan**[<sup>[1]</sup>](#1) | **Dec 22, 2020** | **375W** | **6:39** |
-|  9 | tak ina                              | Oct 11, 2020     | 265W     |     6:41 |
-| 10 | Owen McGonagle                       | Dec 15, 2020     | 337W     |     6:41 |
-| 11 | Andrew Cohen                         | Nov 14, 2019     | 355W     |     6:42 |
-| 12 | Steve Peplinski                      | Feb 29, 2020     | 367W     |     6:44 |
-| 13 | Paul Hutchins                        | Jul 21, 2020     | 344W     |     6:46 |
-| 14 | Alan Brannan                         | Jul 21, 2020     | 331W     |     7:08 |
-| 15 | John Jeffries                        | Apr 18, 2020     | 282W     |     7:24 |
-| 16 | Shaun Corbin                         | Dec 31, 2019     | 273W     |     7:29 |
-| 17 | Ben Sisson                           | Aug 2, 2020      | 339W     |     7:38 |
-
-
+|  0 | Rider                                      | Date             | watts    |       PR |
+|----+--------------------------------------------+------------------+----------+----------|
+|  1 | **Christian Kaldbar**[<sup>[2]</sup>](#2)  | **Dec 22, 2020** | **446**  | **6:12** |
+|  2 | Lance Anderson                             | Oct 3, 2020      | 407W     |     6:20 |
+|  3 | Gabriel Mathisen                           | Jul 21, 2020     | 381W     |     6:27 |
+|  4 | Seth G                                     | Nov 17, 2020     | 375W     |     6:31 |
+|  5 | Maximilian Weniger                         | Mar 7, 2020      | 405W     |     6:35 |
+|  6 | Rob Fullerton                              | Nov 28, 2020     | 375W     |     6:35 |
+|  7 | Luke Elton                                 | Nov 28, 2020     | 320W     |     6:37 |
+|  8 | Derek Sawyer                               | Dec 15, 2020     | 370W     |     6:38 |
+|  9 | **Steve Tappan**[<sup>[1]</sup>](#1)       | **Dec 22, 2020** | **375W** | **6:39** |
+| 10 | tak ina                                    | Oct 11, 2020     | 265W     |     6:41 |
+| 11 | Owen McGonagle                             | Dec 15, 2020     | 337W     |     6:41 |
+| 12 | Andrew Cohen                               | Nov 14, 2019     | 355W     |     6:42 |
+| 13 | Steve Peplinski                            | Feb 29, 2020     | 367W     |     6:44 |
+| 14 | Paul Hutchins                              | Jul 21, 2020     | 344W     |     6:46 |
+| 15 | Alan Brannan                               | Jul 21, 2020     | 331W     |     7:08 |
+| 16 | John Jeffries                              | Apr 18, 2020     | 282W     |     7:24 |
+| 17 | **Shaun Corbin**                           | **Dec 22, 2020** | **273W** | **7:27** |
+| 18 | Ben Sisson                                 | Aug 2, 2020      | 339W     |     7:38 |
+                                            
+                                            
 **`GRIT points race series`** day #1 results
                                                                  
 |  # | name                       | team                    |Grp |  time | watts | wpkg | pts    |
@@ -131,4 +132,5 @@ You can find Strava `Volcano KOM leaderboard` [here](https://www.strava.com/segm
 ## **Footnotes**                                              
                                                               
 [<sup>[1]</sup>](#1) <a class="anchor" id="1"></a> **Tap** now at 85% **?** <br>
+[<sup>[2]</sup>](#2) <a class="anchor" id="2"></a> **Christian Kaldbar** added (don't see on Strava, PR most likely faster)
 
