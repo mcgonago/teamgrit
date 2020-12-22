@@ -55,7 +55,7 @@ You can find Strava `Volcano KOM leaderboard` [here](https://www.strava.com/segm
 |  7 | Derek Sawyer                         | Dec 15, 2020     | 370W     |     6:38 |
 |  8 | **Steve Tappan**[<sup>[1]</sup>](#1) | **Dec 22, 2020** | **375W** | **6:39** |
 |  9 | tak ina                              | Oct 11, 2020     | 265W     |     6:41 |
-| 10 | Owen McGonagle                       | Dec 15, 2020**   | 337W     |     6:41 |
+| 10 | Owen McGonagle                       | Dec 15, 2020     | 337W     |     6:41 |
 | 11 | Andrew Cohen                         | Nov 14, 2019     | 355W     |     6:42 |
 | 12 | Steve Peplinski                      | Feb 29, 2020     | 367W     |     6:44 |
 | 13 | Paul Hutchins                        | Jul 21, 2020     | 344W     |     6:46 |
