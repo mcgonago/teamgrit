@@ -91,7 +91,7 @@ Quick recap of results (will cover in more detail in weeks to come...)
 
 
 **`The ugly`**
-- We now track `B` and `A' riders seperately
+- We now track `B` and `A` riders seperately
 - **CHANGE IN POINT SERIES**
 - SEE BELOW - **ONLY** those that meet the `minimum` requirement of at least `2-out-of-3` get counted in the series.
 
