@@ -13,11 +13,11 @@ nav: true
 
 **B Group GRIT Point Series**
 
-| #    | name                      | team  | race1    | race2    | race3    | race4    | plc/pts |
-+------+---------------------------+-------+----------+----------+----------+----------+---------|
-| 1    | Owen McGonagle            | GRIT  | 6/36     | 1/31     | 0/0      | 0/0      | 67      |
-| 2    | Shaun Corbin Nashville    | DIRT  | 10/32    | 2/21     | 0/0      | 0/0      | 53      |
-| 3    | Calum Scott               | DIRT  | 31/11    | 3/10     | 0/0      | 0/0      | 21      |
+| #    | name                      | team  | race1    | race2    | plc/pts |
++------+---------------------------+-------+----------+----------+---------|
+| 1    | Owen McGonagle            | GRIT  | 6/36     | 1/31     | 67      |
+| 2    | Shaun Corbin Nashville    | DIRT  | 10/32    | 2/21     | 53      |
+| 3    | Calum Scott               | DIRT  | 31/11    | 3/10     | 21      |
 
 **A Group GRIT Point Series**
 
