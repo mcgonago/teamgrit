@@ -28,7 +28,7 @@ nav: true
 | 3    | Rob Fullerton                 | GRIT                | 11/20    | 14/20    | 40      |
 
 
-Another find day sprinting in London [Tempo(ish) Thursday presented by GRIT](https://zwiftpower.com/events.php?zid=1420935)
+Another fine day of sprinting in London [Tempo(ish) Thursday presented by GRIT](https://zwiftpower.com/events.php?zid=1420935)
 
 `2nd` event as part of the weekly `GRIT points race` series.
 
