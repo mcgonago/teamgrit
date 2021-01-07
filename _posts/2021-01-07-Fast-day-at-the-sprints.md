@@ -3,7 +3,9 @@ title: Fast day at the sprints
 nav: true
 ---
 
-`Can't` remember if/when almost all of the `Top 5` were under **10.0** (almost)
+**UPDATE** There are two significant segments up tomorrows `EPIC`[<sup>[1]</sup>](#1)
+
+This morning - `Can't` remember if/when almost all of the `Top 5` were under **10.0** (almost)
 
 Quick reminder about high-level rules of the `GRIT point race` series:
 
@@ -50,6 +52,18 @@ Tomorrow is the `3rd` event up `3-Sisters` - focus/race up the `EPIC KOM`
 **GRIT - Mountain ride** `Three Sisters`, found [here](https://zwiftpower.com/events.php?zid=1464931)
 
 ![Three Sisters (partial)](images/three-sisters.png)
+
+**The longer one** starts a bit before the bridge, and ends at the top of the `Tower` [Epic KOM (Zwift Insider verified)](https://www.strava.com/segments/16784833)
+
+![EPIC KOM long](images/epic_kom_longer.png)
+
+
+**The shorter one** starts **AFTER** the bridge, and ends at the banner **BEFORE** the `Tower` [Epic KOM](https://www.strava.com/segments/11596184?filter=overall)
+
+[<sup>[1]</sup>](#1) <a class="anchor" id="1"></a>The **GRIT point series** will count the **shorter** Epic KOM segment
+
+![EPIC KOM long](images/epic_kom_shorter.png)
+
 
 **`The good`**                    
 
@@ -105,3 +119,6 @@ Tomorrow is the `3rd` event up `3-Sisters` - focus/race up the `EPIC KOM`
 | 23   | Lee Taylor           | EVOLUTION           | 11.969    | 412w     | 6.1  |
 | 24   | Gianmaria Tiozzo     | CICLI STEFANELLI    | 12.267    | 385w     | 5.3  |
 | 25   | Paris Plage          |                     | 17.138    | 186w     | 2.2  |
+
+
+[<sup>[1]</sup>](#1) <a class="anchor" id="1"></a> **GRIT point series** tracking shorter [EPIC KOM segment](https://www.strava.com/segments/11596184?filter=overall)
