@@ -6,12 +6,8 @@ nav: true
 `Well, that was fun`
 
 **UPDATE**
-- `ZwiftPower` is not posting results (yet) from this morning
-- So, I did my best to pull down your `Strava` segment times
-- That is an issue for someone like `Christian Kaldbar` - who
-  destroyed it today - but if not on Strava, did not happen ;)
-- Once `ZwiftPower` gets their act together - will update with official results
-- **Out of the 34** athletes this morning, **ONLY** picked up `(15)` from Strava activities
+- `ZwiftPower` results up
+- A few tweeks to results below
 
 A lot was at stake this morning.
 
@@ -19,27 +15,28 @@ A lot was at stake this morning.
 
 `Week #6` **GRIT Point Series** results
 
-**B Group**
+**B Group GRIT Point series**
 
 | #   | name                        | team                   | race1    | race2    | race3    | plc/pts |
-+-----+-----------------------------+------------------------+----------+----------+----------+---------|
-| 1   | **Owen McGonagle**          | GRIT                   | 1/57     | 1/49     | 5/41     | 106     |
-| 2   | **Dax Nelson**              | ¡DUX! TPA-FLA HERD     | 10/42    | 2/39     | 0/0      | 81      |
-| 3   | **Shaun Corbin Nashville**  | DIRT                   | 19/27    | 3/29     | 0/0      | 56      |
-| 4   |   Alan Brannan              | GRIT                   | 27/14    | 4/19     | 11/20    | 39      |
-| 5   |   Calum Scott               | DIRT                   | 33/4     | 5/9      | 0/0      | 13      |
-        
-**A Group**
-        
+|-----+-----------------------------+------------------------+----------+----------+----------+---------|
+| 1   | **Owen McGonagle**          | GRIT                   | 1/57     | 1/49     | 1/39     | 106     |
+| 2   | **Dax Nelson**              | ¡DUX! TPA-FLA HERD     | 10/42    | 2/39     |          | 81      |
+| 3   | **Shaun Corbin Nashville**  | DIRT                   | 19/27    | 3/29     |          | 56      |
+| 4   |   Alan Brannan              | GRIT                   | 27/14    | 4/19     | 2/19     | 38      |
+| 5   |   Calum Scott               | DIRT                   | 33/4     | 5/9      |          | 13      |
+                                                                                                  
+**A Group GRIT Point series**                                                                                       
+                                                                                                  
 | #   | name                   | team               | race1    | race2    | race3    | plc/pts |
-+-----+------------------------+--------------------+----------+----------+----------+---------|
-| 1   | **Steve Tappan**       | [GRIT]             | 2/54     | 9/38     | 2/52     | 106     |
-| 2   | **Tak Ina**            | [JETT][GRIT]       | 9/37     | 1/56     | 4/45     | 101     |
-| 3   | **Rob Fullerton**      | GRIT               | 11/33    | 7/43     | 3/48     | 91      |
-| 4   |   Greg Langman         | DIRT               | 12/30    | 4/49     | 0/0      | 79      |
-| 5   |   Derek Sawyer         | [GRIT][Rippers]    | 10/35    | 12/31    | 0/0      | 66      |
-| 6   |   Daniel Shalkowski    | DIRT               | 22/7     | 16/22    | 0/0      | 29      |
-
+|-----+------------------------+--------------------+----------+----------+----------+---------|
+| 1   | **Christian Kaldbar**  | GRIT               | 1/56     |          | 1/57     | 113     |
+| 2   | **Steve Tappan**       | [GRIT]             | 2/54     | 9/38     | 3/53     | 107     |
+| 3   | **Tak Ina**            | [JETT][GRIT]       | 9/37     | 1/56     | 6/47     | 103     |
+| 4   | **Rob Fullerton**      | GRIT               | 11/33    | 7/43     | 5/49     | 92      |
+| 5   | Greg Langman           | DIRT               | 12/30    | 4/49     |          | 79      |
+| 6   | Derek Sawyer           | [GRIT][Rippers]    | 10/35    | 12/31    |          | 66      |
+| 7   | Daniel Shalkowski      | DIRT               | 22/7     | 16/22    |          | 29      |
+                                                                                                  
 This morning we all enjoyed the [GRIT - Mountain Ride](https://zwiftpower.com/events.php?zid=1464931)
 
 ![Three Sisters (partial)](../../../2021/01/07/images/three-sisters.png)
@@ -51,9 +48,9 @@ This morning we all enjoyed the [GRIT - Mountain Ride](https://zwiftpower.com/ev
 **`The good`**
 
 - Ride leader `Steve Tappan ` kept us all safe
-- `Mr 80%` crushes it to take **A** honors, **Tak** and **Rob** fill out the podium
-- **B** results are under investigation - some may argue we have someone who should not be there?
-- **19** athletes missing from results - athlete(s) activity not found on Strava
+- `Mr 80%` did crush it, but with recent `ZwiftPower` results getting posted...
+- `Mr Kaldbar` crushes it, `Mr 80%` in 2nd, `Tak` in 3rd, `Rob` 4th
+- **B** results are **still** under investigation
 - **GRIT point series**
 - `Race #1` **DONE**
 - `Race #2` **DONE**
@@ -65,44 +62,49 @@ This morning we all enjoyed the [GRIT - Mountain Ride](https://zwiftpower.com/ev
 **`The ugly`**
 - `Today` was ugly in terms of **PAIN**
 
-Did not have time to break down KOM results **A** vs. **B** - you know who you are.
+**B riders showing up for EPIC**
 
-|  0 | name                | wpkg | time  |
-|----+---------------------+------+-------|
-|  1 | Gabriel Mathisen    | 329W | 19:33 |
-|  2 | Steve Tappan        | 334W | 19:57 |
-|  3 | Christian Kalbar    | ---W | --:-- |
-|  4 | Rob Fullerton       | 339W | 21:32 |
-|  5 | tak ina             | 229W | 22:14 |
-|  6 | Owen McGonagle      | 286W | 22:16 |
-|  7 | Ryuta Ito           | 304W | 22:42 |
-|  8 | Geoff Gibson        | 268W | 23:26 |
-|  9 | Daniel Florez       | 254W | 23:27 |
-| 10 | Ron Mar             | 274W | 24:00 |
-| 11 | Kelsey Smith        | 278W | 24:23 |
-| 12 | Alan Brannan        | 240W | 26:34 |
-| 13 | Philip Baronius     | 228W | 28:12 |
-| 14 | Sandro Funchal      | 265W | 28:33 |
-| 15 | DENIS Joel          | 157W | 28:55 |
-| 16 | Claire Jessop       | 146W | 29:39 |
-| 17 | Atsu Naka           | 172W | 30:27 |
-| 18 | Matthias Mueller    | ---W | --:-- |
-| 19 | Joel Gibbel         | ---W | --:-- |
-| 20 | Alexander Schicho   | ---W | --:-- |
-| 21 | A NakaoJPN          | ---W | --:-- |
-| 22 | Brian Deason7654    | ---W | --:-- |
-| 23 | Eric GONDERINGER    | ---W | --:-- |
-| 24 | Hotpot Neo          | ---W | --:-- |
-| 25 | James Bolze         | ---W | --:-- |
-| 26 | Kris Kenis          | ---W | --:-- |
-| 27 | li xiang            | ---W | --:-- |
-| 28 | Matt Wilks          | ---W | --:-- |
-| 29 | Michiel Roks        | ---W | --:-- |
-| 30 | Oskar Oskar         | ---W | --:-- |
-| 31 | Patton Coles        | ---W | --:-- |
-| 32 | peter errens        | ---W | --:-- |
-| 33 | richard jal.        | ---W | --:-- |
-| 34 | Ricky Enø Thomassen | ---W | --:-- |
-| 35 | tarou nagae         | ---W | --:-- |
-| 36 | Tom Wassink         | ---W | --:-- |
+| #    | name              | team    | time     | watts    | wpkg |
++------+-------------------+---------+----------+----------+------|
+| 1    | Owen McGonagle    | GRIT    | 22:16    | 285w     | 4.2  |
+| 2    | Alan Brannan      | GRIT    | 26:33    | 240w     | 3.4  |
 
+**A riders showing up for EPIC**[<sup>[1]</sup>](#1)
+
+| #    | name                    | team             | time     | watts    | wpkg |
++------+-------------------------+------------------+----------+----------+------|
+| 1    | Christian Kaldbar       | GRIT             | 18:13    | 409w     | 5.7  |
+| 2    | Gabriel Mathisen        | [VEGAN][GRIT]    | 19:32    | 329w     | 5.3  |
+| 3    | Steve Tappan            | [GRIT]           | 19:56    | 333w     | 4.9  |
+| 4    | Acke W                  |                  | 20:10    | 326w     | 4.7  |
+| 5    | Rob Fullerton           | GRIT             | 21:32    | 339w     | 4.4  |
+| 6    | Tak Ina                 | [JETT][GRIT]     | 22:13    | 228w     | 4.3  |
+| 7    | Eric GONDERINGER        |                  | 22:16    | 280w     | 4.1  |
+| 8    | Ryuta Ito               | ODK              | 22:41    | 302w     | 4.1  |
+| 9    | Chris Keller            |                  | 22:48    | 302w     | 4.1  |
+| 10   | Tristan Longworth       |                  | 23:00    | 340w     | 3.9  |
+| 11   | tarou nagae             |                  | 23:01    | 235w     | 4.1  |
+| 12   | Geoff Gibson            |                  | 23:25    | 267w     | 3.9  |
+| 13   | Daniel Florez           | Team Type 1      | 23:26    | 253w     | 3.9  |
+| 14   | richard jal.            |                  | 23:28    | 294w     | 3.8  |
+| 15   | Ricky En__ Thomassen    |                  | 23:30    | 293w     | 4.0  |
+| 16   | E.Ferrario              | Rodman Azimut    | 23:34    | 266w     | 3.9  |
+| 17   | Ron Mar                 |                  | 24:00    | 273w     | 3.8  |
+| 18   | Kazuki Nishimori        |                  | 24:22    | 258w     | 3.7  |
+| 19   | Kelsey Smith            | RELENTLESS       | 24:24    | 278w     | 3.6  |
+| 20   | Tommy Sejdenfaden       | ACR              | 24:38    | 287w     | 3.8  |
+| 21   | Kris Kenis              |                  | 24:41    | 264w     | 3.7  |
+| 22   | Michiel Roks            |                  | 25:04    | 268w     | 3.7  |
+| 23   | Lara Middleton          |                  | 25:05    | 233w     | 3.8  |
+| 24   | peter errens            |                  | 25:10    | 215w     | 3.7  |
+| 25   | li xiang                |                  | 25:57    | 219w     | 3.5  |
+| 26   | Roque                   | ZESP             | 27:18    | 218w     | 3.3  |
+| 27   | Gregory Ruby            |                  | 27:28    | 211w     | 3.3  |
+| 28   | Philip Baronius         | DIRT             | 28:12    | 228w     | 3.2  |
+| 29   | Sandro Funchal          | (BLC Racing)     | 28:33    | 258w     | 2.9  |
+| 30   | Claire Jessop           | Otley CC         | 29:38    | 145w     | 3.1  |
+
+
+** Footnotes
+
+[<sup>[1]</sup>](#1) <a class="anchor" id="1"></a> **REMEMBER** if you don't show up for Tuesday **AA** ride, you are put into **A** group
