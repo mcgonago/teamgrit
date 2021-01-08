@@ -51,7 +51,7 @@ This morning we all enjoyed the [GRIT - Mountain Ride](https://zwiftpower.com/ev
 **`The good`**
 
 - Ride leader `Steve Tappan ` kept us all safe
-- `Mr 80%` crushes it to take **A** honors
+- `Mr 80%` crushes it to take **A** honors, **Tak** and **Rob** fill out the podium
 - **B** results are under investigation - some may argue we have someone who should not be there?
 - **19** athletes missing from results - athlete(s) activity not found on Strava
 - **GRIT point series**
