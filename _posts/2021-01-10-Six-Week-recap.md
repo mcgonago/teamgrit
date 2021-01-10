@@ -6,10 +6,12 @@ nav: true
 **Firt** thanks to all the athletes that have been showing up on
   `GRIT` over the last **six** weeks
 
-The point race series is made up of (3) weekly rides:
+The point race series is made up of **(3)** out of the **(5)** weekly rides.
 
+- Monday - `not part of race series` - moderately paced ride
 - **Tuesday All American** - focus on a good **5-7 minute** KOM climb
   - Your **A** vs. **B** signup - sets the group for rest of week tracking
+- Wednesday - `not part of race series` - moderately paced ride
 - **Thursday Tempoish sprints**
   - 7-8 sprint laps
 - **Friday Mountain Ride** - focus on a good **15+** minute climb
