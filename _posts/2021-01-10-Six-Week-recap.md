@@ -3,7 +3,7 @@ title: Six Week Recap
 nav: true
 ---
 
-**Firt** thanks to all the athletes that have been showing up on
+**First** thanks to all the athletes that have been showing up on
   `GRIT` over the last **six** weeks
 
 The point race series is made up of **(3)** out of the **(5)** weekly rides.
