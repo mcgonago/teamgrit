@@ -34,7 +34,7 @@ You want your Strava **PR**, go ride on **Strava** (just kidding)
 Anyway, **GREAT** job out there today! If you see your name
 **in lights** - you hit a new GRIT **PR** today.
 
-**B Group PRs up the BOX** today
+**B Group PRs up the BOX** today, **Had to participate in 2-or-more lately, to be tracked**
 
 | # | name                   | team               | PR       |  2nd |  3rd | Best 2 av. |
 |---+------------------------+--------------------+----------+------+------+------------|
@@ -46,7 +46,7 @@ Anyway, **GREAT** job out there today! If you see your name
 | 6 | Steve Bekker           | DIRT               | 7:48     | 8:09 | 8:09 |       7:58 |
 | 7 | **J B**                | BCC-Cheetahs       | **7:57** | 8:04 |      |       8:00 |
 
-**A Group PRs up the BOX** today
+**A Group PRs up the BOX** today, **Had to participate in 2-or-more lately, to be tracked**
 
 |  # | name               | team            |       PR |  2nd |  3rd | Best 2 av. |
 |----+--------------------+-----------------+----------+------+------+------------|
@@ -134,7 +134,7 @@ Anyway, **GREAT** job out there today! If you see your name
 
 [<sup>[1]</sup>](#1) <a class="anchor" id="1"></a> In case you were **wondering** how you have been doing in Sprints lately
 
-**Had to have participated in 2-or-more lately**
+**Had to participate in 2-or-more lately**
 
 |  # | name                   | team               |        PR |   2nd |   3rd |   4th |   5th | Best 2 av. |
 |----+------------------------+--------------------+-----------+-------+-------+-------+-------+------------|
