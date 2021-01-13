@@ -25,6 +25,7 @@ A few simple rules:
 - Executive board owns the discretion on an athlete moving up or down categories
 - Example - we don't want a cat1 to bump down due to a single bad day
 - Example - we don't want a cat2 to bump up due to a single good eay
+- Well - we answered that ourselves - `categories based on the average of your two best.`
 
 As of today, the rankings/categories look like:
 
