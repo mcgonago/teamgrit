@@ -34,6 +34,7 @@ Why you may ask?
 - `Steve Tappan` moves to Cat1
 - `Michel Schreck` moves to Cat1
 - `Guillaume Lafleur` moves to Cat1
+- `John Jeffries (JJ)` enters Cat2 status
 - **GRIT point series**           
 - `Race #1` **DONE**              
 - `Race #2` **DONE**  
