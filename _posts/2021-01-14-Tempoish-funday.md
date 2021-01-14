@@ -30,7 +30,7 @@ Why you may ask?
 
 **`The good`**                    
 
-- Ride leader `Steve Tappan ` kept us all safe
+- Ride leader `Steve Tappan` and sweeper `Rob Fullerton` kept us all safe
 - `Steve Tappan` moves to Cat1
 - `Michel Schreck` moves to Cat1
 - `Guillaume Lafleur` moves to Cat1
