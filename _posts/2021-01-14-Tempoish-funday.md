@@ -27,6 +27,14 @@ Why you may ask?
 
 ![Col Du Zwift](images/col_du_zwift.png)
 
+**WHERE does the Col Du Zwift segment start tomorrow?**
+
+The **party** begins around `14.2 miles into the ride.`
+
+We hit a right, slight downhill, and then under a flag/banner for the **PARTY** to start
+
+![Col Du Zwift start](images/col_du_zwift_start.png) <br> <br>
+
 
 **`The good`**                    
 
