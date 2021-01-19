@@ -51,7 +51,7 @@ Then, we have all our **friends** who have hit the `All American` ride, over the
 Tomorrow results will only show **Best 2 average**, so, get out there if you have only done it one time.
 
 
-|  0 | name                   | team               | 20-01-21 | 20-07-28 | 20-08-04 | 20-09-10 | Best 1 av. |
+|  0 | name                   | team               | 20-01-21 | 20-07-28 | 20-08-04 | 20-11-10 | Best 1 av. |
 |----+------------------------+--------------------+----------+----------+----------+----------+------------|
 |  1 | Christian Kaldbar      | GRIT               |          |     1:15 |          |     1:04 |       1:04 |
 |  2 | Owen McGonagle         | GRIT               |     1:30 |     1:44 |     1:46 |     1:06 |       1:06 |
