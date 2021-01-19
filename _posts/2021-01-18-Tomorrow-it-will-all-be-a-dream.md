@@ -9,8 +9,6 @@ Since starting the blog, GRIT has yet to hit `Richmond`
 
 Tomorrow is [All American Bikes Ride presented by GRIT](https://zwiftpower.com/events.php?zid=1536787)
 
-We all hit `Libby Hill` which is part of the larger `
-
 Strava **Libby Hill KOM (Zwift Insider verified)** segment details are [here](https://www.strava.com/segments/12128826)
 
 There is also the **Richmod KOM** segment details [here](https://www.strava.com/segments/10379124)
