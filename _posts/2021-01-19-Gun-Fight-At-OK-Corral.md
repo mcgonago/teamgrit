@@ -26,7 +26,7 @@ As an FYI, the Strava **Libby Hill KOM (Zwift Insider verified)** segment detail
 - **GRIT point series**           
 - `Race #1` **DONE**              
 - `Race #2` Thursday **Tempo(ish) Thursday** found [**HERE**](https://zwiftpower.com/events.php?zid=1550429)
-- `Race #3` Friday **GRIT - Mountain ride** `Three Sisters`, found [**HERE**](https://zwiftpower.com/events.php?zid=1556492)
+- `Race #3` Friday **GRIT - Mountain ride** `Big Loop Reverse (Col Du Zwift)`, found [**HERE**](https://zwiftpower.com/events.php?zid=1556492)
 
 **`The bad`**
 - `How can there be anything bad riding a bike?`
