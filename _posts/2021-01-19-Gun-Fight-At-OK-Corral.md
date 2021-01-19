@@ -20,7 +20,8 @@ As an FYI, the Strava **Libby Hill KOM (Zwift Insider verified)** segment detail
 **`The good`**                    
 
 - Ride leaders `Rob Fullerton` and `Alan Brannan` kept us all safe
-- `Gabriel Mathisen` takes top honors.
+- `Gabriel Mathisen` takes top honors for **A**
+- `Shaun Corbin` takes top honors for **B**
 - Both **A** and **B** group tearing it up this morning!!!
 - **GRIT point series**           
 - `Race #1` **DONE**              
