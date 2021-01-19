@@ -30,7 +30,7 @@ Here is my snapshot of `GRITers` that I follow (Strava)
 I checked out the last few times we did `Richmond` as a group, All American rides,
 with the dates and times below:
 
-|  # | name               | team | 20-01-21 | 20-07-28 | 20-08-04 | 20-09-10 | Best 1 av. |
+|  # | name               | team | 20-01-21 | 20-07-28 | 20-08-04 | 20-11-10 | Best 1 av. |
 |----+--------------------+------+----------+----------+----------+----------+------------|
 |  1 | Christian Kaldbar  | GRIT |          |     1:15 |          |     1:04 |       1:04 |
 |  2 | Owen McGonagle     | GRIT |     1:30 |     1:44 |     1:46 |     1:06 |       1:06 |
