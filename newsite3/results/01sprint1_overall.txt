@@ -1,0 +1,781 @@
+                        NEW ENGLAND TRIATHLON TOUR
+                       'Hyannis Sprint 1 Triathlon'
+June 9, 2001         Swim .25 Mi./Cycle 10.0 Mi./Run 3.5 Mi.         Hyannis, MA
+Race Direction: TIME OUT! PRODUCTIONS        Timing: Granite State Race Services
+================================================================================
+                           OVERALL INDIVIDUAL RESULTS
+===============================================================================
+
+PLACE DIV/TOT  DIVISION BIB#  * NAME                      AG S HOMETOWN                RANK-SWIM    RANK-BIKE/TR RANK-RUN     TIME    PENALTY
+===== =======  ======== ===== = ========================= == = ======================= ==== ======= ==== ======= ==== ======= ======= =======
+    1   1/14   ELITEM       1   GEORGE BENT               36 M CENTERVILLE MA            11    4:22    1   25:55    2   20:43   51:00
+    2   2/14   ELITEM      17   BRIAN HUGHES              24 M E TAUNTON MA              86    5:07    3   27:43    1   20:42   53:32
+    3   3/14   ELITEM     100   TIM SNOW                  25 M BROCKTON MA               49    4:47    8   28:14    3   20:49   53:50
+    4   4/14   ELITEM      14   BRENT POPADICH            30 M WATERTOWN MA              19    4:29   13   28:29    5   21:27   54:25
+    5   1/84   M3539      580   JIM SULLIVAN              36 M WESTFIELD MA              87    5:07    2   26:43   20   22:41   54:31
+    6   5/14   ELITEM       4   TIM DOWNES                36 M CENTERVILLE MA            54    4:49   14   28:35    4   21:11   54:35
+    7   6/14   ELITEM       8   JAMES TRUDELL             29 M NATICK MA                 23    4:34   10   28:25    8   21:52   54:51
+    8   1/118  M3034      506   MARTIN PAIER              33 M WAYNE NJ                  47    4:46    4   27:51   24   22:46   55:23
+    9   2/118  M3034      487   MICHAEL GRANDE            34 M WELLESLEY MA              52    4:48    5   27:57   21   22:41   55:26
+   10   1/54   M4044      771   MICHAEL DAVIS             44 M NEEDHAM MA                76    5:00   24   29:13    6   21:33   55:46
+   11   3/118  M3034      458   DAN MORIARTY              32 M HUDSON MA                 12    4:23   22   29:09   17   22:34   56:06
+   12   7/14   ELITEM      15   RICHARD RAUSCHENBACH      34 M CONGERS NY                37    4:42   19   28:49   25   22:50   56:21
+   13   8/14   ELITEM      11   TOM GELSON                36 M MARION MA                180    5:38   20   28:51    9   21:55   56:24
+   14   1/32   M4549      814   DAVID CARCHEDI            47 M CHARLESTOWN RI             5    4:09   15   28:35   60   23:43   56:27
+   15   2/84   M3539      612   GEORGE NICHOLSON          37 M BOSTON MA                 34    4:41   26   29:17   23   22:44   56:42
+   16   1/6    ELITEF       7   AMY RICE                  38 F WAKEFIELD RI              13    4:23   11   28:27   70   24:07   56:57
+   17   3/84   M3539      532   JOEL KEHM                 35 M MIDDLETOWN RI            122    5:23   31   29:29   13   22:21   57:13
+   18   1/4    M1819       37   PATRICK BELL              19 M GREENFIELD MA             27    4:37    6   28:09   85   24:28   57:14
+   19   2/54   M4044      744   TED HIBBEN                42 M CONCORD MA               168    5:36   21   28:55   29   23:01   57:32
+   20   2/6    ELITEF       2   KATHLEEN TETREAULT        39 F WALPOLE MA                15    4:25   16   28:40   91   24:39   57:44
+   21   4/118  M3034      434   ROB SCZUPAK               32 M NATICK MA                 29    4:39   50   30:30   19   22:39   57:48
+   22   4/84   M3539      588 C JULIAN BAYUK              36 M BARRINGTON RI            117    5:21   25   29:13   40   23:17   57:51
+   23   5/84   M3539      678   ARTHUR OBRIEN             39 M BROOKLINE MA             233    5:56   17   28:40   54   23:35   58:11
+   24   5/118  M3034      906   KYLE WOLFE                30 M STAMFORD CT              166    5:35   18   28:43   64   23:53   58:11
+   25   1/97   M2529      202   CHRIS CANDIELLO           28 M WATERTOWN MA             106    5:17    9   28:14   94   24:45   58:16
+   26   1/18   M2024       42   LEONARD CHRISTO           21 M FORESTDALE MA            187    5:40   30   29:28   38   23:13   58:21
+   27   6/84   M3539      568   OWEN MCGONAGLE            36 M BOSTON MA                  9    4:20   29   29:26   90   24:38   58:24
+   28   6/118  M3034      384   MATTHEW THEODORE          30 M MASHPEE MA               200    5:43   32   29:37   37   23:11   58:31
+   29   2/32   M4549      812   ROB SIMMS                 46 M COHASSET MA               25    4:36   46   30:18   55   23:38   58:32
+   30   2/97   M2529       94   KEITH PUTNAM              25 M MARSTONS MILLS MA         77    5:00   28   29:23   72   24:10   58:33
+   31   7/84   M3539      552   MICHAEL CHRISTY           36 M CHILMARK MA              114    5:19    7   28:11  108   25:10   58:40
+   32   8/84   M3539      598   NELSON DUPERE             36 M BRIGHTON MA              208    5:46   61   31:00   10   21:55   58:41
+   33   9/14   ELITEM       6   ROBERT MEALEY             35 M DEDHAM MA                152    5:32   40   29:53   41   23:17   58:42
+   34   3/97   M2529      101 F RYAN STODDARD             25 M BROOKLINE MA              55    4:49   64   31:02   30   23:02   58:53
+   35   1/19   M5054      842   PAUL TALEWSKY             51 M MIDDLETOWN RI             92    5:10   27   29:22   80   24:22   58:54
+   36   9/84   M3539      597 C JON DUNBURY               37 M BROCTON MA                21    4:32   53   30:44   57   23:39   58:55
+   37  10/14   ELITEM      12   JOSIAH HATCH              43 M HINGHAM MA               323    6:21   43   30:14   14   22:21   58:56
+   38   2/19   M5054      845   DON CALLAHAN              51 M WAYLAND MA               229    5:54   34   29:41   45   23:25   59:00
+   39   1/63   F3539      662   LISA DUNN                 39 F WILTON CT                107    5:17   23   29:10   88   24:35   59:02
+   40   7/118  M3034      311 C SCOTT FRASER              30 M COHASSET MA                1    3:48   35   29:41  140   25:39   59:08
+   41   2/63   F3539      585   MARIELLE YOST             36 F LEXINGTON MA             118    5:21   62   31:00   28   22:58   59:19
+   42   3/54   M4044      740 C JAMES HAYES               42 M WEYMOUTH MA               72    4:58   58   30:59   51   23:28   59:25
+   43   4/97   M2529      210   ERIK HAJER                28 M WATERTOWN MA             129    5:26   56   30:58   35   23:09   59:33
+   44   4/54   M4044      763   TOM MIXON                 43 M BILLERICA MA              84    5:06   47   30:20   71   24:09   59:35
+   45   8/118  M3034      486   PAUL GHELFI               34 M BRIDGEWATER MA            80    5:04   48   30:21   74   24:11   59:36
+   46   5/97   M2529      213   ETHAN HUGO                27 M BELMONT MA                98    5:14   54   30:44   58   23:39   59:37
+   47   9/118  M3034      387   JOHN WOZNY                31 M CAMBRIDGE MA             133    5:27   59   30:59   39   23:16   59:42
+   48  10/118  M3034      508   JONATHAN PIERS            34 M E SANDWICH MA            101    5:15   88   31:50   22   22:41   59:46
+   49  10/84   M3539      527   JOSEPH HARDIN             35 M BROOKLINE MA             108    5:17   38   29:50   92   24:41   59:48
+   50  11/118  M3034      377   ABEL POIRIER              31 M TAUNTON MA               142    5:29   74   31:26   26   22:54   59:49
+   51   6/97   M2529       92   JEFFREY KRAMER            25 M NEW BRITAIN CT             7    4:15   99   32:27   34   23:08   59:50
+   52  11/84   M3539      574 F EDWARD PHILIP             36 M WAYLAND MA               102    5:15   84   31:45   27   22:54   59:54
+   53   2/18   M2024       77   SCOTT RIBICH              24 M SOMERVILLE MA            115    5:20   76   31:31   31   23:04   59:55
+   54   7/97   M2529      204 F THIERRY CARRIERE          28 M SUNDERLAND MA             20    4:31   77   31:33   67   24:03 1:00:07
+   55  12/118  M3034      475 F SEAN CORRELL              34 M DOVER MA                  41    4:44  131   33:17   11   22:07 1:00:08
+   56  13/118  M3034      339 C DARRIN BEEK               30 M JAMAICA PLAIN MA         334    6:23   37   29:47   68   24:04 1:00:14
+   57  12/84   M3539      635 F JAMES GELSON              38 M CRANFORD NJ              153    5:32   96   32:16   18   22:37 1:00:25
+   58   3/32   M4549      791   STEPHEN EDWARDS           45 M HYANNIS MA                74    4:59   41   29:56  134   25:33 1:00:28
+   59  14/118  M3034      429 C ERNIE ROICK               31 M WESTON CT                169    5:36   36   29:46  112   25:12 1:00:34
+   60   8/97   M2529      289 C ENRIQUE SANCHEZ           29 M FALL RIVER MA             69    4:57   44   30:14  124   25:24 1:00:35
+   61  15/118  M3034      421   STEPHEN MCDOWELL          32 M CAMBRIDGE MA             159    5:33   39   29:52  114   25:13 1:00:38
+   62   3/19   M5054      843   AUDIE BRIDGES             51 M WAKEFIELD MA             356    6:28   63   31:01   36   23:10 1:00:39
+   63   5/54   M4044      743   SCOTT HERO                42 M WESTBOROUGH MA           241    5:58   33   29:39  105   25:04 1:00:41
+   64  13/84   M3539      644   HAUKE KITE-POWELL         38 M DUXBURY MA                70    4:57   51   30:38  119   25:20 1:00:55
+   65   9/97   M2529      196   BRIAN BINGHAM             27 M CAMBRIDGE MA             160    5:33  120   32:55   16   22:31 1:00:59
+   66  10/97   M2529      211   SAM HERRICK               28 M NEWTON MA                104    5:16   60   30:59   95   24:48 1:01:03
+   67   1/24   F4044      770   DEBBIE CONNOLLY           43 F SCITUATE MA              281    6:12   86   31:48   32   23:04 1:01:04
+   68  11/14   ELITEM      30   CHRISTOPHER WILSON        17 M SANDWICH MA               10    4:21   12   28:28  299   28:17 1:01:06
+   69   6/54   M4044      759   BRIAN JOHNSON             43 M SHARON MA                 85    5:06   49   30:29  135   25:33 1:01:08
+   70  14/84   M3539      614   JAMES OROURKE             37 M MARION MA                  6    4:10  107   32:40   77   24:21 1:01:11
+   71  15/84   M3539      561   MIKE HERLIHY              36 M BREWSTER MA               45    4:45   94   32:15   59   23:41 1:01:11    0:30
+   72  16/118  M3034      402 F JEREMY DODDS              32 M YARMOUTHPORT MA                                     73   24:10 1:01:14
+   73  11/97   M2529      224   GEORGE OCONNOR            27 M BELMONT MA               111    5:18  110   32:42   42   23:17 1:01:17
+   74   3/63   F3539      533   SARAH KELLER              35 F CAMBRIDGE MA             212    5:48   80   31:39   65   23:53 1:01:20
+   75  12/97   M2529      108   JONATHAN CERNE            26 M UPPER SADDLE RIVER NJ     59    4:51   92   32:12   78   24:21 1:01:24
+   76  16/84   M3539      541   JOHN PRECOBB              35 M BOSTON MA                 78    5:01   75   31:27   99   24:58 1:01:26
+   77  17/84   M3539      511   MATTHEW RICHER            36 M SOUTHBORO MA             130    5:26   70   31:17  103   25:01 1:01:44
+   78   7/54   M4044      755   ED BARTH                  42 M FRANKLIN MA               30    4:39   78   31:37  136   25:33 1:01:49
+   79  13/97   M2529      208   ERIC DEMPSTER             28 M WHITESBORO NY            170    5:36  133   33:20   33   23:05 1:02:01
+   80   8/54   M4044      710   MICHAEL MURRAY            40 M BOSTON MA                 90    5:09  102   32:31   81   24:22 1:02:02
+   81  12/14   ELITEM      18   STEVE LYONS               47 M BOSTON MA                109    5:17  116   32:48   66   24:00 1:02:05
+   82   4/32   M4549      826   BOB WALLACE               47 M BRAINTREE MA             459    6:54   71   31:20   63   23:52 1:02:06
+   83   9/54   M4044      781   BILL THARION              43 M FRAMINGHAM MA            105    5:16  137   33:25   48   23:26 1:02:07
+   84  17/118  M3034      485   JIM FUREY                 34 M MEDFORD MA               123    5:24   52   30:41  171   26:11 1:02:16
+   85  10/54   M4044      736 F TIM DEMELLO               42 M DOVER MA                  82    5:05   42   30:13  210   27:01 1:02:19
+   86   3/18   M2024       69 F BROCK FAY                 23 M BRADFORD MA              110    5:17  112   32:43   82   24:22 1:02:22
+   87   5/32   M4549      815   ALAN CEMENTINA            47 M COVENTRY CT              205    5:44   67   31:12  126   25:26 1:02:22
+   88  11/54   M4044      748 C DEREK MESS                42 M CAMBRIDGE MA             269    6:09  121   32:58   43   23:17 1:02:24
+   89  18/118  M3034      507   BEN PENGLASE              34 M CAMBRIDGE MA             154    5:32  142   33:42   46   23:25 1:02:39
+   90   4/19   M5054      836 C AL FLANDERS               50 M WATERTOWN MA             181    5:38   68   31:15  151   25:53 1:02:46
+   91   5/19   M5054      857   WARREN FOWLER             53 M WELLESLEY MA             188    5:40   72   31:25  143   25:42 1:02:47
+   92   3/6    ELITEF      10   KIMBERLY WALSH            41 F ENFIELD NH                66    4:56  105   32:39  118   25:19 1:02:54
+   93   6/19   M5054      910   MICHAEL RIORDAN           50 M MARBLEHEAD MA            234    5:56   87   31:49  109   25:10 1:02:55
+   94  19/118  M3034      513   JIM SCHROEDER             33 M HOPKINTON MA             324    6:21  173   34:24   12   22:14 1:02:59
+   95  12/54   M4044      746   STEPHEN MCCAFFREY         42 M WOBURN MA                286    6:13  136   33:22   50   23:27 1:03:02
+   96   1/89   F2529      647   MARNIE LAWLER             28 F BEVERLY MA                24    4:35  138   33:27  102   25:00 1:03:02
+   97  20/118  M3034      433   GARY SCHNEIDER            32 M ASHLAND MA               177    5:37   73   31:25  163   26:08 1:03:10
+   98  14/97   M2529      114   JASON EARLEY              26 M WILMINGTON MA                                      106   25:04 1:03:16
+   99   7/19   M5054      847   ROBERT HABERLAND          52 M JAMESTOWN RI              39    4:43   57   30:58  252   27:38 1:03:19
+  100  13/54   M4044      769 F MICHAEL BAKSA             44 M DENNIS MA                182    5:38   45   30:15  245   27:31 1:03:24
+  101   4/18   M2024       50   JEFFREY BENOIT            23 M SEEKONK MA               282    6:12  200   34:50   15   22:23 1:03:25
+  102  21/118  M3034      355 C MICHAEL HARDMAN           31 M PEMBROKE MA              301    6:17   65   31:03  159   26:05 1:03:25
+  103  15/97   M2529      275 C GREG LEWIS                28 M BOSTON MA                209    5:46  104   32:33  110   25:10 1:03:29
+  104   5/18   M2024       49   DAVID WILLIS              22 M CAMBRIDGE MA              31    4:39  126   33:10  142   25:40 1:03:29
+  105  16/97   M2529      115   BRIAN FEHLAU              26 M CAMBRIDGE MA               2    3:59                           1:03:34
+  106  22/118  M3034      455   KENNETH MILLETTE          33 M MANCHESTER NH            207    5:45  101   32:30  122   25:22 1:03:37
+  107   4/6    ELITEF       3   KIM WALDEN                37 F NEWTON MA                 48    4:46  180   34:30   83   24:23 1:03:39
+  108  17/97   M2529      266   PAUL GIRARD               29 M BOSTON MA                376    6:33   97   32:23   93   24:44 1:03:40
+  109   2/24   F4044      699   ROBIN GIEGERICH           40 F TYNGSBORO MA             124    5:24   79   31:37  190   26:41 1:03:42
+  110  18/97   M2529      277 F FREDERICK MACDONALD       29 M SEEKONK MA               231    5:55  118   32:53   98   24:55 1:03:43
+  111  18/84   M3539      682   JOHN RYAN                 39 M MARSHFIELD MA             35    4:41  124   33:05  155   25:58 1:03:44
+  112  19/97   M2529      254 F SHAWN CARMODY             29 M WOODS HOLE MA            148    5:31  115   32:47  131   25:30 1:03:48
+  113  19/84   M3539      695 C BRIAN FERNANDES           39 M PLYMOUTH MA              119    5:21   98   32:24  161   26:07 1:03:52
+  114  20/84   M3539      629   BRIAN BUCHANAN            38 M NEWPORT RI               116    5:20  108   32:40  152   25:53 1:03:53
+  115  20/97   M2529      292   ERIC SNYDER               29 M WELLESLEY MA              96    5:12   66   31:05  251   27:37 1:03:54
+  116   5/6    ELITEF       5   KATIE MCCULLY             35 F EASTHAM MA                26    4:36  128   33:11  164   26:08 1:03:55
+  117  23/118  M3034      361   JAMES MAGALDI             31 M S EASTON MA               67    4:56  111   32:42  179   26:17 1:03:55
+  118  21/84   M3539      617   PAUL SEDGWICK             37 M TEWKSBURY MA              38    4:42   85   31:45  259   27:41 1:04:08
+  119   4/63   F3539      535   STACEY LANE               35 F CHARLESTOWN MA           161    5:33  170   34:21   79   24:21 1:04:15
+  120   5/63   F3539      654   CAROL PENFIELD            38 F ORLEANS MA               125    5:24  154   33:54  101   24:59 1:04:17
+  121  24/118  M3034      369   SCOTT MILLER              31 M LEXINGTON MA             135    5:28  113   32:43  165   26:08 1:04:19
+  122  22/84   M3539      679   KEVIN PRINGLE             39 M WOBURN MA                 83    5:05   90   32:05  222   27:11 1:04:21
+  123   6/6    ELITEF      16   JANE ZEE-ZOUFALY          43 F CENTERVILLE MA            53    4:48  122   32:59  192   26:42 1:04:29
+  124   2/4    M1819       34   MATTHEW EMERY             18 M E DENNIS MA              388    6:37  150   33:48   69   24:06 1:04:31
+  125   1/81   F3034      364 F CATHY MCDONOUGH           31 F WELLFLEET MA              97    5:12  143   33:42  139   25:37 1:04:31
+  126   6/32   M4549      798   DAVID WIEDERSPAHN         45 M CAMBRIDGE MA             189    5:40  139   33:27  127   25:26 1:04:33
+  127   3/4    M1819       33 F MATT BIONDI               18 M NORWALK CT                22    4:32  132   33:17  193   26:47 1:04:36
+  128  25/118  M3034      437   SCOTT STAVELY             32 M FRANKLIN MA              145    5:30  125   33:09  156   25:58 1:04:37
+  129   1/22   F2024       59 A JESSICA TALLMAN           23 F MEDFORD MA               221    5:52  213   35:08   56   23:38 1:04:38
+  130  26/118  M3034      440   MARK BADOWSKY             32 M LINCOLN MA               439    6:48  119   32:54  100   24:58 1:04:40
+  131  14/54   M4044      766   GEOFF SCHEMBECHLER        43 M DUNSTABLE MA              75    4:59   91   32:06  253   27:38 1:04:43
+  132  23/84   M3539      621 F DANIEL SULLIVAN           36 M SOMERVILLE MA            345    6:25  202   34:51   52   23:30 1:04:46
+  133  24/84   M3539      538   TOM OCALLAGHAN            35 M WRENTHAM MA              131    5:26   93   32:13  221   27:10 1:04:49
+  134  21/97   M2529      124   JOHNSTON HUNTRESS         26 M HARDWICK MA              266    6:07  145   33:43  104   25:03 1:04:53
+  135  27/118  M3034      444   CRAIG CORNWALL            33 M CENTERVILLE MA           230    5:54  196   34:46   76   24:18 1:04:58
+  136  28/118  M3034      479 F KENT DAMON                33 M ARLINGTON MA             239    5:57  224   35:25   61   23:48 1:05:10
+  137  29/118  M3034      334 F DAVID TRANT               30 M IPSWICH MA               196    5:41   82   31:43  271   27:53 1:05:17
+  138  25/84   M3539      653 C JIM MIGLIACCIO            38 M WESTON CT                127    5:25  100   32:28  235   27:24 1:05:17
+  139  30/118  M3034      405   IAN FINDLAY               32 M BELMONT MA                99    5:14   81   31:39  309   28:32 1:05:25
+  140  31/118  M3034      324 C DOUGALS MICHAUD           30 M WALTHAM MA                42    4:44  146   33:44  207   26:59 1:05:27
+  141   1/3    M1617       28 F RICHIE GINGRAS            16 M SANDY HOOK CT            648    7:59  261   35:55    7   21:36 1:05:30
+  142   6/18   M2024       72 F IAN INGRAM                23 M SOMERVILLE MA            430    6:47  219   35:18   53   23:30 1:05:35
+  143  32/118  M3034      312   JIM GREGG                 30 M WATERTOWN MA              16    4:25  106   32:39  316   28:40 1:05:44
+  144  26/84   M3539      666   WILLIAM HAYNES            39 M NEEDHAM MA               178    5:37   95   32:15  272   27:53 1:05:45
+  145   7/32   M4549      825 F JAMES RAYMOND             48 M W WAREHAM MA             201    5:43  191   34:43  120   25:21 1:05:47
+  146  22/97   M2529      225   MATT ORRELL               28 M S BOSTON MA               62    4:54  201   34:50  158   26:03 1:05:47
+  147  27/84   M3539      693 F TRENT DAVIS               39 M LEXINGTON MA             551    7:23  129   33:13  113   25:12 1:05:48
+  148   2/89   F2529      116   ANNIE FISHER              26 F CAMBRIDGE MA             243    5:59  103   32:31  232   27:22 1:05:52
+  149  23/97   M2529      104   JON THOMAS                25 M LONG ISLAND CITY NY       43    4:44  164   34:11  214   27:04 1:05:59
+  150   2/81   F3034      399   SUZANNE CRANE             31 F BELMONT MA                63    4:54   89   31:57  353   29:14 1:06:05
+  151   3/89   F2529      279 F LIBBY MARSHALL            28 F CAMBRIDGE MA              64    4:54  208   35:04  168   26:09 1:06:07
+  152  24/97   M2529      144 F PATRICK WAGNER            25 M BOSTON MA                519    7:11  114   32:46  172   26:11 1:06:08
+  153  28/84   M3539      624   BOB THOMPSON              37 M W QUINCY MA              367    6:31  178   34:27  111   25:11 1:06:09
+  154  33/118  M3034      542   JOHN QUINTAS              34 M GOLDSBORO NC             259    6:05  127   33:10  200   26:55 1:06:10
+  155   7/18   M2024       48 F CHRIS WENDEL              22 M CAMBRIDGE MA             270    6:09  279   36:14   62   23:50 1:06:13
+  156   8/18   M2024      908 F MICHAEL MURRAY            23 M MARSTON MILLS MA         190    5:40  288   36:21   75   24:14 1:06:15
+  157  34/118  M3034      503   KEVIN MURPHY              34 M NEWBURYPORT MA           244    5:59  160   34:05  175   26:13 1:06:17
+  158  25/97   M2529      174   JOSEPH MATTA              27 M BROCKTON MA              183    5:38  148   33:45  201   26:56 1:06:19
+  159  35/118  M3034      335 F STEVEN WIGGINS            30 M NEW YORK NY              576    7:30  223   35:24   47   23:25 1:06:19
+  160  26/97   M2529       86   JEFFREY DEE               25 M S BOSTON MA              368    6:31  188   34:39  115   25:13 1:06:23
+  161   4/89   F2529      223 A BRANDY NETTLES            28 F BELMONT MA                14    4:23  140   33:37  305   28:23 1:06:23
+  162  15/54   M4044      703 F MICHAEL JULIANO           40 M LYNNFIELD MA             235    5:56  135   33:21  217   27:07 1:06:24
+  163  27/97   M2529      258   ETHAN COULSON             29 M WEYMOUTH MA               40    4:43  313   36:49   97   24:54 1:06:26
+  164  29/84   M3539      616   TIM SCALES                37 M MARSTONS MILLS MA        184    5:38  177   34:26  182   26:25 1:06:29
+  165   8/32   M4549      806 F FRED EHRSAM               45 M BOSTON MA                120    5:22  226   35:27  144   25:42 1:06:31
+  166  28/97   M2529      149   GREGOR ADAMS              26 M BOSTON MA                155    5:32  130   33:14  261   27:46 1:06:32
+  167   5/89   F2529      216 A LAURA KOERCKEL            28 F BOSTON MA                 50    4:47  163   34:10  257   27:40 1:06:37
+  168   6/63   F3539      636   KIM GEORGIADES            38 F COLCHESTER CT             44    4:44  117   32:52  344   29:01 1:06:37
+  169  29/97   M2529      274 F ROBERT LARCOME            29 M LYNN MA                  132    5:26  310   36:48   84   24:26 1:06:40
+  170  30/84   M3539      578   J BRUCE RICCIUTI          36 M WELLESLEY MA               4    4:06  289   36:22  176   26:15 1:06:43
+  171   9/32   M4549      831   JAMES ORPHAN              48 M WALPOLE MA               214    5:49  149   33:47  218   27:08 1:06:44
+  172  36/118  M3034      379 F GRANT SMITH               31 M NEWBURYPORT MA            61    4:53  292   36:27  129   25:28 1:06:48
+  173  31/84   M3539      554   SHAUN CREMIN              36 M LOWELL MA                396    6:38  255   35:50   86   24:28 1:06:56
+  174  16/54   M4044      783   JIM WEITZ                 44 M SOMERVILLE MA            621    7:48  123   33:01  169   26:09 1:06:58
+  175  30/97   M2529      127   TAKESHI KOBAYASHI         25 M BOSTON MA                408    6:41  249   35:44   89   24:36 1:07:01
+  176   8/19   M5054      839   VINCENT AGUIAR            51 M PAWTUCKET RI             156    5:32  169   34:18  229   27:17 1:07:07
+  177  31/97   M2529      164 F CHRISTOPHER GABEL         27 M BROOKLINE MA             517    7:10  175   34:25  138   25:36 1:07:11
+  178  37/118  M3034      299 C PETER AFANASIW            30 M QUINCY MA                225    5:53   83   31:44  384   29:35 1:07:12
+  179  32/84   M3539      553   RICK CIOLINO              36 M MALDEN MA                247    6:00  247   35:43  130   25:29 1:07:12
+  180   3/24   F4044      747   LORI MCDONALD             42 F CENTERVILLE MA           171    5:36  157   33:58  258   27:40 1:07:14
+  181  33/84   M3539      591   JOHN CLOHERTY             37 M CHARLESTOWN MA           103    5:15  304   36:41  123   25:22 1:07:18
+  182  38/118  M3034      403 C JOSHUA DUBIN              32 M QUINCY MA                422    6:45  179   34:27  166   26:08 1:07:20
+  183   6/89   F2529      219   AMY MAQUIRE               28 F BOSTON MA                260    6:05  268   35:59  121   25:21 1:07:25
+  184   3/81   F3034      329   MELISSA SAMUELS           30 F E HARTFORD CT            485    7:00  192   34:43  146   25:43 1:07:26
+  185  32/97   M2529      195 F ROBERT BIGLER             27 M PHILADELPHIA PA          185    5:38  171   34:23  237   27:25 1:07:26
+  186   9/19   M5054      840 C GLENN RICHARDS            50 M W BOYLSTON MA            172    5:36  166   34:16  255   27:39 1:07:31
+  187  33/97   M2529      125   STEPHAN JOE               25 M RIVERSIDE RI              17    4:25  215   35:10  277   27:59 1:07:34
+  188  10/19   M5054      859   RALPH WHITEHOUSE          53 M PLYMOUTH MA              294    6:15  278   36:13  107   25:08 1:07:36
+  189  34/97   M2529      194 C ANDREW BENNETT            28 M EASTON MA                213    5:48  144   33:42  289   28:07 1:07:37
+  190  35/97   M2529      296   MARK VANDERVELDEN         28 M SWAMPSCOTT MA             93    5:10  280   36:14  178   26:16 1:07:40
+  191  39/118  M3034      483 C TODD ELWELL               34 M NEWTON MA                469    6:57  186   34:36  162   26:07 1:07:40
+  192   7/89   F2529      227 F TARA PARISI               27 F S BOSTON MA              112    5:18  314   36:49  137   25:33 1:07:40
+  193  36/97   M2529      189 F CHRISTOPHER WOODMAN       27 M DOVER NH                 414    6:43  159   34:02  202   26:56 1:07:41
+  194  40/118  M3034      482 C GAVIN DOWELL              34 M S EASTON MA               32    4:39  209   35:05  282   28:02 1:07:46
+  195  34/84   M3539      659   MARK COLOMBO              39 M QUINCY MA                318    6:20  156   33:57  248   27:35 1:07:52
+  196   1/3    F1819       35   KATE KLIM                 18 F CUMMAQUID MA             113    5:18  341   37:20  117   25:17 1:07:55
+  197   8/89   F2529      290   MARTHA SCHNEIDER          29 F CAMBRIDGE MA             335    6:23  205   34:55  189   26:37 1:07:55
+  198  17/54   M4044      796   ANDREW SCHERDING          44 M BREWSTER MA              173    5:36  181   34:30  266   27:50 1:07:56
+  199   1/8    M5559      864   KEN GUILD                 56 M ATTLEBORO MA             283    6:12  194   34:44  208   27:00 1:07:56
+  200  41/118  M3034      424 F JAMES MOLLOY              32 M BRIGHTON MA              360    6:29  273   36:05  125   25:25 1:07:59
+  201   7/63   F3539      633 F CRYSTAL DUELL             38 F BOSTON MA                415    6:43  225   35:26  149   25:50 1:07:59
+  202  37/97   M2529      285 F STEPHEN PUZZO             29 M BOSTON MA                448    6:51  246   35:41  132   25:30 1:08:02
+  203  42/118  M3034      372   ROBERT ORT                31 M BASKING RIDGE NJ         449    6:51  253   35:47  128   25:26 1:08:04
+  204   4/81   F3034      362   KRISTIN MCCOWAN           31 F MELROSE MA                65    4:55  210   35:05  290   28:07 1:08:07
+  205  18/54   M4044      719 C HANS MARQUARDT            41 M MILTON MA                157    5:32  147   33:44  332   28:53 1:08:09
+  206  43/118  M3034      516 F MORT WEBSTER              34 M SOMERVILLE MA            287    6:13  242   35:38  180   26:18 1:08:09
+  207   5/81   F3034      398   JANE CODY                 32 F S BOSTON MA              215    5:50  275   36:10  177   26:15 1:08:15
+  208  44/118  M3034      408 C DANIEL GREER              31 M WOBURN MA                386    6:36  153   33:53  262   27:46 1:08:15
+  209   9/89   F2529      109   CAITLIN CORBIERE          26 F WESTON MA                 73    4:58  232   35:33  260   27:44 1:08:15
+  210  38/97   M2529      207   FILIPPO DEMAGISTRIS       27 M SOMERVILLE MA            253    6:03  234   35:35  191   26:41 1:08:19
+  211   9/18   M2024       41 F CARMODY HUNTRESS          20 M HARWICK MA               383    6:35  197   34:46  211   27:01 1:08:22
+  212   8/63   F3539      573   AMY PEACOCK               36 F OSTERVILLE MA            167    5:35  195   34:45  283   28:02 1:08:22
+  213  39/97   M2529      234 F GARY RAWDON               28 M WEYMOUTH MA              136    5:28                           1:08:24
+  214  19/54   M4044      762 C ALEXANDER MCWILLIAMS      43 M DENNISPORT MA            470    6:57  158   34:01  246   27:31 1:08:29
+  215  35/84   M3539      645 F JAMES LABECK              37 M CHARLESTOWN MA           568    7:27  231   35:32  133   25:30 1:08:29
+  216  45/118  M3034      416 C CHIP LEWIS                32 M NEW YORK NY              450    6:51  182   34:32  220   27:09 1:08:32
+  217   2/22   F2024       74   MOLLY MCGIRR              24 F GOLDSBORO NC              51    4:47  218   35:16  310   28:32 1:08:35
+  218  46/118  M3034      338   MARK AUCLAIR              31 M MARBLEHEAD MA            245    5:59  151   33:48  328   28:50 1:08:37
+  219  10/32   M4549      818   RON CONRAD                48 M TROY NY                  222    5:52                           1:08:41
+  220   9/63   F3539      609   MARY-JEANNE MANNING       37 F DEDHAM MA                149    5:31  270   36:01  223   27:11 1:08:43
+  221  47/118  M3034      423   KYLE MEROLLA              32 M SOMERVILLE MA            486    7:00  256   35:50  154   25:57 1:08:47
+  222  10/89   F2529      142   CHELYNN TETREAULT         25 F JAMAICA  PLAIN MA        384    6:35  326   36:59  116   25:14 1:08:48
+  223   2/8    M5559      869   EUGENE POOL               58 M BELLMONT MA              400    6:39  237   35:36  187   26:33 1:08:48
+  224   1/5    F5054      860   KAREN SMITH-ROHRBERG      54 F W  FALMOUTH MA           191    5:40  176   34:25  321   28:43 1:08:48
+  225  48/118  M3034      468   MICHAEL WEISSENBERGER     33 M MARBLEHEAD MA            278    6:11  243   35:38  213   27:03 1:08:52
+  226  49/118  M3034      302 F ANDREW COLLIGAN           30 M CHARLESTOWN MA                                     167   26:08 1:08:58
+  227  40/97   M2529      156 F LLOYD DAHMEN              26 M MEDFORD MA               336    6:23  174   34:24  292   28:13 1:09:00
+  228  50/118  M3034      301 F THOMAS BELL               30 M CHARLESTOWN MA           440    6:48  293   36:29  150   25:50 1:09:07
+  229  11/89   F2529      166   PATTY GERMANI             27 F OSTERVILLE MA            353    6:27  193   34:43  281   28:00 1:09:10
+  230  51/118  M3034      447 F JOHN FRANCINI             33 M BEDFORD MA               226    5:53  311   36:48  186   26:31 1:09:12
+  231   2/5    F5054      844   PEG BUXTON                52 F STERLING MA                                        203   26:57 1:09:13
+  232  12/89   F2529      235   ALLISON RENNA             28 F WALTHAM MA               357    6:28  265   35:57  197   26:50 1:09:15
+  233  36/84   M3539      680 C RON RAKOW                 39 M W ROXBURY MA             284    6:12  277   36:12  198   26:51 1:09:15
+  234  37/84   M3539      626   DANIEL WEBB               37 M FALMOUTH MA              174    5:36  308   36:46  212   27:01 1:09:23
+  235   4/24   F4044      767 F KERRY TOGHERI             43 F TURNERS FALLS MA         319    6:20  172   34:23  296   28:16 1:09:29    0:30
+  236  52/118  M3034      305   SCOTT COTTER              30 M WALTHAM MA               639    7:56  141   33:38  275   27:58 1:09:32
+  237  53/118  M3034      375 F BRIAN PATRICAN            31 M TOPSFIELD MA             219    5:51  342   37:20  183   26:25 1:09:36
+  238  41/97   M2529      121 F DAVID HANSEL              25 M BRIGHTON MA              126    5:24  271   36:03  293   28:14 1:09:41
+  239  42/97   M2529       89 F TRENT HAYDEN              25 M AMHERST MA               261    6:05  363   37:50  148   25:48 1:09:43
+  240  13/89   F2529      248   BETH BACKER               28 F BROOKLINE MA              68    4:56  359   37:45  215   27:04 1:09:45
+  241  14/89   F2529      330   JENNIFER SCALISE          29 F MEDFORD MA                36    4:41  291   36:23  324   28:46 1:09:50
+  242  43/97   M2529      175 C NATHAN MCBRIDE            27 M FRAMINGHAM MA            100    5:14  155   33:56  456   30:41 1:09:51
+  243  11/32   M4549      790 F BRAD CHAPIN               45 M AYER MA                  691    8:23  207   35:03  184   26:28 1:09:54
+  244   2/3    M1617       31   PAUL ZIOLKOWSKI           17 M MELROSE MA                56    4:49  239   35:37  377   29:32 1:09:58
+  245  10/63   F3539      696   CARLA FERRARA             39 F LONDONDERRY NH           578    7:31  214   35:09  231   27:19 1:09:59
+  246  38/84   M3539      665   VAUGHN HARRING            38 M CARLISLE MA              411    6:42  222   35:21  278   27:59 1:10:02
+  247   6/81   F3034      376   AMANDA PEARSON            31 F CAMBRIDGE MA              94    5:11  284   36:16  314   28:37 1:10:04
+  248  15/89   F2529      230   SARA POOR                 28 F BOSTON MA                504    7:07  233   35:33  238   27:25 1:10:05
+  249  10/18   M2024       80   DANIEL VALENTE            23 M COTUIT MA                358    6:28  217   35:13  306   28:25 1:10:06
+  250  11/63   F3539      555   TRISH CUNDIFF             36 F SANDWICH MA              401    6:39  162   34:08  361   29:20 1:10:07
+  251  16/89   F2529      246 F MICHAELA WIEGEL           28 F CAMBRIDGE MA             271    6:09  198   34:46  354   29:14 1:10:09
+  252  39/84   M3539      562   JIMMY KANTOR              36 M SWAMPSCOTT MA MA          60    4:51  281   36:14  346   29:05 1:10:10
+  253  12/32   M4549      809   PAUL LAZZARO              46 M WALPOLE MA               289    6:14  184   34:35  363   29:22 1:10:11
+  254  11/18   M2024       45   BENJAMIN LOSORDO          22 M E SANDWICH MA            320    6:20  229   35:31  303   28:22 1:10:13
+  255   7/81   F3034      439   HEATHER ATWOOD            33 F MANCHESTER MA            236    5:56  262   35:55  304   28:22 1:10:13
+  256  17/89   F2529      291   KAREN SCHROEDER           28 F BOSTON MA                385    6:35  373   38:00  141   25:39 1:10:14
+  257  54/118  M3034      363   J STEPHEN MCCRACKEN       31 M BRISTOL RI               254    6:03  344   37:24  194   26:47 1:10:14
+  258  40/84   M3539      652 C THOMAS MEYERS             38 M ATTLEBORO MA             179    5:37   55   30:48  602   33:51 1:10:16
+  259  18/89   F2529      251   LAURA BRINK               29 F WATERTOWN MA             227    5:53  203   34:53  380   29:33 1:10:19
+  260  55/118  M3034      422   NELSON MEDEIROS           32 M HOLLISTON MA             220    5:51  240   35:37  333   28:53 1:10:21
+  261  56/118  M3034      474 C LEE COOK                  34 M PLYMPTON MA              262    6:05  227   35:29  329   28:50 1:10:24
+  262  44/97   M2529      129   COLIN MCDEVITT            26 M BRIGHTON MA              674    8:15  276   36:10  157   26:00 1:10:25
+  263   1/5    M6064      874   BERNIE JENSEN             60 M BOLTON MA                325    6:21  251   35:45  300   28:19 1:10:25
+  264  57/118  M3034      356 C BOB HUTCHINSON            31 M BOSTON MA                608    7:43  211   35:06  256   27:39 1:10:28
+  265  45/97   M2529      259 C CUAN COULTER              28 M CHARLESTOWN MA            18    4:27  187   34:37  497   31:25 1:10:29
+  266  19/89   F2529      236 F KRISTY RICH               28 F S BOSTON MA              361    6:29  358   37:43  181   26:19 1:10:31
+  267  13/32   M4549      793   BILL HENNING              45 M CENTERVILLE MA           520    7:11  152   33:50  381   29:33 1:10:34
+  268  20/89   F2529      256   JULIE CHASSER             28 F BRIGHTON MA               81    5:04  305   36:42  327   28:49 1:10:35
+  269   5/24   F4044      706   JEANNE MAHON              40 F STOW MA                  366    6:30  161   34:07  418   29:59 1:10:36
+  270   8/81   F3034      514   CYNTHIA SHERMAN           34 F SANDWICH MA              455    6:53  216   35:12  313   28:36 1:10:41
+  271  58/118  M3034      300   ROBERT BEATTY             30 M QUINCY MA                431    6:47  189   34:39  357   29:16 1:10:42
+  272  21/89   F2529      177 F MOLLY MILLER              26 F NEW CANAAN CT            389    6:37  295   36:33  247   27:32 1:10:42
+  273  59/118  M3034      337 F ADAM ANDERSON             31 M STOUGHTON MA             311    6:19  312   36:48  250   27:36 1:10:43
+  274  22/89   F2529      297   DEBORAH WATTS             28 F BOSTON MA                240    5:57  165   34:13  453   30:38 1:10:48
+  275  60/118  M3034      342 F GAVIN BRAITHWAITE         30 M CAMBRIDGE MA             442    6:49  336   37:12  195   26:49 1:10:50
+  276   9/81   F3034      419   LEIGH ANN MALONEY         32 F BRIGHTON MA              452    6:52  300   36:37  236   27:24 1:10:53
+  277  41/84   M3539      661   DAVID DESANTIS            39 M MILTON MA                192    5:40  385   38:17  205   26:58 1:10:55
+  278  12/63   F3539      594   ELLEN CRAVEN              36 F WELLFLEET MA             346    6:25  323   36:56  254   27:38 1:10:59
+  279  46/97   M2529      281   BRITT MCLOY               29 M NEW HAVEN CT             199    5:42  354   37:33  263   27:46 1:11:01
+  280  47/97   M2529      308   MARK DAOUST               29 M S BOSTON MA              379    6:34  403   38:46  145   25:42 1:11:02
+  281  10/81   F3034      391 F NOEL ASHEKIAN             32 F BOSTON MA                377    6:33  335   37:10  240   27:26 1:11:09
+  282  61/118  M3034      262   DAVID DILLEY              30 M WALTHAM MA               202    5:43  366   37:52  249   27:35 1:11:10
+  283  62/118  M3034      348 F P MICHAEL DAOUST          31 M CAMBRIDGE MA             432    6:47  379   38:11  173   26:12 1:11:10
+  284   6/24   F4044      689   ANDREA CADWELL            41 F NEWBURYPORT MA           297    6:16  109   32:41  537   32:17 1:11:14
+  285  42/84   M3539      660   ASHWIN DESAI              38 M NEWTON MA                374    6:32  259   35:54  326   28:48 1:11:14
+  286  48/97   M2529      276 F CAROLOS LIVADAS           29 M CAMBRIDGE MA             121    5:22  345   37:24  315   28:38 1:11:24
+  287   2/3    F1819       39   SARAH NEWCOMB             19 F ORLEANS MA                46    4:45  360   37:46  335   28:54 1:11:25
+  288  43/84   M3539      657 C RICHARD VELLANTE          37 M MILLIS MA                306    6:18  407   38:55  174   26:12 1:11:25
+  289  23/89   F2529      180 F KATIE OSHEA               27 F S BOSTON MA              577    7:30  328   37:01  188   26:33 1:11:34    0:30
+  290  20/54   M4044      778 F THOMAS MISKIV             44 M CENTERVILLE MA           595    7:37  333   37:09  196   26:49 1:11:35
+  291  63/118  M3034      407 F MARCELLO GALLO            31 M NEWTON MA                443    6:49  185   34:35  428   30:13 1:11:37
+  292  64/118  M3034      343   MARK BROWN                31 M SALEM MA                 331    6:22  555   41:56   44   23:19 1:11:37
+  293  49/97   M2529      162 F PAUL FILANOWSKI           27 M ROWAYTON CT               88    5:07  204   34:53  505   31:39 1:11:39
+  294  14/32   M4549      829   MARK MOONEY               49 M ACTON MA                 279    6:11  337   37:13  297   28:16 1:11:40
+  295  50/97   M2529      130   TOM MCDONALD              25 M GREENFIELD MA            581    7:32  286   36:18  273   27:54 1:11:44
+  296  44/84   M3539      651   PAUL MCGINN               38 M DELMAR NY                197    5:41  250   35:44  431   30:19 1:11:44
+  297  24/89   F2529      126   AMIE JOSEPH               26 F SOMERVILLE MA            137    5:28  235   35:35  460   30:45 1:11:48
+  298  21/54   M4044      760 C DAVID LENNOX              43 M MEDWAY MA                490    7:01                           1:11:48
+  299  11/81   F3034      492   KAREN LANMAN              34 F DUXBURY MA               475    6:58  206   34:59  419   29:59 1:11:56
+  300  22/54   M4044      745   KEVIN KNOX                42 M QUINCY MA                427    6:46  190   34:40  449   30:31 1:11:57
+  301  65/118  M3034      393 F JAMES BARRETT             31 M NORTON MA                476    6:58  272   36:04  343   29:00 1:12:02
+  302  13/63   F3539      579 F SUSAN SAMA                36 F SOMERVILLE MA            193    5:40  294   36:29  410   29:54 1:12:03
+  303  66/118  M3034      495 C RICK MAAS                 34 M CHARLESTOWN MA           246    5:59  167   34:16  518   31:53 1:12:08
+  304  25/89   F2529      171 F MONIQUE LAPPAS            27 F MEDFORD MA                79    5:01  384   38:15  336   28:54 1:12:10
+  305  23/54   M4044      731   DAVID BOWDEN              42 M ROXBURY MA               582    7:32  445   39:39   87   24:30 1:12:11    0:30
+  306  51/97   M2529      184 F JOE RISGIN                26 M ROCHESTER MA             614    7:46  330   37:03  233   27:23 1:12:12
+  307  45/84   M3539      912   PJ SEISWERDA              36 M MALDEN MA                128    5:25  318   36:54  411   29:56 1:12:15
+  308  12/81   F3034      501   PAULA MOYER               34 F LINCOLN MA               347    6:25  274   36:05  400   29:48 1:12:18
+  309  13/81   F3034      448   LISA FREUDENHEIM          32 F BOSTON MA                354    6:27  375   38:06  267   27:50 1:12:23
+  310  46/84   M3539      581 C KEVIN TROY                36 M SHARON MA                509    7:09  183   34:34  457   30:41 1:12:24
+  311  67/118  M3034      480 C WILLIAM DEACON            33 M BOSTON MA                298    6:16  290   36:22  398   29:47 1:12:25
+  312  52/97   M2529      203   PETER CAPOZZOLI           28 M BOSTON MA                521    7:12  343   37:23  269   27:51 1:12:26
+  313  68/118  M3034      389   MICHAEL ZACCARDI          31 M MEDFORD MA               332    6:22  462   39:59  160   26:06 1:12:27
+  314  53/97   M2529      220 F MICHAEL MAQUIRE           27 M BOSTON MA                615    7:46  238   35:36  347   29:07 1:12:29
+  315  14/81   F3034      499 F KIMBERLY MELLONI          34 F WAREHAM MA               491    7:01  244   35:38  407   29:52 1:12:31
+  316  47/84   M3539      630   JACK CARTER               37 M NEW BEDFORD MA           579    7:31  228   35:30  374   29:30 1:12:31
+  317  69/118  M3034      310 C BILLY DUNCAN              30 M QUINCY MA                405    6:40  368   37:53  276   27:58 1:12:31
+  318  54/97   M2529      137 F BRENDAN RYAN              25 M BRIGHTON MA              312    6:19  380   38:11  284   28:02 1:12:32
+  319  24/54   M4044      725   PAUL RICE                 41 M MEDWAY MA                248    6:00  321   36:55  387   29:38 1:12:33
+  320  70/118  M3034      536 F SEAN LAWLESS              34 M ROSLINDALE MA            150    5:31  382   38:13  330   28:50 1:12:34
+  321   1/9    F4549      819   DONNA HARKNESS            48 F HINGHAM MA               302    6:17  260   35:54  438   30:23 1:12:34
+  322  26/89   F2529      239   STEFANIE SOUTO            28 F SEEKONK MA               143    5:29  483   40:17  199   26:52 1:12:38
+  323  71/118  M3034      435 C MARK SNYDER               31 M PLYMOUTH MA              175    5:36  388   38:21  323   28:45 1:12:42
+  324  15/81   F3034      494   AMY JEAN LUSSIER          34 F CHARLESTOWN MA           616    7:46  245   35:39  360   29:19 1:12:44
+  325  55/97   M2529       88 F KEN GURSKI                25 M BROOKLINE MA             522    7:13  504   40:42   96   24:49 1:12:44
+  326  56/97   M2529      146 C JOE WESOLASKI             26 M NEW YORK NY              409    6:41  301   36:39  368   29:25 1:12:45
+  327  27/89   F2529      242   ERIN SULLIVAN             28 F BOSTON MA                507    7:08  449   39:42  153   25:56 1:12:46
+  328  14/63   F3539      625   DOROTHY WALSH             37 F BRAINTREE MA             453    6:52  199   34:48  484   31:06 1:12:46
+  329  15/63   F3539      634   LISA GALLAGHER            38 F BRAINTREE MA             627    7:50  302   36:40  270   27:51 1:12:51    0:30
+  330  16/63   F3539      575   GRAZIELLA PIEPENBURG      36 F BOSTON MA                                          420   29:59 1:12:52
+  331   3/22   F2024       66 A OLIVIA CHAMBERLAND        24 F QUINCY MA                410    6:41  252   35:45  445   30:28 1:12:54
+  332  16/81   F3034      456 F GAIL MONAGHAN             33 F BRIGHTON MA              664    8:08  324   36:57  265   27:49 1:12:54
+  333  72/118  M3034      368   DAVID MICHAUD             31 M NORTON MA                272    6:09  319   36:54  414   29:57 1:13:00
+  334  48/84   M3539      569 C AL MOGRASS                36 M S YARMOUTH MA            477    6:58  316   36:51  351   29:11 1:13:00
+  335  25/54   M4044      779 C STEVEN PUTNAM             44 M SANDWICH MA              423    6:45  168   34:17  522   32:00 1:13:02
+  336  49/84   M3539      596   TZANKO DONKOV             37 M DORCHESTER MA            299    6:16  410   38:56  268   27:50 1:13:02
+  337  28/89   F2529      103 F LEELA SUNDQUIST           25 F S HADLEY MA              584    7:33  282   36:14  358   29:16 1:13:03
+  338  29/89   F2529      118   AUDREY GEORGULES          26 F NEEDHAM MA               176    5:36  370   37:58  376   29:31 1:13:05
+  339  15/32   M4549      804   GLENN DIAMOND             45 M LYNN MA                  307    6:18  601   43:26   49   23:26 1:13:10
+  340  30/89   F2529      132   SAGE MORRISON             26 F CAMBRIDGE MA              89    5:08  267   35:58  530   32:08 1:13:14
+  341  73/118  M3034      461   PETER NELSON              33 M ANNISQUAM MA             144    5:29  297   36:34  493   31:16 1:13:19
+  342   7/24   F4044      691   LAEL COOK                 40 F WENHAM MA                487    7:00  340   37:17  345   29:03 1:13:20
+  343  16/32   M4549      799 F JOE WOTCIK                45 M ATTLEBORO MA             499    7:04  350   37:28  331   28:52 1:13:24
+  344  17/63   F3539      669   LYNN KISSELBACH           38 F GROTON MA                203    5:43  264   35:56  513   31:50 1:13:29
+  345  12/18   M2024       70 F WILLIAM HICKEY            24 M BROOKLINE MA             609    7:44  394   38:36  225   27:12 1:13:32
+  346  17/81   F3034      385 F PATTY THOMPSON            31 F SCITUATE MA              660    8:06  411   38:56  185   26:30 1:13:32
+  347  57/97   M2529      110 C CHRISTOPHER CREMA         26 M ORLEANS MA               539    7:18  257   35:50  442   30:24 1:13:32
+  348  18/63   F3539      582   KAREN WALKER              36 F LEXINGTON MA             273    6:09  355   37:33  408   29:52 1:13:34
+  349  26/54   M4044      751   GERRY POULIOT             42 M ANDOVER MA               406    6:40  317   36:52  421   30:03 1:13:35
+  350  74/118  M3034      327 F TIMOTHY QUINN             30 M CHAPEL HILL NC           588    7:34                           1:13:35
+  351  31/89   F2529      280   JENNIFER MCCRACKEN        28 F BRISTOL RI               158    5:32  408   38:55  350   29:10 1:13:37
+  352  50/84   M3539      676 C DOUG MURPHY               38 M NORTON MA                559    7:25  269   35:59  429   30:13 1:13:37
+  353  27/54   M4044      708 C JOHN MCDONALD             40 M SOUTHBORO MA             433    6:47  331   37:07  395   29:44 1:13:38
+  354  51/84   M3539      589   WALTER BURGESS            37 M QUINCY MA                693    8:25  364   37:50  239   27:25 1:13:40
+  355  58/97   M2529      260   TODD CRUMB                29 M DERRY NH                 146    5:30  346   37:25  461   30:46 1:13:41
+  356  18/81   F3034      404   REBECCA FARR              32 F WOBURN MA                552    7:23  334   37:09  349   29:09 1:13:41
+  357  59/97   M2529      269   TOBIAS HOGAN              29 M BROOKLINE MA             151    5:31  389   38:23  401   29:48 1:13:42
+  358  32/89   F2529      198 F TRICIA BOEHNER            28 F TAUNTON MA               570    7:28  306   36:43  382   29:33 1:13:44
+  359  17/32   M4549      788   JAMES BROWN               45 M TEWKSBURY MA             268    6:08  325   36:58  454   30:39 1:13:45
+  360  75/118  M3034      450   RUSSELL LONGUEMARE        33 M BRAINTREE MA             326    6:21  404   38:50  317   28:40 1:13:51
+  361  28/54   M4044      774 F TONY GULLY                44 M NORWELL MA               390    6:37  478   40:11  216   27:04 1:13:52
+  362  11/19   M5054      835 C STEPHEN CEGLARSKI         50 M MILTON MA                444    6:49  298   36:35  446   30:29 1:13:53
+  363   3/8    M5559      873   JOHN FARR                 59 M LONDONDERRY NH           465    6:55  401   38:44  294   28:14 1:13:53
+  364  52/84   M3539      603 C PARKER KING               37 M BOSTON MA                290    6:14  230   35:31  531   32:08 1:13:53
+  365  76/118  M3034      360 C MARK LITTLEFIELD          31 M NASHUA NH                397    6:38  309   36:46  451   30:33 1:13:57
+  366   1/4    F5559      872   PATRICIA RYAN             59 F MEDFORD MA               456    6:53  283   36:14  475   30:57 1:14:04
+  367  13/18   M2024       67 F DAVID CURTISS             24 M BROOKLINE MA             337    6:23  461   39:58  264   27:46 1:14:07
+  368   4/22   F2024       60 F MELISSA TRITTER           23 F CAMBRIDGE MA             223    5:52  472   40:07  298   28:16 1:14:15
+  369  29/54   M4044      733 C STEVE BUTLER              42 M WESTPORT MA              291    6:14  248   35:43  538   32:19 1:14:16
+  370   5/22   F2024      105 F HEATHER WILLIAMS          24 F BOSTON MA                752   11:02  212   35:07  291   28:09 1:14:18
+  371  33/89   F2529      147 F ELLEN WHITMAN             26 F SOMERVILLE MA            510    7:09  479   40:12  206   26:58 1:14:19
+  372  14/18   M2024       58   JOHN RYLEY                23 M E SANDWICH MA            391    6:37  371   37:58  396   29:46 1:14:21
+  373  19/81   F3034      534 A CATHY KILBURN             34 F WESTBROOK ME             216    5:50  405   38:51  390   29:40 1:14:21
+  374  60/97   M2529      295 C BRIAN SWARTZ              29 M BRIGHTON MA              457    6:53  464   40:01  244   27:30 1:14:24
+  375  77/118  M3034      432 F MICHAEL SCHIANO           32 M NEWTON MA                454    6:52  221   35:20  535   32:13 1:14:25
+  376  30/54   M4044      777   JAMES MADIGAN             43 M WINDHAM NH               530    7:15  329   37:02  427   30:10 1:14:27
+  377  18/32   M4549      805   PAUL DONAGHUE             46 M N CHELMSFORD MA          277    6:10  254   35:48  548   32:32 1:14:30
+  378  78/118  M3034      427 F DAVID RIDDLER             32 M NORFOLK MA               591    7:35  266   35:57  479   31:01 1:14:33
+  379  79/118  M3034      441 F JAMES BARRETT             33 M MILTON MA                553    7:23  454   39:45  241   27:26 1:14:34
+  380  53/84   M3539      663 C JAY GAUTHIER              39 M SOUTHBORO MA             264    6:06  241   35:37  562   32:55 1:14:38
+  381  61/97   M2529      183 F SCOTT REILAND             27 M WALTHAM MA               138    5:28  438   39:33  389   29:39 1:14:40
+  382  80/118  M3034      491 F JOE KEENAN                34 M COHASSET MA              575    7:29  422   39:15  285   28:03 1:14:47
+  383  62/97   M2529      168   KARL HAUSHALTER           27 M SAN JUAN CAPISTRANO CA    57    4:49  527   41:12  325   28:47 1:14:48
+  384  63/97   M2529      243   LINUS SUN                 28 M CAMBRIDGE MA             541    7:20  485   40:20  224   27:11 1:14:51
+  385  20/81   F3034      504   MAUREEN NEE               34 F ARLINGTON MA             536    7:17  351   37:29  423   30:06 1:14:52
+  386  81/118  M3034      359   KEN LAWLER                31 M BEVERLY MA                 3    4:05  320   36:54  606   33:54 1:14:53
+  387  34/89   F2529      231 F CAROLINE PREECE           28 F NATICK MA                134    5:27  571   42:16  227   27:14 1:14:57
+  388  12/19   M5054      851   JERRY MORRIS              51 M TEATICKET MA             508    7:08  419   39:09  318   28:40 1:14:57
+  389   6/22   F2024       81   MIRIAM ZUK                24 F CAMBRIDGE MA             292    6:14  396   38:39  422   30:04 1:14:57
+  390  21/81   F3034      489   MARGARET HARTNETT         34 F CHELSEA MA               580    7:31  332   37:08  437   30:22 1:15:01
+  391  19/63   F3539      558 F CAROLYN EWALD             36 F SCARBOROUGH ME           338    6:23  433   39:25  322   28:44 1:15:02    0:30
+  392   7/22   F2024       57 F TARA RAGAN                22 F ROXBURY MA               250    6:02  446   39:39  362   29:21 1:15:02
+  393  20/63   F3539      587   JULIE BARRETT             37 F CAMBRIDGE MA             380    6:34  439   39:33  337   28:57 1:15:04
+  394  22/81   F3034      460 F TERRI MURRAY              32 F MILTON MA                697    8:29  357   37:37  339   28:58 1:15:04
+  395  13/14   ELITEM      13   DAN LONERGAN              39 M BELMONT MA               206    5:44  505   40:44  319   28:40 1:15:08
+  396  54/84   M3539      520 F JOE DEMEO                 35 M NEWTON MA                458    6:53  511   40:49  242   27:27 1:15:09
+  397  35/89   F2529      148   KARLA YOUNGREN            25 F BOSTON MA                303    6:17  538   41:25  243   27:28 1:15:10
+  398  31/54   M4044      782   ALAN TREBAT               44 M FRANKLIN MA              632    7:53  322   36:55  439   30:23 1:15:11
+  399  23/81   F3034      383   TAMMY SWIFT               31 F KINGSTON MA              369    6:31  367   37:52  466   30:50 1:15:13
+  400  82/118  M3034      351   STEPHEN EUBANKS           31 M BOSTON MA                265    6:06  378   38:10  476   30:57 1:15:13
+  401  32/54   M4044      775 F TIMOTHY HERRICK           43 M CENTERVILLE MA           251    6:02  508   40:45  307   28:27 1:15:14
+  402  21/63   F3539      627 A CHERYL BAYUK              37 F BARRINGTON RI            333    6:22  347   37:25  501   31:31 1:15:18
+  403  33/54   M4044      722 C JACK OCONNOR              41 M NEEDHAM MA               339    6:23  423   39:15  391   29:41 1:15:19
+  404   4/8    M5559      871   THOMAS PAQUETTE           58 M WALTHAM MA               471    6:57  412   38:56  388   29:38 1:15:31
+  405  15/18   M2024       55 F JEFF OSTASZEWSKI          23 M BOSTON MA                492    7:01  549   41:36  204   26:57 1:15:34
+  406  22/63   F3539      642   MARY KACZKA               38 F N CHATHAM MA             554    7:23  390   38:23  402   29:48 1:15:34
+  407   8/22   F2024       96   EWA REPPLING              24 F SOMERVILLE MA            525    7:14  361   37:47  452   30:35 1:15:36
+  408  64/97   M2529       83   NATHAN BELL               25 M S WEYMOUTH MA            548    7:22  349   37:26  467   30:50 1:15:38
+  409  65/97   M2529      155   MATTHEW CROWLEY           27 M SOMERVILLE MA            348    6:25  531   41:16  279   27:59 1:15:40
+  410  34/54   M4044      735   MICHAEL CLARKE            42 M QUINCY MA                392    6:37  327   36:59  532   32:08 1:15:44
+  411  36/89   F2529      185   AMANDA TUCH               27 F NEWTON MA                255    6:03  258   35:51  600   33:50 1:15:44
+  412  35/54   M4044      761   DEVIN MCMANUS             42 M FALMOUTH MA              210    5:46  560   41:59  286   28:04 1:15:49
+  413  19/32   M4549      827   MARK CHRUSZ               49 M ROCHESTER NH             256    6:03  356   37:34  533   32:12 1:15:49
+  414  83/118  M3034      522   RICK DESROSIERS           34 M NEWTONVILLE MA           511    7:09  426   39:18  366   29:24 1:15:51
+  415  24/81   F3034      497   LISA MARNELL              33 F DUXBURY MA               560    7:25  429   39:20  348   29:07 1:15:52
+  416  55/84   M3539      673 F GERRY MCGUNNIGAL          39 M BROCKTON MA              472    6:57  436   39:31  375   29:30 1:15:58
+  417  56/84   M3539      565 F PETER LAVELLE             36 M BRIGHTON MA              544    7:21  529   41:15  234   27:23 1:15:59
+  418  25/81   F3034      306 F KATE COUGHLIN             30 F BROOKLINE MA             633    7:53  443   39:37  308   28:31 1:16:01
+  419  57/84   M3539      697 F KEVIN FLYNN               39 M NORWELL MA               561    7:25  493   40:33  288   28:06 1:16:04
+  420   9/22   F2024       61 F AMANDA AMATO              24 F ARLINGTON MA             139    5:28  398   38:43  520   31:55 1:16:06
+  421  37/89   F2529      271 F DEBORAH KELLEY            29 F PORTLAND ME              263    6:05  491   40:28  383   29:33 1:16:06
+  422  66/97   M2529      186 F BRYCE TUPPER              27 M SOMERVILLE MA            398    6:38  499   40:36  341   28:59 1:16:13
+  423  67/97   M2529      255 F KEVIN CARTER              29 M BRISTOL CT               523    7:13  444   39:37  367   29:24 1:16:14
+  424  20/32   M4549      786   SY YULES                  45 M N ATTLEBORO MA           424    6:45  365   37:50  507   31:40 1:16:15
+  425  10/22   F2024       62   LAURA BARBER              23 F HULL MA                  592    7:35  353   37:32  489   31:12 1:16:19
+  426  26/81   F3034      349   TRACY DARPINO             31 F N EASTON MA              555    7:23  395   38:37  433   30:21 1:16:21
+  427  23/63   F3539      658   BEVERLY BIERMAN           39 F SHREWSBURY MA            531    7:15  402   38:45  434   30:21 1:16:21
+  428  84/118  M3034      426   JAMES PENDER              32 M S BOSTON MA              370    6:31  484   40:18  378   29:32 1:16:21
+  429  68/97   M2529      298 F STUART WILLIAMS           29 M BOSTON MA                194    5:40  285   36:16  629   34:34 1:16:30
+  430  69/97   M2529      215 C SEAN KILEY                28 M NEW YORK NY              228    5:53  530   41:15  365   29:23 1:16:31
+  431   5/8    M5559      870   ANTHONY RICHARD           57 M BRAINTREE MA             675    8:15  220   35:19  564   32:58 1:16:32
+  432  58/84   M3539      540   JAMES PHILLIPS            35 M MEDWAY MA                342    6:24  418   39:07  480   31:01 1:16:32
+  433   8/24   F4044      692   SUE DALPONTE              40 F LEBANON CT               644    7:58  338   37:16  494   31:18 1:16:32
+  434  59/84   M3539      909 F BRIAN MAXWELL             35 M DERRY NH                 362    6:29  287   36:18  598   33:46 1:16:33
+  435  38/89   F2529      232   KRISTEN PREMERLANI        28 F CAMBRIDGE MA             355    6:27  428   39:19  463   30:47 1:16:33
+  436  36/54   M4044      765   JOHN PICCIONE             42 M WESTON MA                654    8:03  417   39:06  369   29:25 1:16:34
+  437  70/97   M2529      268   REGINALD HARRISON         29 M EXTON PA                 402    6:39  516   40:59  338   28:57 1:16:35
+  438  39/89   F2529      160 F MEREDITH EAST             26 F BOSTON MA                601    7:40  480   40:13  320   28:42 1:16:35
+  439  40/89   F2529      143 F KARIN UMSTEAD             26 F MANCHESTER MA            512    7:09  465   40:01  371   29:26 1:16:36
+  440  41/89   F2529      212   JENNIFER HUGHES           27 F PROVIDENCE RI            211    5:46  512   40:49  424   30:06 1:16:41
+  441  71/97   M2529      284   RAYMOND PELERI            29 M PEABODY MA               495    7:02  303   36:40  567   33:00 1:16:42
+  442  37/54   M4044      750   WILLIAM OBRIEN            42 M SOMERVILLE MA            585    7:33  558   41:58  226   27:12 1:16:43
+  443  60/84   M3539      632   JEFFREY DRETLER           37 M SOMERVILLE MA            313    6:19  469   40:04  432   30:20 1:16:43
+  444  11/22   F2024       53 A MEG MURPHY                23 F WATERTOWN MA              71    4:57  383   38:14  591   33:37 1:16:48
+  445  72/97   M2529      214   CHRIS JACKSON             27 M S BOSTON MA              501    7:05  458   39:57  399   29:47 1:16:49
+  446  42/89   F2529      286 A JULIE RIBLETT             29 F NEWTON MA                610    7:44  450   39:42  370   29:25 1:16:51
+  447  61/84   M3539      537 F JOSEPH MACDONALD          35 M YARMOUTH ME              349    6:25  575   42:28  280   27:59 1:16:52
+  448  12/22   F2024       73 F STACEY KIELMAN            23 F NEWTON CENTRE MA         343    6:24  430   39:22  486   31:07 1:16:53
+  449  85/118  M3034      436   SCOTT STANLEY             31 M BELLINGHAM MA            603    7:41  236   35:35  592   33:37 1:16:53
+  450  24/63   F3539      640 F SUSAN HENDY               38 F E SANDWICH MA            242    5:58  391   38:24  556   32:39 1:17:01
+  451  21/32   M4549      787 C ROBERT BLOOMER            45 M BREWSTER MA              513    7:09  352   37:31  543   32:22 1:17:02
+  452  73/97   M2529      190 C OLLIE ZENK                27 M E FALMOUTH MA            526    7:14  134   33:20  679   36:29 1:17:03
+  453  25/63   F3539      560   JANE HAYES                36 F WATERTOWN MA              28    4:37  509   40:48  514   31:50 1:17:15
+  454  86/118  M3034      314   BRETT HAUSER              30 M BOSTON MA                224    5:52  518   41:01  440   30:23 1:17:16
+  455  87/118  M3034      318   BRETT KOPALA              30 M WALTHAM MA               715    8:46  377   38:09  441   30:23 1:17:18
+  456  13/19   M5054      841 F MARK STANLEY              51 M CENTERVILLE MA           563    7:26  447   39:39  430   30:14 1:17:19
+  457  27/81   F3034      417   LISA LIVENS               32 F BOSTON MA                533    7:16  441   39:34  447   30:30 1:17:20
+  458  26/63   F3539      907   LINDA SHOTTES BOUCHARD    36 F NEWBURY MA               493    7:01  415   39:03  495   31:18 1:17:22
+  459  43/89   F2529      238 A DENISE SALTOJANES         27 F GREENLAND NH             274    6:09  263   35:55  656   35:19 1:17:23
+  460   2/9    F4549      838 A JACKIE MCDONOUGH          49 F E SANDWICH MA            308    6:18  492   40:28  455   30:39 1:17:25
+  461  88/118  M3034      449 F PAULO GONCALVES           33 M CAMBRIDGE MA             162    5:34  543   41:28  444   30:27 1:17:29
+  462  62/84   M3539      685   TIM WALSH                 39 M MARSHFIELD MA            359    6:28  455   39:54  488   31:09 1:17:31
+  463  44/89   F2529      264 F KARINA FUNK               29 F CAMBRIDGE MA             428    6:46  457   39:56  468   30:50 1:17:32
+  464  28/81   F3034      332 F KATIE SNIPER              30 F NEWTON MA                467    6:56  501   40:39  415   29:57 1:17:32
+  465  89/118  M3034      397 C GERARD BURKE              32 M CANTON MA                304    6:17  372   37:58  583   33:26 1:17:41
+  466  38/54   M4044      729 F TIM WOOD                  41 M ACTON MA                  95    5:11  381   38:11  619   34:19 1:17:41
+  467  74/97   M2529      131 F JEFFREY MCMAHON           25 M BOSTON MA                195    5:40  307   36:43  657   35:19 1:17:42
+  468  45/89   F2529      111   BRENDA CROCE              26 F WORCESTER MA             425    6:45  517   41:00  416   29:58 1:17:43
+  469  46/89   F2529      145 F CHRISTY WARISH            26 F TAUNTON MA               571    7:28  536   41:23  334   28:53 1:17:44
+  470  63/84   M3539      607 F BOB MACK                  37 M NEWTON MA                514    7:09  470   40:05  448   30:30 1:17:44
+  471  29/81   F3034      420   LAURI MCBURNEY            32 F BROOKLINE MA             327    6:21  568   42:07  359   29:17 1:17:45
+  472  75/97   M2529      229 F SAMIT PATEL               28 M PORTSMOUTH NH            257    6:03  503   40:41  487   31:07 1:17:51
+  473  22/32   M4549      821 C ANDY LEVINE               48 M CAMBRIDGE MA             363    6:29  397   38:41  558   32:41 1:17:51
+  474  14/19   M5054      837 C FRANK HOELL               50 M DUNBARTON NH             497    7:03  374   38:04  563   32:56 1:18:03
+  475  30/81   F3034      304 F KELLEY COSTIN             30 F WATERTOWN MA             629    7:52  510   40:48  373   29:29 1:18:09
+  476  13/22   F2024       56 F DESIREE POLYAK            23 F AMHERST MA               445    6:49  550   41:38  392   29:42 1:18:09
+  477  76/97   M2529       85 F MARK CAHILL               25 M RANDOLPH MA              706    8:40  495   40:34  342   28:59 1:18:13
+  478  31/81   F3034      409   GERALDINE GRIFFIN         32 F BEVERLY MA               611    7:44  494   40:33  412   29:56 1:18:13
+  479  14/22   F2024       46 F ADRIA SMITH               22 F BOSTON MA                634    7:54  638   44:36  147   25:44 1:18:14
+  480  15/19   M5054      849 C BEN LOSORDO               51 M E SANDWICH MA            285    6:12  315   36:50  653   35:15 1:18:17
+  481  90/118  M3034      431 F MICHAEL SARTWELL          31 M CLAREMONT NH             707    8:40  456   39:55  394   29:43 1:18:18
+  482  39/54   M4044      757 C FRED DILIDDO              43 M HOLDEN MA                275    6:09  386   38:18  603   33:53 1:18:20
+  483  47/89   F2529      257   DEANNA CONTE              29 F BOSTON MA                140    5:28  629   44:19  311   28:34 1:18:21
+  484  27/63   F3539      684   MARTHA SHAW               39 F HARTFORD CT              258    6:04  424   39:15  569   33:03 1:18:22
+  485  64/84   M3539      584   MIKE WANDS                36 M NEEDHAM MA               602    7:40  387   38:18  546   32:25 1:18:23
+  486  77/97   M2529      179   CHRIS OLSEN               27 M BRIGHTON MA              645    7:58  420   39:11  492   31:15 1:18:24
+  487  48/89   F2529      102   SARAH STURGES             25 F BRIGHTON MA              690    8:22  451   39:43  406   29:51 1:18:26    0:30
+  488   1/2    F1015       25   KAITLYN ELLIS             13 F NANTUCKET MA             198    5:41  526   41:10  504   31:36 1:18:27
+  489   9/24   F4044      737 A MARY DUFFY                42 F MARSHFIELD MA            237    5:56  554   41:49  462   30:46 1:18:31
+  490  65/84   M3539      602 F THOMAS KEANEY             37 M DORCHESTER MA            635    7:54  573   42:20  302   28:21 1:18:35
+  491  91/118  M3034      464 F WILLIAM SANTORO           33 M LOCUST VALLEY NY         692    8:23  500   40:37  386   29:37 1:18:37
+  492  28/63   F3539      545   KIMBERLY SOLLOWS          35 F W BARNSTABLE MA          564    7:26  466   40:02  490   31:12 1:18:40
+  493  32/81   F3034      453 A RENEE MAXWELL             33 F LONDONDERRY NH           460    6:54  459   39:57  516   31:51 1:18:42
+  494  15/22   F2024       76 F CAITLIN OCONNOR           24 F MEDFORD MA               636    7:54  577   42:37  295   28:15 1:18:46
+  495  29/63   F3539      556   ROBIN DAVIES              35 F LEXINGTON MA             309    6:18  578   42:39  404   29:50 1:18:47
+  496  33/81   F3034      457 A LISA MOORE                32 F PHILLIPSTON MA           434    6:47  442   39:35  550   32:34 1:18:56
+  497  66/84   M3539      546 F STEPHEN SPIELBERG         35 M WINCHESTER MA            515    7:09  416   39:03  559   32:45 1:18:57
+  498   1/1    M1015       26 F BRIAN HOWAN               13 M PLYMOUTH MA              314    6:19  621   44:04  312   28:34 1:18:57
+  499  49/89   F2529      181 F TAMMY PERRY               26 F S BOSTON MA              685    8:20  406   38:53  511   31:45 1:18:58
+  500  30/63   F3539      670   CATHERINE LEGAN           39 F CAMBRIDGE MA             589    7:34  496   40:34  473   30:54 1:19:02
+  501  78/97   M2529       91 F MARK HILSTAD              25 M CAMBRIDGE MA             416    6:43  544   41:28  470   30:52 1:19:03
+  502  67/84   M3539      599   PETER FUREY               37 M FALMOUTH MA              344    6:24  487   40:23  540   32:20 1:19:07
+  503  68/84   M3539      622 F MICHAEL SWIFT             38 M E SANDWICH MA            721    8:53  440   39:33  459   30:42 1:19:08
+  504  31/63   F3539      547 F ROBIN TICE                35 F BELMONT MA               586    7:33  453   39:44  519   31:53 1:19:10
+  505  16/18   M2024       51   JAMES CURRY               23 M SOMERVILLE MA            488    7:00  369   37:54  621   34:22 1:19:16
+  506  17/18   M2024       43   ERIC PADUA                22 M CINCINNATI OH            163    5:34  460   39:57  599   33:46 1:19:17
+  507  50/89   F2529      133   VANESSA PIGMANS           25 F NEW YORK NY              305    6:17  486   40:22  553   32:38 1:19:17
+  508  40/54   M4044      749 F DEREK MORRIS              42 M WESTON MA                141    5:28  514   40:53  565   32:58 1:19:19
+  509  32/63   F3539      643   ANNE KELLY                38 F ANDOVER MA               590    7:34  431   39:23  544   32:23 1:19:20
+  510  33/63   F3539      551 F LINDA BROWN               36 F SANDOWN NH               665    8:08  481   40:14  478   31:00 1:19:22
+  511   1/2    M6569      882   BRAD LEONARD              67 M COPPER MOUNTAIN CO       612    7:44  348   37:25  622   34:22 1:19:31
+  512   2/5    M6064      878   MICHAEL LADD              61 M DANVERS MA               516    7:09  425   39:16  572   33:07 1:19:32
+  513  51/89   F2529      228   DALE PARRY                28 F QUINCY MA                429    6:46  589   43:06  393   29:42 1:19:34
+  514  10/24   F4044      768 A MARTHA YULES              44 F N ATTLEBORO MA           617    7:46  437   39:31  539   32:19 1:19:36
+  515  92/118  M3034      346 F MIKE DAGATA               31 M BRISTOL CT               731    9:10  592   43:10  230   27:18 1:19:38
+  516   3/3    M1617       29   CHRISTOPHER OCALLAGHAN    17 M CAMBRIDGE MA             441    6:48  521   41:02  512   31:49 1:19:39
+  517  18/18   M2024       79 F DAVID TIBBETS             24 M EVERETT MA               498    7:03  678   46:34  170   26:10 1:19:47
+  518  34/63   F3539      638   ANNE HABIBY               38 F BELMONT MA               461    6:54  299   36:36  677   36:21 1:19:51
+  519   3/9    F4549      808   BARBARA GROSS             45 F WELLESLEY MA             295    6:15  569   42:09  499   31:28 1:19:52
+  520  69/84   M3539      608 C FREDERICK MANLEY          37 M STRATHAM NH              618    7:46  409   38:55  576   33:12 1:19:53
+  521  34/81   F3034      442 F STEPHANIE BURKE           33 F ARLINGTON MA             686    8:20  635   44:34  209   27:00 1:19:54
+  522  35/63   F3539      604   TONI LANIER               37 F DANVERS MA               412    6:42  362   37:47  661   35:25 1:19:54
+  523  35/81   F3034      515   BRENDA SMITH              34 F SALEM MA                 524    7:13  413   38:59  596   33:45 1:19:57
+  524  16/22   F2024       68   HONORA ENGLANDER          24 F WORCESTER MA             393    6:37  584   43:02  435   30:21 1:20:00
+  525  52/89   F2529       97   SUZANNE SCHULER           25 F HANOVER MA                58    4:50  553   41:45  584   33:26 1:20:01
+  526  36/81   F3034      347   MOIRA CONNOLLY            30 F WALTHAM MA               473    6:57  653   45:12  274   27:57 1:20:06
+  527  37/81   F3034      333 F LORI-ANN SUMNER           30 F FRAMINGHAM MA            418    6:44  463   40:00  582   33:25 1:20:09
+  528   4/4    M1819       36   CHRISTOPHER RINK          18 M REDDING CT                33    4:40  414   39:02  680   36:32 1:20:14
+  529  11/24   F4044      726 F JENNIFER SEMENTELLI       41 F NEWTON MA                646    7:58  539   41:25  469   30:51 1:20:14
+  530  38/81   F3034      470 F ANNE ARMSTRONG            34 F BYFIELD MA               403    6:39  399   38:43  639   34:53 1:20:15
+  531  39/81   F3034      373 F DIANE PARRY               31 F QUINCY MA                426    6:45  608   43:41  405   29:50 1:20:16
+  532  41/54   M4044      776   BRUCE INDEK               44 M COHASSET MA              542    7:20  452   39:43  579   33:17 1:20:20
+  533  79/97   M2529      265   EDWARD GALANTE            29 M BRIGHTON MA              399    6:38  513   40:51  560   32:51 1:20:20
+  534  36/63   F3539      711 F TERRY OBRIEN              39 F SANDWICH MA              661    8:06  519   41:01  498   31:27 1:20:34
+  535   3/5    M6064      880 F MICHAEL VAIL              62 M LOWELL MA                540    7:18  604   43:34  403   29:49 1:20:41
+  536  37/63   F3539      583   MARY WALTERS              36 F BOSTON MA                735    9:24  556   41:56  364   29:22 1:20:42
+  537  80/97   M2529      122   BEN HARROWER              26 M ARLINGTON MA             381    6:34  339   37:16  685   36:56 1:20:46
+  538  40/81   F3034      353   JESSICA GOBLE             31 F LEXINGTON MA             527    7:14  392   38:29  647   35:07 1:20:50
+  539  53/89   F2529      135   AMY RICHARD               26 F NORWOOD MA               147    5:30  523   41:09  623   34:23 1:21:02
+  540  23/32   M4549      832   JOHN SCORZA               49 M DUXBURY MA               593    7:35  541   41:27  525   32:03 1:21:05
+  541  81/97   M2529      158   MARK DRISCOLL             27 M WEYMOUTH MA              556    7:24  552   41:44  524   32:01 1:21:09
+  542  82/97   M2529      278 F CRAIG MAIDRAND            29 M PORTSMOUTH NH            705    8:37  502   40:39  526   32:04 1:21:20
+  543  38/63   F3539      570 F DEBBY MONK                36 F NASHUA NH                549    7:22  582   42:53  482   31:05 1:21:20
+  544  54/89   F2529      563 F LYNNE KIRKUTIS            26 F W HARTFORD CT            417    6:43  564   42:02  552   32:36 1:21:21
+  545  41/81   F3034      401 F CARIN DEHNE               32 F NEW YORK NY              505    7:07  630   44:19  417   29:58 1:21:24
+  546  55/89   F2529      169   MEGAN KELLY               27 F WALTHAM MA               596    7:37  628   44:16  379   29:32 1:21:25
+  547  17/22   F2024       47 A ERIN STEVENS              22 F ITHACA NY                479    6:59  515   40:56  589   33:35 1:21:30
+  548  70/84   M3539      566   HO LEE                    36 M TROY NY                  249    6:01  474   40:09  658   35:20 1:21:30
+  549  56/89   F2529      288   LISA SACCETTI             29 F BROOKLINE MA             364    6:29  475   40:09  640   34:53 1:21:31
+  550  39/63   F3539      637 A ELLEN GUTERMUTH           38 F CENTERVILLE MA           435    6:47  473   40:08  631   34:37 1:21:32
+  551  12/24   F4044      784   BARBARA WELSH             43 F PLYMOUTH MA              375    6:32  561   41:59  570   33:03 1:21:34
+  552  42/81   F3034      388 F JENNIFER YOUNG            31 F WABAN MA                 419    6:44  688   46:53  287   28:04 1:21:41
+  553  42/54   M4044      686   JOHN BIRD                 40 M MARSHFIELD MA            382    6:34  534   41:18  607   33:56 1:21:48
+  554  93/118  M3034      357   ROBERT JACKSON            31 M ROSLINDALE MA            622    7:48  467   40:02  608   34:01 1:21:51
+  555  71/84   M3539      586   NICK BARILE               37 M OLD GREENWICH CT         352    6:26  585   43:02  545   32:23 1:21:51
+  556  43/54   M4044      741 C JOHN HENDY                42 M E SANDWICH MA            502    7:05  421   39:14  645   35:03 1:21:52    0:30
+  557  44/54   M4044      704 C KEN LOSORDO               40 M E FALMOUTH MA            350    6:25  537   41:24  613   34:06 1:21:55
+  558  45/54   M4044      721 F ROBERT NANGLE             40 M MARSHFIELD MA            371    6:31  610   43:45  508   31:40 1:21:56
+  559  57/89   F2529      138 F EMMA SCHENKER             26 F CAMBRIDGE MA             562    7:25  482   40:15  620   34:20 1:22:00
+  560  46/54   M4044      718 F CHRIS LOSORDO             40 M TEATICKET MA             669    8:12  644   44:52  340   28:58 1:22:02
+  561  40/63   F3539      571 F DEBBIE MURPHY             36 F NEEDHAM MA               656    8:04  618   44:02  413   29:56 1:22:02
+  562  47/54   M4044      717 F MICHAEL HAYES             40 M PEABODY MA               599    7:39  579   42:46  509   31:40 1:22:05
+  563  24/32   M4549      807   JACK FULLER               45 M HARRINGTON PARK NJ       288    6:13  642   44:50  481   31:03 1:22:06
+  564  25/32   M4549      833 F DAN SULLIVAN              48 M ATTLEBORO MA             545    7:21  614   43:53  474   30:54 1:22:08
+  565  43/81   F3034      467   KATHY STETSON             32 F WELLFLEET MA             462    6:54  583   43:01  541   32:20 1:22:15
+  566  58/89   F2529       99 A REBECCA SNOVER            25 F HOBOKEN NJ               315    6:19  619   44:02  521   31:55 1:22:16
+  567  83/97   M2529      272 C BRIAN KELLIHER            29 M ROCKLAND MA              605    7:42  641   44:48  409   29:52 1:22:22
+  568  72/84   M3539      631 F DOUG CHING                38 M NEWTON MA                709    8:42  432   39:23  618   34:17 1:22:22
+  569   1/1    F6064      877   MARTHA EDWARDS            61 F W YARMOUTH MA            698    8:30  565   42:02  517   31:51 1:22:23
+  570   3/5    F5054      858   NANCY HAYS                53 F MEDFORD MA               546    7:21  393   38:31  681   36:33 1:22:25
+  571  41/63   F3539      656 F PATTI TRAVERS             38 F N DIGHTON MA             624    7:49  506   40:44  604   33:53 1:22:26
+  572  26/32   M4549      834   RONALD WINNER             49 M HYANNIS MA               640    7:56  606   43:37  472   30:53 1:22:26
+  573  44/81   F3034      443 A KRISTINE CHERBONNEAU      33 F DERRY NH                 547    7:21  591   43:09  523   32:00 1:22:30
+  574  94/118  M3034      381 C PATRICK SULLIVAN          31 M UXBRIDGE MA              480    6:59  497   40:35  642   35:00 1:22:34
+  575  84/97   M2529      261 F DAN DEMEO                 29 M NEWTON MA                623    7:48  586   43:03  510   31:43 1:22:34
+  576  45/81   F3034      481 F JEANINE DEVITO            33 F QUINCY MA                702    8:34  545   41:30  554   32:38 1:22:42
+  577  59/89   F2529      154 F ERIN CRONIN               26 F BROOKLINE MA             186    5:39  593   43:10  609   34:01 1:22:50
+  578  13/24   F4044      720 F SUE MILLER                40 F OAK BLUFFS MA            689    8:21  600   43:25  483   31:05 1:22:51
+  579  60/89   F2529      140 A HANNAH SMALLTREE          26 F NORTHAMPTON NH           436    6:47  532   41:17  636   34:48 1:22:52
+  580  73/84   M3539      559   BILL FAY                  36 M SHREWSBURY MA            204    5:43  542   41:27  666   35:43 1:22:53
+  581  85/97   M2529      188 F CHRISTOPHER WAGNER        27 M ALLSTON MA               557    7:24  562   42:00  587   33:33 1:22:57
+  582  61/89   F2529      107 F MEGAN BROWN               26 F WATERTOWN MA             463    6:54  607   43:38  547   32:28 1:23:00
+  583  74/84   M3539      611 F STEVE MURRAY              37 M MILTON MA                762   15:08  376   38:08  397   29:46 1:23:02
+  584  46/81   F3034      341   PAM BRADY                 31 F JAMAICA PLAIN MA         217    5:50  580   42:49  624   34:25 1:23:04
+  585  95/118  M3034      303 C TODD CONKLIN              30 M BOSTON MA                296    6:15  477   40:10  682   36:41 1:23:06
+  586  47/81   F3034      478 F CHERYL CRUMB              34 F DERRY NH                 641    7:57  566   42:03  575   33:10 1:23:10
+  587  75/84   M3539      593 F JAMES CONKLIN             37 M CAMBRIDGE MA             164    5:34  540   41:25  676   36:14 1:23:13
+  588  76/84   M3539      619 F TODD SOUZA                37 M SANDWICH MA              372    6:31  625   44:14  551   32:34 1:23:19
+  589  96/118  M3034      512 F STEVEN RUSSO              34 M BRIDGEWATER MA           500    7:04  595   43:13  573   33:07 1:23:24
+  590  77/84   M3539      667 C ROBERT HINTER             38 M BRIDGEWATER MA           750   10:53  435   39:30  568   33:01 1:23:24
+  591  97/118  M3034      374   MICHAEL PARTRIDGE         31 M AUBURNDALE MA            647    7:58  599   43:22  529   32:07 1:23:27
+  592  48/81   F3034      446 A LISSA DIETRICH            33 F COTUIT MA                565    7:26  563   42:01  610   34:01 1:23:28
+  593  98/118  M3034      413   RICH KIDD                 32 M N EASTON MA              662    8:06  664   45:57  372   29:27 1:23:30
+  594  42/63   F3539      668 F MARY KILEY                39 F PLYMOUTH MA              316    6:19  567   42:04  648   35:07 1:23:30
+  595   2/2    F1015       27 F KARA MINNEHAN             15 F NEWTON MA                165    5:34  590   43:08  637   34:51 1:23:33
+  596   3/3    F1819       38   VANESSA FREEMAN           19 F CENTERVILLE MA           437    6:47  603   43:30  580   33:18 1:23:35
+  597  99/118  M3034      463 F PAUL REARDON              32 M MARSTONS MILLS MA        413    6:42  679   46:34  436   30:21 1:23:37
+  598   4/9    F4549      816   DIANE PETIPAS             47 F GILFORD CT               252    6:02  687   46:50  464   30:49 1:23:41
+  599  86/97   M2529      294 F KEN SULLIVAN              29 M E GREENWICH RI           537    7:17  557   41:56  628   34:32 1:23:45
+  600  62/89   F2529      226 A JILL ORT                  28 F WATERTOWN MA             506    7:07  434   39:25  688   37:14 1:23:46
+  601 100/118  M3034      392   CHRISTOPHER BAILEY        32 M BOSTON MA                683    8:19  617   44:00  502   31:33 1:23:52
+  602  63/89   F2529      163   ROSEMARIE FUREY           27 F MEDFORD MA               606    7:42  535   41:19  638   34:52 1:23:53
+  603  49/81   F3034      317 F JULIE KIANG               30 F SOMERVILLE MA            474    6:57  668   46:02  477   30:57 1:23:56
+  604   2/2    M6569      881   OMER GALARNEAU            66 M CUMBERLAND RI            710    8:42  468   40:03  651   35:14 1:23:59
+  605  64/89   F2529       98 F HELENA SHEPHER            25 F BOSTON MA                619    7:46  609   43:43  555   32:38 1:24:07
+  606  50/81   F3034      354   NANCY GRAVELINE           31 F S BOSTON MA              714    8:45  551   41:43  593   33:39 1:24:07
+  607 101/118  M3034      400 C MATTHEW CROWLEY           32 M LEXINGTON MA             267    6:07  448   39:40  703   38:23 1:24:10
+  608  65/89   F2529      136 F KATIE ROHDE               26 F HOBOKEN NJ               446    6:49  596   43:15  614   34:09 1:24:13
+  609  51/81   F3034      414 F JAMIE KING                32 F DORCHESTER MA            676    8:16  685   46:45  355   29:14 1:24:15
+  610  66/89   F2529      241 F JILL STETTNER             27 F SALEM MA                 550    7:22  615   43:56  566   32:58 1:24:16
+  611  43/63   F3539      677 A LAURA NODDIN              39 F NORTHAMPTON MA           328    6:21  488   40:24  691   37:31 1:24:16
+  612  78/84   M3539      613 F COOPER NOONE              36 M BOSTON MA                687    8:20  528   41:14  635   34:47 1:24:21
+  613   4/5    F5054      856   SUSAN FALSEY              52 F COPPER MOUNTAIN CO       652    8:02  640   44:45  503   31:34 1:24:21
+  614 102/118  M3034      490   JOHN JOYCE                34 M S BOSTON MA              489    7:00  652   45:11  534   32:12 1:24:23
+  615 103/118  M3034      352 F JONATHAN FINEGOLD         30 M BOSTON MA                684    8:19  507   40:44  659   35:21 1:24:24
+  616  52/81   F3034      438 F MICHELLE ACKER            32 F BROOKLINE MA             670    8:12  524   41:09  646   35:05 1:24:26
+  617  48/54   M4044      690   CHRISTOPHER COLLINS       40 M ATTLEBORO MA             649    8:00  675   46:20  426   30:08 1:24:28
+  618  67/89   F2529      237 F CHRISTINE ROSS            28 F QUINCY MA                594    7:35  594   43:11  601   33:50 1:24:36
+  619  53/81   F3034      396   KRISTIN BISHOP            31 F PROVIDENCE RI            677    8:16  645   44:54  500   31:28 1:24:38
+  620  18/22   F2024       82 F JESSICA ARONSON           24 F SOMERVILLE MA            387    6:36  626   44:14  605   33:53 1:24:43
+  621  14/24   F4044      715   PAT FULLER                41 F HARRINGTON PARK NJ       494    7:01  634   44:32  581   33:22 1:24:55
+  622   6/8    M5559      868   JIM KING                  58 M BRAINTREE MA             317    6:19  616   43:56  633   34:42 1:24:57
+  623  87/97   M2529      117 F PAUL FREY                 26 M WORCESTER MA             566    7:26  602   43:27  612   34:05 1:24:58
+  624  44/63   F3539      576 A PATRICIA PRUDEN-LENNOX    37 F MEDWAY MA                694    8:25  489   40:26  675   36:13 1:25:04
+  625   5/9    F4549      785 F CONNIE WRIGHT             45 F WESTON MA                699    8:30  666   46:00  458   30:41 1:25:11
+  626  54/81   F3034      465   SHARON SEABURY            33 F WAKEFIELD MA             713    8:44  706   48:13  301   28:20 1:25:17
+  627  79/84   M3539      671   ROBERT LONADIER           39 M CAMBRIDGE MA             534    7:16  636   44:34  590   33:36 1:25:26
+  628  68/89   F2529      252 A AMY BUSHNELL              28 F N SCITUATE MA            528    7:14  623   44:07  615   34:10 1:25:31
+  629  55/81   F3034      454   ERIN MILLER               33 F BOSTON MA                724    8:58  660   45:29  491   31:12 1:25:39
+  630  80/84   M3539      601 F ANDREW HARRINGTON         37 M PLYMOUTH MA              716    8:46  669   46:06  465   30:49 1:25:41
+  631  45/63   F3539      655   KATIE SCOTT               38 F WOBURN MA                630    7:52  476   40:09  697   37:41 1:25:42
+  632 104/118  M3034      462 C GERARD POLICE             33 M S EASTON MA              481    6:59  525   41:09  693   37:34 1:25:42
+  633  69/89   F2529      191   CAROL ADAMS               28 F AUBURN IN                503    7:05  682   46:37  527   32:04 1:25:46
+  634  15/24   F4044      688 F JACKIE BROWNE             40 F SANDWICH MA              650    8:00  631   44:20  588   33:33 1:25:53
+  635  70/89   F2529       90   CHRISTINA HERMOS          25 F WORCESTER MA             739    9:32  570   42:14  616   34:10 1:25:56
+  636 105/118  M3034      358 F THOMAS JOHNSON            31 M BOSTON MA                631    7:52  683   46:42  496   31:23 1:25:57
+  637  49/54   M4044      754   KEN WEISSMAN              42 M E ORLEANS MA             587    7:33  581   42:52  664   35:34 1:25:59
+  638  88/97   M2529      205 F PRABAL CHAKRABARTI        27 M CAMBRIDGE MA             746   10:19  710   48:26  228   27:16 1:26:01
+  639  46/63   F3539      528 F MARY HOLMES               35 F NORTON MA                657    8:04  698   47:35  443   30:25 1:26:04
+  640  56/81   F3034      411   STEPHANIE HERSON          32 F CAMBRIDGE MA             688    8:20  576   42:32  652   35:14 1:26:06
+  641  81/84   M3539      549 F JAY BAKER                 36 M SHARON MA                719    8:49  471   40:05  689   37:16 1:26:10
+  642  71/89   F2529      150   AMY ANDERSON              26 F WILLIMANTIC CT           351    6:25  612   43:48  669   35:57 1:26:10
+  643  47/63   F3539      615 F SARAH PAGE                37 F WATERTOWN MA             310    6:18  611   43:46  672   36:08 1:26:12
+  644  27/32   M4549      802 F GARY CUNNINGHAM           46 M WEYMOUTH MA              638    7:55  649   45:04  577   33:14 1:26:13
+  645  72/89   F2529      263   ELIZABETH FRUTIGER        29 F WORCESTER MA             607    7:42  643   44:50  597   33:45 1:26:17
+  646  73/89   F2529      193 A GRACE BACON               28 F BOSTON MA                518    7:10  572   42:16  684   36:51 1:26:17
+  647 106/118  M3034      430 F MARK SAN CLEMENTE         31 M BEDFORD MA               672    8:14  587   43:04  643   35:02 1:26:20
+  648 107/118  M3034      410 C MARK HANSEN               32 M MANSFIELD MA             673    8:14  588   43:05  644   35:02 1:26:21
+  649   5/5    F5054      852   ANNE PELLETIER            51 F SALEM MA                 680    8:18  637   44:34  585   33:29 1:26:21
+  650  57/81   F3034      323 F GWYNNE MCQUILKIN          30 F CAMBRIDGE MA             464    6:54  716   48:57  450   30:32 1:26:23
+  651  48/63   F3539      543   FIONA RICE                35 F SAUGUS MA                625    7:49  547   41:31  686   37:11 1:26:31
+  652  49/63   F3539      628 F JODI BLOCK                38 F NEEDHAM MA               658    8:04  620   44:03  625   34:26 1:26:33
+  653  82/84   M3539      557 F DAVID EPSTEIN             36 M S NATICK MA              276    6:09  686   46:45  595   33:43 1:26:37
+  654 108/118  M3034      320 F MICHAEL MAHER             30 M WALTHAM MA               394    6:37  732   50:54  352   29:12 1:26:43
+  655  89/97   M2529      221 F JAMES MCCLOSKEY           28 M CHARLESTOWN MA           329    6:21  723   49:37  471   30:52 1:26:50
+  656 109/118  M3034      500   CHRIS MILLER              34 M BOSTON MA                727    9:02  659   45:26  557   32:40 1:27:08
+  657  28/32   M4549      810 C ROBERT MARINI             46 M BOSTON MA                749   10:45  546   41:30  650   35:13 1:27:28
+  658  50/63   F3539      523 F RACHEL EATON              35 F CHARLESTOWN MA           340    6:23  689   46:56  626   34:26 1:27:45
+  659  74/89   F2529      192 F VALERIE BACHERT           28 F E WAREHAM MA             695    8:26  699   47:42  506   31:39 1:27:47
+  660   1/3    M7099      884   RICHARD ROBICHAUD         72 M BURLINGTON MA            321    6:20  533   41:17  714   40:20 1:27:57
+  661  16/24   F4044      694   KATHLEEN DOYLE            40 F MILTON MA                604    7:41  696   47:22  571   33:05 1:28:08
+  662  75/89   F2529      120   KATE GRETSKY              26 F METHUEN MA               482    6:59  632   44:27  683   36:44 1:28:10
+  663   6/9    F4549      823 F NANCY OBRIEN-MCKINNON     48 F WOBURN MA                341    6:23  627   44:15  696   37:38 1:28:16
+  664 110/118  M3034      340 C FRANK BOWEN               31 M BROOKLINE MA             725    8:59  728   50:03  356   29:15 1:28:17
+  665 111/118  M3034      326 F NATHANIEL PETERSON        30 M CAMBRIDGE MA             712    8:43  676   46:22  578   33:14 1:28:19
+  666  17/24   F4044      756   CATHLEEN DAMBROSIO        43 F TROY NY                  451    6:51  597   43:15  700   38:14 1:28:20
+  667   7/9    F4549      801   LAURIE BURR               45 F ROCHESTER NH             741    9:43  680   46:35  528   32:05 1:28:23
+  668 112/118  M3034      371 C CHRISTOPHER ORPEN         30 M BRIGHTON MA              232    5:55  695   47:18  649   35:11 1:28:24
+  669  76/89   F2529      244 F CHRISTINA VENO            28 F MELROSE MA                                         662   35:25 1:28:25
+  670  50/54   M4044      773 C MIKE FLYNN                44 M MELROSE MA               600    7:39  639   44:41  671   36:06 1:28:26
+  671  77/89   F2529      217 F CORY LIEBERGOTT           28 F NEWTON MA                420    6:44  673   46:15  663   35:28 1:28:27
+  672  90/97   M2529      106   TONY BENJAMIN             25 M CHARLESTOWN MA           330    6:21  520   41:01  719   41:07 1:28:29
+  673  58/81   F3034      459   JULIE MULKERRIN           33 F S BOSTON MA              421    6:44  661   45:50  668   35:56 1:28:30
+  674  59/81   F3034      517   ELIZABETH WEILAND         33 F BRIGHTON MA              532    7:15  605   43:35  698   37:41 1:28:31
+  675  19/22   F2024       65 F MARY REGINA BORKOWSKI     24 F SOMERVILLE MA            734    9:19  717   49:09  425   30:07 1:28:35
+  676  51/63   F3539      572   NORINE OMALLEY            36 F W ROXBURY MA             653    8:02  633   44:28  670   36:05 1:28:35
+  677  60/81   F3034      473 F CLAIRE CETTI              34 F SANTA BARBARA CA         529    7:14  729   50:16  485   31:06 1:28:36
+  678  91/97   M2529      270 F CURT HUNNEWELL            29 M SUDBURY MA               700    8:33  708   48:16  515   31:50 1:28:39
+  679   2/4    F5559      867   PEGGY WEGMAN              57 F NEWTON MA                666    8:08  574   42:24  701   38:16 1:28:48
+  680  61/81   F3034      452   MEREDITH MANGAN           33 F SOMERVILLE MA            535    7:16  658   45:25  673   36:08 1:28:49
+  681  62/81   F3034      496 F MONICA MANNING            34 F S BOSTON MA              711    8:42  703   48:01  536   32:14 1:28:57
+  682  63/81   F3034      309   DEMI DEMIRTAS             30 F PLYMOUTH MA              558    7:24  622   44:05  692   37:31 1:29:00
+  683   7/8    M5559      911   PAUL GRAHAM               58 M NORTH ATTLEBORO MA       668    8:10  427   39:18  726   41:37 1:29:05
+  684  52/63   F3539      672 F SARAH MANNING             38 F OSTERVILLE MA            620    7:46  697   47:24  611   34:02 1:29:12
+  685  51/54   M4044      732 C CHRISTOPHER BRENNER       42 M W DENNIS MA              438    6:47  681   46:36  674   36:08 1:29:31
+  686  92/97   M2529      331 F CHRISTOPHER SHEA          29 M SOMERVILLE MA            407    6:40  498   40:35  730   42:19 1:29:34
+  687  20/22   F2024      159 F EMILY EAGAR               22 F QUINCY MA                758   11:56  650   45:06  549   32:33 1:29:35
+  688 113/118  M3034      415 F JOSEPH KING               32 M DORCHESTER MA            728    9:02  667   46:01  632   34:41 1:29:44
+  689  18/24   F4044      752   DONNALEE SHAIN            42 F MILFORD MA               626    7:49  712   48:30  586   33:30 1:29:49
+  690  19/24   F4044      738 F MARCIA DUGGAN             42 F SANDWICH MA              378    6:33  700   47:53  665   35:36 1:30:02
+  691  21/22   F2024       64 A ELIZABETH BLAKE           24 F JAMAICA PLAIN MA         365    6:29  665   45:59  694   37:36 1:30:04
+  692   4/5    M6064      875   JIM NICHOLS               60 M YARMOUTHPORT MA          667    8:08  522   41:03  717   40:56 1:30:07
+  693   8/8    M5559      863   BOB SOMMA                 56 M NEWBURY MA               300    6:16  548   41:32  734   42:37 1:30:25
+  694 114/118  M3034      350 C ROBERT DOHERTY            30 M DORCHESTER MA            722    8:53  702   47:54  574   33:09 1:30:26    0:30
+  695 115/118  M3034      502 F KEVIN MURPHY              34 M MILTON MA                597    7:37  744   53:17  385   29:35 1:30:29
+  696  14/14   ELITEM       9   ROBERT BRAUNEWELL         34 M DORCHESTER MA            765   19:29  400   38:43  542   32:20 1:30:32
+  697  78/89   F2529      293 F ANNEMIEKE STONEROCK       29 F NEWTON MA                704    8:36  709   48:18  594   33:39 1:30:33
+  698  64/81   F3034      451 F HEATHER MACKESY           33 F LONDONDERRY NH           572    7:28  707   48:14  641   34:56 1:30:38
+  699  65/81   F3034      321 F TRACY MCCORMACK           30 F HOLBROOK MA              747   10:27  559   41:58  708   38:51 1:31:16
+  700  79/89   F2529      233 F CHRISTINE RATCHES         28 F MANOMET MA               478    6:58  662   45:55  704   38:28 1:31:21
+  701  52/54   M4044      709 F STEVE MCGUNNIGAL          40 M NORWELL MA               732    9:11  648   45:02  690   37:16 1:31:29
+  702  66/81   F3034      488   WYLIE GRIFFIN             33 F MALIBU CA                543    7:20  693   47:08  687   37:11 1:31:39
+  703 116/118  M3034      386   JEFFREY TITLEY            31 M SOMERVILLE MA            238    5:56  711   48:28  699   37:49 1:32:13
+  704  80/89   F2529       93 F KIMBERLY MOULTON          25 F SOMERVILLE MA            755   11:28  704   48:05  561   32:52 1:32:25
+  705  67/81   F3034      315 F KELLY JARR                30 F MANSFIELD MA             496    7:02  718   49:10  678   36:27 1:32:39
+  706  53/63   F3539      648 A AMY LIPMAN-WHITE          37 F QUINCY MA                538    7:17  624   44:13  721   41:13 1:32:43
+  707  54/63   F3539      649 F SUSAN MANNING             38 F S BOSTON MA              573    7:28  733   50:56  627   34:30 1:32:54
+  708  16/19   M5054      850 F BILL MONCEVICZ            52 M BROCKTON MA              733    9:15  598   43:15  715   40:25 1:32:55
+  709  22/22   F2024       75 F NATASHA MURPHY            24 F S BOSTON MA              717    8:47  722   49:36  634   34:45 1:33:08
+  710  55/63   F3539      592   PAULA COLANTUONI          36 F STONEHAM MA              567    7:26  731   50:33  654   35:15 1:33:14
+  711  81/89   F2529      128   JILL KULBOK               25 F NORWOOD MA               574    7:28  690   46:56  705   38:31 1:33:25    0:30
+  712  82/89   F2529       95 F DEBRA RAGER               25 F CAMBRIDGE MA             322    6:20  720   49:18  709   38:53 1:34:31
+  713  68/81   F3034      336   ANNA ADACHI-MEJIA         30 F LEBANON NH               651    8:01  654   45:13  722   41:17 1:34:31
+  714  17/19   M5054      846 C JOHN CURTIS               52 M COTUIT MA                280    6:11  670   46:07  731   42:19 1:34:37
+  715  83/84   M3539      683 F BERT SAVERIANO            39 M WATERTOWN MA             764   16:26  735   51:11  219   27:08 1:34:45
+  716  20/24   F4044      712   KIRSTEN TUOHY             40 F NEWTON MA                293    6:14  692   47:06  724   41:29 1:34:49
+  717  69/81   F3034      322 F JILL MCDONOUGH            30 F HINGHAM MA               468    6:56  714   48:45  711   39:28 1:35:09
+  718  21/24   F4044      724 F ELIZABETH PETERSON        40 F BOSTON MA                757   11:38                           1:35:19
+  719   2/3    M7099      885   JOE BOLGER                76 M BOXFORD MA               718    8:48  655   45:14  723   41:21 1:35:23
+  720  56/63   F3539      705 F SUSAN LOVE                39 F MILTON MA                761   13:28  684   46:43  655   35:18 1:35:29
+  721  93/97   M2529      245 F JOHN VERNER               27 M STONEHAM MA              701    8:33  713   48:32  706   38:32 1:35:37
+  722   8/9    F4549      820 F MARY KNEELAND             48 F DERRY NH                 751   11:01  727   50:01  630   34:36 1:35:38
+  723  22/24   F4044      687 F JANE BOWLER               40 F HINGHAM MA               678    8:16  694   47:15  712   40:08 1:35:39
+  724  18/19   M5054      854 F PETER BENZIE              53 M WELLESLEY MA             483    6:59  671   46:09  733   42:32 1:35:40
+  725  29/32   M4549      817 F THOMAS PETIPAS            47 M GILFORD NH               637    7:54  724   49:40  707   38:39 1:36:13
+  726 117/118  M3034      344 F FRANK CAPARROTTA          31 M DORCHESTER MA            744    9:55  705   48:12  702   38:17 1:36:24
+  727  84/84   M3539      702   CLARK HAYES               39 M N EASTON MA              583    7:32  647   45:00  741   44:12 1:36:44
+  728  70/81   F3034      509 F MARTHA PUFFER             34 F S BOSTON MA              628    7:50  691   46:59  732   42:19 1:37:08
+  729  83/89   F2529      134 F JOY PRESCOTT              26 F ACTON MA                 447    6:50  657   45:24  745   45:02 1:37:16
+  730  71/81   F3034      378 F TRACEY RICHARDS           30 F S BOSTON MA              681    8:18  730   50:19  710   38:56 1:37:33
+  731  72/81   F3034      476 A AMY COSKIE                34 F LEXINGTON MA             745    9:56  656   45:18  735   42:42 1:37:56
+  732  30/32   M4549      797 C RICHARD TAVARES           45 M SANDWICH MA              738    9:31  742   52:18  667   35:49 1:38:08    0:30
+  733  73/81   F3034      477 F CORI CRERAN               34 F BOSTON MA                679    8:16  677   46:32  736   43:20 1:38:08
+  734  94/97   M2529      201 F DARREN BURKETT            28 M BRIDGEWATER MA           655    8:03  748   54:53  660   35:22 1:38:18
+  735  57/63   F3539      564 A NORA LANGAN               35 F FRAMINGHAM MA            696    8:28  663   45:55  740   44:06 1:38:29
+  736  19/19   M5054      848 F DENNIS JANUARY            52 M MARSHFIELD MA            723    8:54  740   52:03  695   37:36 1:38:33
+  737  95/97   M2529      199 C AARON BRAUN               28 M JAMAICA PLAIN MA         404    6:39  490   40:27  756   51:28 1:38:34
+  738  74/81   F3034      518 F KAREN BALDESCHWIELER      34 F CAMBRIDGE MA             726    9:00  674   46:16  738   43:52 1:39:08
+  739  58/63   F3539      618 F JULIANE SOPRANO           36 F FALMOUTH MA              569    7:27  739   51:51  713   40:09 1:39:27
+  740  75/81   F3034      367 F NANCY MCIVER              31 F QUINCY MA                729    9:03  719   49:16  725   41:36 1:39:55
+  741  76/81   F3034      325 F DARLENE PARRY             30 F QUINCY MA                682    8:18  734   50:57  716   40:41 1:39:56
+  742  59/63   F3539      606 F MICHELLE LYDON            36 F QUINCY MA                598    7:38  715   48:50  737   43:30 1:39:58
+  743  77/81   F3034      466 F DONNA SHEA                32 F QUINCY MA                703    8:34  725   49:42  729   41:51 1:40:07
+  744   3/4    F5559      866   SUSAN REGAN               56 F NEWTON MA                642    7:57  646   44:59  750   47:35 1:40:31
+  745  60/63   F3539      641 F MARY JOHNSON              38 F HINGHAM MA               663    8:06  738   51:44  718   41:04 1:40:54
+  746  61/63   F3539      605   LAURA LUZINSKI            36 F CENTERVILLE MA           737    9:26  726   49:46  728   41:43 1:40:55
+  747  31/32   M4549      811 C FRED MCDERMOTT            45 M BROCKTON MA              643    7:57  701   47:53  746   45:05 1:40:55
+  748  23/24   F4044      742 F ANNE HERBST               41 F ROSLINDALE MA            484    6:59  672   46:13  752   48:07 1:41:19
+  749  96/97   M2529      267 C MICHAEL GREALISH          29 M PHILADELPHIA PA          759   11:58  651   45:09  744   45:01 1:42:08
+  750  84/89   F2529      209 A BETH FLAHERTY             28 F EDGARTOWN MA             671    8:13  743   52:32  727   41:42 1:42:27
+  751  85/89   F2529      170 F KATHERINE KING            27 F DORCHESTER MA            748   10:42  737   51:37  720   41:09 1:43:28
+  752  78/81   F3034      445 F MARIA DEMEO               33 F FALMOUTH MA              466    6:55  721   49:23  754   48:47 1:45:05
+  753   3/3    M7099      883   JOSEPH SHEA               70 M SAGAMORE BEACH MA        730    9:05  736   51:15  748   45:51 1:46:11
+  754  86/89   F2529      161 F ERICA EMMONS              27 F REGO PARK NY             720    8:49  754 1:05:12  617   34:13 1:48:14
+  755  87/89   F2529      182 F JENNIFER RAZZECA          27 F NEWTON MA                742    9:45  746   54:37  742   44:44 1:49:06
+  756   5/5    M6064      876   JIM BRESCIA               60 M READING MA               740    9:40  750   56:40  739   43:53 1:50:13
+  757  62/63   F3539      675   ANNE MUNSON               39 F NEWBURYPORT MA           736    9:25  749   55:55  747   45:08 1:50:28
+  758  79/81   F3034      472 F LISA BROWNE               34 F HINGHAM MA               753   11:05  741   52:07  749   47:32 1:50:44
+  759   4/4    F5559      862 F GAIL WHITEHOUSE           55 F PLYMOUTH MA              756   11:37  747   54:39  751   47:52 1:54:08
+  760  80/81   F3034      525 F KARA GUINEE               34 F DORCHESTER MA            763   15:46  745   54:17  743   44:57 1:55:00
+  761  88/89   F2529      282 F JENNIFER MORRISON         29 F CHESTNUT HILL MA         708    8:41  751   57:03  757   52:21 1:58:05
+  762  89/89   F2529      319 F MARY ANNE LANGAN          29 F N MASSAPEQUA NY          659    8:04  753 1:01:52  753   48:38 1:58:34
+  763  53/54   M4044      739 F TONY GARCIA               42 M BRAINTREE MA             760   13:05  752   58:59  755   49:34 2:01:38
+  764  81/81   F3034      418   STEPHANIE MADIGAN         32 F WINDHAM NH               373    6:31  296   36:33
+  765  54/54   M4044      723 C JOHN PEACOCK              41 M OSTERVILLE MA              8    4:18   69   31:15
+  766  63/63   F3539      548 A SHARON VANDOLMAN          35 F NEEDHAM MA                91    5:09  613   43:50
+  767  97/97   M2529      119   ERIC GRANAT               25 M NATICK MA                218    5:50
+  768 118/118  M3034      412   JEFF JOHNSON              32 M WAKEFIELD RI             395    6:37
+  769   9/9    F4549      813   DIANE WOLSIEFFER          46 F OSTERVILLE MA            613    7:44
+  770  24/24   F4044      780 A PHYLLIS SMITH             43 F MT VERNON NY             743    9:53
+  771  32/32   M4549      828 F JACK DELANEY              49 M HYANNISPORT MA           754   11:19
