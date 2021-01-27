@@ -13,7 +13,7 @@ We randomly chose to group these categories based on past/recent Tempo(ish) resu
 
 Rules:
 
-- You name shows up if you have done at least **2** Tempo(ish) Thursday rides.
+- Your name shows up if you have done at least **2** Tempo(ish) Thursday rides.
 - Cat1 - your two race best average is below **10.30**
 - Cat2 - your two race best average is between **10.30 and 11.00**
 - Cat3 - averge above **11.0**
