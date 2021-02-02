@@ -1,9 +1,9 @@
 ---
-title: Thrill on Libbery Hill
+title: Thrill on Libberry Hill
 nav: true
 ---
 
-I found my thrill, on Libbery Hill.
+I found my thrill, on Libberry Hill.
 
 **Yes**, starting to lose my marbles a bit, but all is good. If the
 life of a blogger was easy, everyone would be doing it...
