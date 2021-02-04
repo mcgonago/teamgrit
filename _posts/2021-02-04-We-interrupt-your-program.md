@@ -3,6 +3,15 @@ title: We interrupt your program
 nav: true
 ---
 
+**`CHIME IN!!!`**
+
+Log into Zwift Forums and add your two cents to:
+
+[**Zwift Forum**](https://forums.zwift.com)
+
+[**Sharing results with Friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276)
+
+
 **`A bit of good, and bad news.`**
 
 **Bad** - GRIT point series needs to find a different home.
