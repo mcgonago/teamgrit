@@ -8,6 +8,10 @@ nav: true
 Word from Zwift - and I quote *"For as long as one's privacy is not
 violated, you can go ahead with your idea"*
 
+Semi-official link is [**Sharing results with friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276 "Sharing with friends at Zwift forum")
+
+Will update blog if/when that changes.
+
 Ok - **privacy** - what does that mean?
 
 Could mean many things, but the top *2* would be:
@@ -20,11 +24,7 @@ Could mean many things, but the top *2* would be:
 
 Ok, that was *5*
 
-Semi-official link is [**Sharing results with friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276 "Sharing with friends at Zwift forum")
-
-Will update blog if/when that changes.
-
-Got to get working to get todays results pushed up.
+Working as I type to get todays results pushed up.
 
 Today was [*Grit - Mountain Route*](https://zwiftpower.com/events.php?zid=1652166 "link to ZwiftPower")
 
