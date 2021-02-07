@@ -10,7 +10,7 @@ nav: true
 Reminding word from Zwift - and I quote *"For as long as one's privacy is not
 violated, you can go ahead with your idea"*
 
-Semi-official link is [**Sharing results with friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276/8 "Sharing with friends at Zwift forum")
+Semi-official link is [**Sharing results with friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276/9 "Sharing with friends at Zwift forum")
 
 **`The good`**
 - **MGCC** hosting another great ride
