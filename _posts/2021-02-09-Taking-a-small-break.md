@@ -8,7 +8,7 @@ violated, you can go ahead with your idea"*
 
 And, a few recent updates to our **Zwift Forum** Semi-official link:
 
-[**Sharing results with friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276/8 "Sharing with friends at Zwift forum")
+[**Sharing results with friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276/9 "Sharing with friends at Zwift forum")
 
 There still is a very fine line with respect to anyone doing a
 cut/paste of results - be it from Zwift and/or Strava - in terms of
@@ -23,7 +23,7 @@ to enjoy the virutal world.*
 If it is of interest to you, feel free to visit the link below, share
 some of your thoughts, give a **vote**
 
-[**Sharing results with friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276/8 "Sharing with friends at Zwift forum")
+[**Sharing results with friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276/9 "Sharing with friends at Zwift forum")
 
 **`Supposedly, the more a post gathers visits/votes, the more Zwift and
 Co. will take a look.`**
