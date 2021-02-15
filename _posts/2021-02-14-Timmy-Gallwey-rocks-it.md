@@ -3,6 +3,8 @@ title: TG rocks it
 nav: true
 ---
 
+[**Sharing results with friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276/12 "Sharing with friends at Zwift forum")
+
 
 | # | name          | team   | Libby | 23rd | Broad Sprint | Tester | Winning Move | Governor St Climb |
 |---+---------------+--------+-------+------+--------------+--------+--------------+-------------------|
