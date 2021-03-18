@@ -20,5 +20,5 @@ Please take no offense - I saw a **Porky Pig** in there, **Egghead**... it was r
 **REMEMBER** you need to participate in at least **2** of the Tue/Thu/Fri rides
 to be eligible for entry into the **GRIT point series**.
 
-[**Sharing results with friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276/17 "Sharing with friends at Zwift forum")
+[**Sharing results with friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276/18 "Sharing with friends at Zwift forum")
 
