@@ -7,5 +7,5 @@ nav: true
 
 **First** Tuesday of each month starts another weekly **GRIT Points Series**
 
-[**Sharing results with friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276/16 "Sharing with friends at Zwift forum")
+[**Sharing results with friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276/20 "Sharing with friends at Zwift forum")
 
