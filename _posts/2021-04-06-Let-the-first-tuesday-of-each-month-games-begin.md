@@ -28,4 +28,4 @@ Each day results will be posted on the **ZwiftPower** forum
 **30% better than Bjarne** may only be 10% better at this time <br>
 **McFartonator** will be stinking up things before you know it
 
-[**Sharing results with friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276/21 "Sharing with friends at Zwift forum")
+[**Sharing results with friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276/22 "Sharing with friends at Zwift forum")
