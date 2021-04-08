@@ -14,4 +14,4 @@ The Sprinters were out in force this morning.
 
 Tomorrow is **Innsburck** for last day of series.
 
-[**Sharing results with friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276/23 "Sharing with friends at Zwift forum")
+[**Sharing results with friends**](https://forums.zwift.com/t/sharing-results-with-friends/534276/24 "Sharing with friends at Zwift forum")
